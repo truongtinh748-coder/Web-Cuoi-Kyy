@@ -1,0 +1,6 @@
+# Ẩn dữ liệu cấu hình và session chạy thực tế
+data/results.json
+data/active_sessions.json
+
+# Giữ lại cấu trúc thư mục data nhưng trống
+!data/
