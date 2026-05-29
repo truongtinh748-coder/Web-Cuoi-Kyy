@@ -1,0 +1,30 @@
+[
+    {
+        "user": "admin",
+        "pass": "admin123",
+        "fullname": "Tổng Quản Trị",
+        "email": "admin@gmail.com",
+        "role": "admin"
+    },
+    {
+        "user": "student123",
+        "pass": "123456",
+        "role": "student",
+        "email": "truongtinh748@gmail.com",
+        "fullname": "Tỉnh"
+    },
+    {
+        "user": "1111111111",
+        "pass": "234567",
+        "role": "student",
+        "email": "truongtinh748@gmail.com",
+        "fullname": "Tỉnh"
+    },
+    {
+        "user": "4444444444",
+        "pass": "123456",
+        "role": "student",
+        "email": "truongtinh748@gmail.com",
+        "fullname": "Tỉnhhh"
+    }
+]
