@@ -3,6 +3,18 @@ if (session_status() == PHP_SESSION_NONE) {
     session_start(); 
 }
 
+// 🎯 BỔ SUNG KHÔI PHỤC BẢO MẬT: Nếu hệ thống XAMPP tự xóa Session do treo máy lâu, tự động khôi phục từ Cookie sao lưu
+if (!isset($_SESSION['username']) && isset($_COOKIE['student_backup_login'])) {
+    $backup = json_decode($_COOKIE['student_backup_login'], true);
+    if (is_array($backup) && isset($backup['username']) && $backup['role'] === 'student') {
+        $_SESSION['username'] = $backup['username'];
+        $_SESSION['role'] = 'student';
+        $_SESSION['fullname'] = $backup['fullname'];
+        $_SESSION['email'] = $backup['email'];
+        $_SESSION['user_logged'] = $backup['username'];
+    }
+}
+
 // CHỐT CHẶN BẢO MẬT: Nếu chưa đăng nhập hoặc không phải sinh viên thì trả về trang đăng nhập
 if (!isset($_SESSION['username']) || $_SESSION['role'] !== 'student') {
     header("Location: login.php"); 
@@ -47,6 +59,22 @@ if (empty($student_name)) {
 }
 if (empty($student_email)) {
     $student_email = "Chưa liên kết Gmail";
+}
+
+// 🎯 BỔ SUNG GHI NHỚ: Tạo/Cập nhật Cookie dự phòng thời hạn 7 ngày sau khi đã xác định đủ thông tin sĩ tử
+$cookie_data = [
+    'username' => $student_id,
+    'role' => 'student',
+    'fullname' => $student_name,
+    'email' => $student_email
+];
+setcookie('student_backup_login', json_encode($cookie_data, JSON_UNESCAPED_UNICODE), time() + 604800, "/");
+
+// 🎯 BỔ SUNG SELF-PING: Xử lý phản hồi lệnh duy trì kết nối trực tiếp vào file này (Không cần file ping.php riêng lẻ)
+if (isset($_GET['action']) && $_GET['action'] === 'ping') {
+    header('Content-Type: application/json');
+    echo json_encode(['status' => 'success']);
+    exit();
 }
 
 // DANH SÁCH 6 MÔN THI ĐỒNG BỘ MÃ CHUẨN ĐỂ ĐỌC FILE JSON
@@ -207,7 +235,7 @@ $subjects = [
             <span style="font-size: 24px;">🎓</span>
             <a href="#" class="logo-text">Hệ Thống Khảo Thí Trực Tuyến</a>
         </div>
-        <a href="logout.php" class="btn-logout">Đăng Xuất</a>
+        <a href="logout.php" class="btn-logout" onclick="document.cookie = 'student_backup_login=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;';">Đăng Xuất</a>
     </div>
 
     <div class="main-container">
@@ -282,5 +310,19 @@ $subjects = [
         </div>
 
     </div>
+
+    <script>
+        setInterval(function() {
+            // Ping trực tiếp vào chính trang này kèm tham số ẩn để kích hoạt PHP gia hạn session liên tục khi tab mở
+            fetch('student_dashboard.php?action=ping')
+            .then(response => response.json())
+            .then(data => {
+                console.log("Hệ thống duy trì kết nối thành công.");
+            })
+            .catch(error => {
+                console.error("Tab đang bị trình duyệt đóng băng hoặc mất kết nối tạm thời.");
+            });
+        }, 60000); // Tần suất 1 phút/lần
+    </script>
 </body>
 </html>

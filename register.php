@@ -103,10 +103,6 @@ unset($_SESSION['register_success']);
                 <p style="text-align: center; font-size: 13px; color: #64748b; margin-top: 20px;">
                     Đã có tài khoản rồi? <a href="login.php" style="color: #0ea5e9; text-decoration: none; font-weight: 600;">Quay lại Đăng nhập</a>
                 </p>
-
-                <div class="brand-footer">
-                    <span>CORE DEV</span> POWERED BY NGUYÊN HỘI
-                </div>
             </div>
         </div>
     </div>

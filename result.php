@@ -1,5 +1,11 @@
 <?php
-include_once 'config/config.php';
+// Tự động kiểm tra và sửa đường dẫn file cấu hình để tránh lỗi Warning bôi bẩn giao diện
+if (file_exists('config/connect.php')) {
+    include_once 'config/connect.php';
+} elseif (file_exists('config/config.php')) {
+    include_once 'config/config.php';
+}
+
 if (session_status() == PHP_SESSION_NONE) { session_start(); }
 
 if (!isset($_SESSION['username'])) { 
@@ -34,8 +40,25 @@ if (file_exists($activeSessionsFile)) {
     <link rel="stylesheet" href="assets/css/main.css">
     <style>
         * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Segoe UI', system-ui, sans-serif; }
-        body { background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%); min-height: 100vh; display: flex; justify-content: center; align-items: center; color: #334155; }
-        .result-container { background: white; padding: 40px; border-radius: 16px; box-shadow: 0 20px 25px -5px rgba(0,0,0,0.3); text-align: center; max-width: 450px; width: 90%; }
+        body { 
+            background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%); 
+            min-height: 100vh; 
+            display: flex; 
+            justify-content: center; 
+            align-items: center; 
+            color: #334155; 
+            overflow-x: hidden;
+        }
+        .result-container { 
+            background: white; 
+            padding: 40px; 
+            border-radius: 16px; 
+            box-shadow: 0 20px 25px -5px rgba(0,0,0,0.3); 
+            text-align: center; 
+            max-width: 450px; 
+            width: 90%; 
+            z-index: 10;
+        }
         .brand { font-size: 13px; text-transform: uppercase; letter-spacing: 1px; font-weight: 700; color: #64748b; margin-bottom: 10px; }
         .brand span { color: #0284c7; }
         h2 { font-size: 22px; color: #1e293b; font-weight: 800; margin-bottom: 20px; }
@@ -51,7 +74,7 @@ if (file_exists($activeSessionsFile)) {
     <div class="result-container">
         <div class="brand">CORE DEV POWERED BY <span>NGUYÊN HỘI</span></div>
         <h2>HOÀN THÀNH KIỂM TRA 🎉</h2>
-        <div class="score-box"><?php echo $score; ?></div>
+        <div class="score-box"><?php echo htmlspecialchars($score); ?></div>
         <div class="details">
             <p>Thí sinh làm bài: <strong><?php echo htmlspecialchars($_SESSION['username']); ?></strong></p>
             <p>Môn hoàn thành: <strong><?php echo htmlspecialchars($sub_name); ?></strong></p>

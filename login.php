@@ -95,7 +95,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['action_type']) && $_PO
             header("Location: admin_dashboard.php"); // Admin vào bảng điều khiển tối cao
             exit();
         } elseif ($user_role === 'teacher') {
-            header("Location: admin.php"); // Giáo viên vào cổng upload đề riêng
+            header("Location: teacher_dashboard.php"); // ✅ CẬP NHẬT: Giáo viên rẽ nhánh sang dashboard riêng biệt
             exit();
         }
         $auth_error = "";
@@ -366,8 +366,7 @@ if (!isset($active_tab)) {
                         <label>Vai trò mong muốn</label>
                         <select name="new_role" class="form-control" style="cursor: pointer;">
                             <option value="student">Học Sinh / Thí Sinh</option>
-                            <option value="admin">Giáo Viên</option>
-                        </select>
+                            <option value="teacher">Giáo Viên</option> </select>
                     </div>
                     <button type="submit" class="btn-submit">Hoàn Tất Đăng Ký</button>
                 </form>
