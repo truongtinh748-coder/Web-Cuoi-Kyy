@@ -9,7 +9,8 @@
         "B": "Vô cùng",
         "C": "Không xác định",
         "D": "0",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "easy"
     },
     {
         "subjectId": "toan",
@@ -21,7 +22,8 @@
         "B": "0",
         "C": "Vô cùng",
         "D": "Không tồn tại",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "toan",
@@ -33,7 +35,8 @@
         "B": "2",
         "C": "0.5",
         "D": "0",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "easy"
     },
     {
         "subjectId": "toan",
@@ -45,7 +48,8 @@
         "B": "-cos(x)",
         "C": "sin(x)",
         "D": "-sin(x)",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "medium"
     },
     {
         "subjectId": "toan",
@@ -57,7 +61,8 @@
         "B": "A là ma trận không",
         "C": "det(A) # 0",
         "D": "A là ma trận hàng",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "hard"
     },
     {
         "subjectId": "toan",
@@ -69,7 +74,8 @@
         "B": "1\/x^2",
         "C": "1\/x",
         "D": "ln(x)",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "medium"
     },
     {
         "subjectId": "toan",
@@ -81,7 +87,8 @@
         "B": "2",
         "C": "x^2 + C",
         "D": "x",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "medium"
     },
     {
         "subjectId": "toan",
@@ -93,7 +100,8 @@
         "B": "y = 1",
         "C": "x = 0",
         "D": "Không có",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "medium"
     },
     {
         "subjectId": "toan",
@@ -105,7 +113,8 @@
         "B": "Tiến ra vô cùng hoặc không tồn tại",
         "C": "Là một số thực",
         "D": "Bằng 1",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "medium"
     },
     {
         "subjectId": "toan",
@@ -117,7 +126,8 @@
         "B": "e^x",
         "C": "ln(x)",
         "D": "1\/x",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "medium"
     },
     {
         "subjectId": "toan",
@@ -129,7 +139,8 @@
         "B": "Ma trận vuông",
         "C": "Ma trận đường chéo",
         "D": "Ma trận không",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "toan",
@@ -141,7 +152,8 @@
         "B": "Ma trận nghịch đảo",
         "C": "Ma trận đối xứng",
         "D": "Ma trận suy biến",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "easy"
     },
     {
         "subjectId": "toan",
@@ -153,7 +165,8 @@
         "B": "ad - bc",
         "C": "ac - bd",
         "D": "ad + bc",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "easy"
     },
     {
         "subjectId": "toan",
@@ -165,7 +178,8 @@
         "B": "3",
         "C": "0",
         "D": "9",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "easy"
     },
     {
         "subjectId": "toan",
@@ -177,7 +191,8 @@
         "B": "5",
         "C": "4",
         "D": "7",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "medium"
     },
     {
         "subjectId": "toan",
@@ -189,7 +204,8 @@
         "B": "1",
         "C": "0",
         "D": "3",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "hard"
     },
     {
         "subjectId": "toan",
@@ -201,7 +217,8 @@
         "B": "Tích có hướng bằng 0",
         "C": "Cùng phương",
         "D": "Độ dài bằng nhau",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "toan",
@@ -213,7 +230,8 @@
         "B": "Không liên tục",
         "C": "Đa thức",
         "D": "Tuần hoàn",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "hard"
     },
     {
         "subjectId": "toan",
@@ -225,7 +243,8 @@
         "B": "y = x^2",
         "C": "y = 1\/x",
         "D": "y = x^3 + x",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "hard"
     },
     {
         "subjectId": "toan",
@@ -237,7 +256,8 @@
         "B": "Chỉ có nghiệm tầm thường (bằng 0)",
         "C": "Hai nghiệm phân biệt",
         "D": "Vô nghiệm",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "medium"
     },
     {
         "subjectId": "toan",
@@ -249,7 +269,8 @@
         "B": "Các số 1",
         "C": "Các phần tử trên đường chéo chính",
         "D": "Các phần tử dòng 1",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "easy"
     },
     {
         "subjectId": "toan",
@@ -261,7 +282,8 @@
         "B": "2",
         "C": "3",
         "D": "4",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "easy"
     },
     {
         "subjectId": "toan",
@@ -273,7 +295,8 @@
         "B": "(0,1)",
         "C": "(1,0)",
         "D": "(0,0)",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "easy"
     },
     {
         "subjectId": "toan",
@@ -285,7 +308,8 @@
         "B": "Tiến ra vô cùng hoặc không tồn tại",
         "C": "Là một số thực",
         "D": "Bằng 1",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "medium"
     },
     {
         "subjectId": "toan",
@@ -297,7 +321,8 @@
         "B": "Ma trận nghịch đảo",
         "C": "Ma trận đối xứng",
         "D": "Ma trận suy biến",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "easy"
     },
     {
         "subjectId": "toan",
@@ -309,7 +334,8 @@
         "B": "y = x^2",
         "C": "y = 1\/x",
         "D": "y = x^3 + x",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "easy"
     },
     {
         "subjectId": "toan",
@@ -321,7 +347,8 @@
         "B": "5",
         "C": "4",
         "D": "7",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "medium"
     },
     {
         "subjectId": "toan",
@@ -333,7 +360,8 @@
         "B": "0",
         "C": "Vô cùng",
         "D": "Không tồn tại",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "hard"
     },
     {
         "subjectId": "toan",
@@ -345,7 +373,8 @@
         "B": "ad - bc",
         "C": "ac - bd",
         "D": "ad + bc",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "easy"
     },
     {
         "subjectId": "toan",
@@ -357,7 +386,8 @@
         "B": "Các số 1",
         "C": "Các phần tử trên đường chéo chính",
         "D": "Các phần tử dòng 1",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "medium"
     },
     {
         "subjectId": "toan",
@@ -369,7 +399,8 @@
         "B": "(0,1)",
         "C": "(1,0)",
         "D": "(0,0)",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "easy"
     },
     {
         "subjectId": "toan",
@@ -381,7 +412,8 @@
         "B": "Tích có hướng bằng 0",
         "C": "Cùng phương",
         "D": "Độ dài bằng nhau",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "hard"
     },
     {
         "subjectId": "toan",
@@ -393,7 +425,8 @@
         "B": "r(A) = r(A|B) = số ẩn",
         "C": "r(A) # r(A|B)",
         "D": "det(A) # 0",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "toan",
@@ -405,7 +438,8 @@
         "B": "2",
         "C": "0.5",
         "D": "0",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "easy"
     },
     {
         "subjectId": "toan",
@@ -417,7 +451,8 @@
         "B": "e^x",
         "C": "ln(x)",
         "D": "1\/x",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "medium"
     },
     {
         "subjectId": "toan",
@@ -429,7 +464,8 @@
         "B": "Không liên tục",
         "C": "Đa thức",
         "D": "Tuần hoàn",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "hard"
     },
     {
         "subjectId": "toan",
@@ -441,7 +477,8 @@
         "B": "-cos(x)",
         "C": "sin(x)",
         "D": "-sin(x)",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "easy"
     },
     {
         "subjectId": "toan",
@@ -453,7 +490,8 @@
         "B": "Chỉ có nghiệm tầm thường (bằng 0)",
         "C": "Hai nghiệm phân biệt",
         "D": "Vô nghiệm",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "medium"
     },
     {
         "subjectId": "toan",
@@ -465,7 +503,8 @@
         "B": "2",
         "C": "3",
         "D": "4",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "easy"
     },
     {
         "subjectId": "toan",
@@ -477,7 +516,8 @@
         "B": "2",
         "C": "x^2 + C",
         "D": "x",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "hard"
     },
     {
         "subjectId": "toan",
@@ -489,7 +529,8 @@
         "B": "y = 1",
         "C": "x = 0",
         "D": "Không có",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "hard"
     },
     {
         "subjectId": "toan",
@@ -501,7 +542,8 @@
         "B": "1",
         "C": "0",
         "D": "3",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "toan",
@@ -513,7 +555,8 @@
         "B": "1\/x^2",
         "C": "1\/x",
         "D": "ln(x)",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "hard"
     },
     {
         "subjectId": "toan",
@@ -525,7 +568,8 @@
         "B": "3",
         "C": "0",
         "D": "9",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "easy"
     },
     {
         "subjectId": "toan",
@@ -537,7 +581,8 @@
         "B": "A là ma trận không",
         "C": "det(A) # 0",
         "D": "A là ma trận hàng",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "hard"
     },
     {
         "subjectId": "toan",
@@ -549,7 +594,8 @@
         "B": "Ma trận vuông",
         "C": "Ma trận đường chéo",
         "D": "Ma trận không",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "medium"
     },
     {
         "subjectId": "toan",
@@ -561,7 +607,8 @@
         "B": "Vô cùng",
         "C": "Không xác định",
         "D": "0",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "easy"
     },
     {
         "subjectId": "toan",
@@ -573,7 +620,8 @@
         "B": "y = 1",
         "C": "x = 0",
         "D": "Không có",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "hard"
     },
     {
         "subjectId": "toan",
@@ -585,7 +633,8 @@
         "B": "Các số 1",
         "C": "Các phần tử trên đường chéo chính",
         "D": "Các phần tử dòng 1",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "easy"
     },
     {
         "subjectId": "toan",
@@ -597,7 +646,8 @@
         "B": "ad - bc",
         "C": "ac - bd",
         "D": "ad + bc",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "easy"
     },
     {
         "subjectId": "toan",
@@ -609,7 +659,8 @@
         "B": "2",
         "C": "x^2 + C",
         "D": "x",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "medium"
     },
     {
         "subjectId": "toan",
@@ -621,7 +672,8 @@
         "B": "Chỉ có nghiệm tầm thường (bằng 0)",
         "C": "Hai nghiệm phân biệt",
         "D": "Vô nghiệm",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "easy"
     },
     {
         "subjectId": "toan",
@@ -633,7 +685,8 @@
         "B": "1",
         "C": "0",
         "D": "3",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "hard"
     },
     {
         "subjectId": "toan",
@@ -645,7 +698,8 @@
         "B": "Không liên tục",
         "C": "Đa thức",
         "D": "Tuần hoàn",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "hard"
     },
     {
         "subjectId": "toan",
@@ -657,7 +711,8 @@
         "B": "Vô cùng",
         "C": "Không xác định",
         "D": "0",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "medium"
     },
     {
         "subjectId": "toan",
@@ -669,7 +724,8 @@
         "B": "0",
         "C": "Vô cùng",
         "D": "Không tồn tại",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "hard"
     },
     {
         "subjectId": "toan",
@@ -681,7 +737,8 @@
         "B": "1\/x^2",
         "C": "1\/x",
         "D": "ln(x)",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "easy"
     },
     {
         "subjectId": "toan",
@@ -693,7 +750,8 @@
         "B": "3",
         "C": "0",
         "D": "9",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "easy"
     },
     {
         "subjectId": "toan",
@@ -705,7 +763,8 @@
         "B": "5",
         "C": "4",
         "D": "7",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "easy"
     },
     {
         "subjectId": "toan",
@@ -717,7 +776,8 @@
         "B": "Tiến ra vô cùng hoặc không tồn tại",
         "C": "Là một số thực",
         "D": "Bằng 1",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "medium"
     },
     {
         "subjectId": "toan",
@@ -729,7 +789,8 @@
         "B": "Ma trận vuông",
         "C": "Ma trận đường chéo",
         "D": "Ma trận không",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "medium"
     },
     {
         "subjectId": "toan",
@@ -741,7 +802,8 @@
         "B": "Ma trận nghịch đảo",
         "C": "Ma trận đối xứng",
         "D": "Ma trận suy biến",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "easy"
     },
     {
         "subjectId": "toan",
@@ -753,7 +815,8 @@
         "B": "A là ma trận không",
         "C": "det(A) # 0",
         "D": "A là ma trận hàng",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "hard"
     },
     {
         "subjectId": "toan",
@@ -765,7 +828,8 @@
         "B": "2",
         "C": "3",
         "D": "4",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "easy"
     },
     {
         "subjectId": "toan",
@@ -777,7 +841,8 @@
         "B": "r(A) = r(A|B) = số ẩn",
         "C": "r(A) # r(A|B)",
         "D": "det(A) # 0",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "hard"
     },
     {
         "subjectId": "toan",
@@ -789,7 +854,8 @@
         "B": "y = x^2",
         "C": "y = 1\/x",
         "D": "y = x^3 + x",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "hard"
     },
     {
         "subjectId": "toan",
@@ -801,7 +867,8 @@
         "B": "e^x",
         "C": "ln(x)",
         "D": "1\/x",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "medium"
     },
     {
         "subjectId": "toan",
@@ -813,7 +880,8 @@
         "B": "(0,1)",
         "C": "(1,0)",
         "D": "(0,0)",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "easy"
     },
     {
         "subjectId": "toan",
@@ -825,7 +893,8 @@
         "B": "Tích có hướng bằng 0",
         "C": "Cùng phương",
         "D": "Độ dài bằng nhau",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "medium"
     },
     {
         "subjectId": "toan",
@@ -837,7 +906,8 @@
         "B": "-cos(x)",
         "C": "sin(x)",
         "D": "-sin(x)",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "hard"
     },
     {
         "subjectId": "toan",
@@ -849,7 +919,8 @@
         "B": "2",
         "C": "0.5",
         "D": "0",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "medium"
     },
     {
         "subjectId": "toan",
@@ -861,7 +932,8 @@
         "B": "Tích có hướng bằng 0",
         "C": "Cùng phương",
         "D": "Độ dài bằng nhau",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "toan",
@@ -873,7 +945,8 @@
         "B": "3",
         "C": "0",
         "D": "9",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "easy"
     },
     {
         "subjectId": "toan",
@@ -885,7 +958,8 @@
         "B": "Không liên tục",
         "C": "Đa thức",
         "D": "Tuần hoàn",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "medium"
     },
     {
         "subjectId": "toan",
@@ -897,7 +971,8 @@
         "B": "2",
         "C": "3",
         "D": "4",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "easy"
     },
     {
         "subjectId": "toan",
@@ -909,7 +984,8 @@
         "B": "r(A) = r(A|B) = số ẩn",
         "C": "r(A) # r(A|B)",
         "D": "det(A) # 0",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "hard"
     },
     {
         "subjectId": "toan",
@@ -921,7 +997,8 @@
         "B": "(0,1)",
         "C": "(1,0)",
         "D": "(0,0)",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "easy"
     },
     {
         "subjectId": "toan",
@@ -933,7 +1010,8 @@
         "B": "e^x",
         "C": "ln(x)",
         "D": "1\/x",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "easy"
     },
     {
         "subjectId": "toan",
@@ -945,7 +1023,8 @@
         "B": "y = x^2",
         "C": "y = 1\/x",
         "D": "y = x^3 + x",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "easy"
     },
     {
         "subjectId": "toan",
@@ -957,7 +1036,8 @@
         "B": "5",
         "C": "4",
         "D": "7",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "easy"
     },
     {
         "subjectId": "toan",
@@ -969,7 +1049,8 @@
         "B": "1",
         "C": "0",
         "D": "3",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "toan",
@@ -981,7 +1062,8 @@
         "B": "1\/x^2",
         "C": "1\/x",
         "D": "ln(x)",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "medium"
     },
     {
         "subjectId": "toan",
@@ -993,7 +1075,8 @@
         "B": "0",
         "C": "Vô cùng",
         "D": "Không tồn tại",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "toan",
@@ -1005,7 +1088,8 @@
         "B": "A là ma trận không",
         "C": "det(A) # 0",
         "D": "A là ma trận hàng",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "easy"
     },
     {
         "subjectId": "toan",
@@ -1017,7 +1101,8 @@
         "B": "Các số 1",
         "C": "Các phần tử trên đường chéo chính",
         "D": "Các phần tử dòng 1",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "medium"
     },
     {
         "subjectId": "toan",
@@ -1029,7 +1114,8 @@
         "B": "ad - bc",
         "C": "ac - bd",
         "D": "ad + bc",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "easy"
     },
     {
         "subjectId": "toan",
@@ -1041,7 +1127,8 @@
         "B": "Ma trận nghịch đảo",
         "C": "Ma trận đối xứng",
         "D": "Ma trận suy biến",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "medium"
     },
     {
         "subjectId": "toan",
@@ -1053,7 +1140,8 @@
         "B": "Chỉ có nghiệm tầm thường (bằng 0)",
         "C": "Hai nghiệm phân biệt",
         "D": "Vô nghiệm",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "medium"
     },
     {
         "subjectId": "toan",
@@ -1065,7 +1153,8 @@
         "B": "Vô cùng",
         "C": "Không xác định",
         "D": "0",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "easy"
     },
     {
         "subjectId": "toan",
@@ -1077,7 +1166,8 @@
         "B": "2",
         "C": "x^2 + C",
         "D": "x",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "medium"
     },
     {
         "subjectId": "toan",
@@ -1089,7 +1179,8 @@
         "B": "y = 1",
         "C": "x = 0",
         "D": "Không có",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "toan",
@@ -1101,7 +1192,8 @@
         "B": "-cos(x)",
         "C": "sin(x)",
         "D": "-sin(x)",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "easy"
     },
     {
         "subjectId": "toan",
@@ -1113,7 +1205,8 @@
         "B": "Ma trận vuông",
         "C": "Ma trận đường chéo",
         "D": "Ma trận không",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "medium"
     },
     {
         "subjectId": "toan",
@@ -1125,7 +1218,8 @@
         "B": "2",
         "C": "0.5",
         "D": "0",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "easy"
     },
     {
         "subjectId": "toan",
@@ -1137,7 +1231,8 @@
         "B": "Tiến ra vô cùng hoặc không tồn tại",
         "C": "Là một số thực",
         "D": "Bằng 1",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "medium"
     },
     {
         "subjectId": "php",
@@ -1149,7 +1244,8 @@
         "B": "console.log",
         "C": "response",
         "D": "echo",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "medium"
     },
     {
         "subjectId": "php",
@@ -1161,7 +1257,8 @@
         "B": "$_GET",
         "C": "$_SESSION",
         "D": "$_COOKIE",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "hard"
     },
     {
         "subjectId": "php",
@@ -1173,7 +1270,8 @@
         "B": "@",
         "C": "#",
         "D": "&",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "hard"
     },
     {
         "subjectId": "php",
@@ -1185,7 +1283,8 @@
         "B": "let",
         "C": "static",
         "D": "var",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "php",
@@ -1197,7 +1296,8 @@
         "B": "Chỉ số âm",
         "C": "Chuỗi ký tự tùy biến làm Key",
         "D": "Vectơ định hướng",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "hard"
     },
     {
         "subjectId": "php",
@@ -1209,7 +1309,8 @@
         "B": "php.ini",
         "C": "web.config",
         "D": "php.xml",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "hard"
     },
     {
         "subjectId": "php",
@@ -1221,7 +1322,8 @@
         "B": "explode()",
         "C": "split()",
         "D": "join_array()",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "hard"
     },
     {
         "subjectId": "php",
@@ -1233,7 +1335,8 @@
         "B": "REQUEST",
         "C": "POST",
         "D": "PUT",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "easy"
     },
     {
         "subjectId": "php",
@@ -1245,7 +1348,8 @@
         "B": "session_clear()",
         "C": "session_destroy()",
         "D": "session_close()",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "easy"
     },
     {
         "subjectId": "php",
@@ -1257,7 +1361,8 @@
         "B": "count()",
         "C": "length()",
         "D": "size()",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "php",
@@ -1269,7 +1374,8 @@
         "B": "mysqli_connect()",
         "C": "mysql_connect()",
         "D": "connect_mysqli()",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "easy"
     },
     {
         "subjectId": "php",
@@ -1281,7 +1387,8 @@
         "B": "for",
         "C": "while",
         "D": "do...while",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "medium"
     },
     {
         "subjectId": "php",
@@ -1293,7 +1400,8 @@
         "B": ":",
         "C": ".",
         "D": "]",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "php",
@@ -1305,7 +1413,8 @@
         "B": "base64()",
         "C": "password_hash()",
         "D": "md5()",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "hard"
     },
     {
         "subjectId": "php",
@@ -1317,7 +1426,8 @@
         "B": "isset()",
         "C": "is_null()",
         "D": "check()",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "medium"
     },
     {
         "subjectId": "php",
@@ -1329,7 +1439,8 @@
         "B": "In đậm văn bản",
         "C": "Thay đổi tiêu đề trang",
         "D": "Chuyển hướng trang web",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "hard"
     },
     {
         "subjectId": "php",
@@ -1341,7 +1452,8 @@
         "B": "&",
         "C": "concat",
         "D": ".",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "easy"
     },
     {
         "subjectId": "php",
@@ -1353,7 +1465,8 @@
         "B": "session_open()",
         "C": "session_start()",
         "D": "session_create()",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "easy"
     },
     {
         "subjectId": "php",
@@ -1365,7 +1478,8 @@
         "B": "echo",
         "C": "var_dump()",
         "D": "json_encode()",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "medium"
     },
     {
         "subjectId": "php",
@@ -1377,7 +1491,8 @@
         "B": "Tách một chuỗi thành một mảng",
         "C": "Xóa phần tử mảng",
         "D": "Sắp xếp lại mảng",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "easy"
     },
     {
         "subjectId": "php",
@@ -1389,7 +1504,8 @@
         "B": "switch...case",
         "C": "try...catch",
         "D": "while...do",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "medium"
     },
     {
         "subjectId": "php",
@@ -1401,7 +1517,8 @@
         "B": "count()",
         "C": "sum()",
         "D": "total()",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "hard"
     },
     {
         "subjectId": "php",
@@ -1413,7 +1530,8 @@
         "B": "<script><\/script>",
         "C": "<% %>",
         "D": "<?php >",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "medium"
     },
     {
         "subjectId": "php",
@@ -1425,7 +1543,8 @@
         "B": "Khai báo toán tử số học",
         "C": "Tạo hằng số hệ thống",
         "D": "Tạo một dòng chú thích ghi chú",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "medium"
     },
     {
         "subjectId": "php",
@@ -1437,7 +1556,8 @@
         "B": "count()",
         "C": "length()",
         "D": "size()",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "php",
@@ -1449,7 +1569,8 @@
         "B": "REQUEST",
         "C": "POST",
         "D": "PUT",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "easy"
     },
     {
         "subjectId": "php",
@@ -1461,7 +1582,8 @@
         "B": "Tách một chuỗi thành một mảng",
         "C": "Xóa phần tử mảng",
         "D": "Sắp xếp lại mảng",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "easy"
     },
     {
         "subjectId": "php",
@@ -1473,7 +1595,8 @@
         "B": "In đậm văn bản",
         "C": "Thay đổi tiêu đề trang",
         "D": "Chuyển hướng trang web",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "easy"
     },
     {
         "subjectId": "php",
@@ -1485,7 +1608,8 @@
         "B": "@",
         "C": "#",
         "D": "&",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "php",
@@ -1497,7 +1621,8 @@
         "B": "base64()",
         "C": "password_hash()",
         "D": "md5()",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "easy"
     },
     {
         "subjectId": "php",
@@ -1509,7 +1634,8 @@
         "B": "isset()",
         "C": "is_null()",
         "D": "check()",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "medium"
     },
     {
         "subjectId": "php",
@@ -1521,7 +1647,8 @@
         "B": "session_clear()",
         "C": "session_destroy()",
         "D": "session_close()",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "easy"
     },
     {
         "subjectId": "php",
@@ -1533,7 +1660,8 @@
         "B": "session_open()",
         "C": "session_start()",
         "D": "session_create()",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "hard"
     },
     {
         "subjectId": "php",
@@ -1545,7 +1673,8 @@
         "B": "console.log",
         "C": "response",
         "D": "echo",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "hard"
     },
     {
         "subjectId": "php",
@@ -1557,7 +1686,8 @@
         "B": "count()",
         "C": "sum()",
         "D": "total()",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "medium"
     },
     {
         "subjectId": "php",
@@ -1569,7 +1699,8 @@
         "B": "mysqli_connect()",
         "C": "mysql_connect()",
         "D": "connect_mysqli()",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "medium"
     },
     {
         "subjectId": "php",
@@ -1581,7 +1712,8 @@
         "B": "echo",
         "C": "var_dump()",
         "D": "json_encode()",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "medium"
     },
     {
         "subjectId": "php",
@@ -1593,7 +1725,8 @@
         "B": "Chỉ số âm",
         "C": "Chuỗi ký tự tùy biến làm Key",
         "D": "Vectơ định hướng",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "easy"
     },
     {
         "subjectId": "php",
@@ -1605,7 +1738,8 @@
         "B": "switch...case",
         "C": "try...catch",
         "D": "while...do",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "easy"
     },
     {
         "subjectId": "php",
@@ -1617,7 +1751,8 @@
         "B": "$_GET",
         "C": "$_SESSION",
         "D": "$_COOKIE",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "medium"
     },
     {
         "subjectId": "php",
@@ -1629,7 +1764,8 @@
         "B": ":",
         "C": ".",
         "D": "]",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "php",
@@ -1641,7 +1777,8 @@
         "B": "<script><\/script>",
         "C": "<% %>",
         "D": "<?php >",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "hard"
     },
     {
         "subjectId": "php",
@@ -1653,7 +1790,8 @@
         "B": "&",
         "C": "concat",
         "D": ".",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "easy"
     },
     {
         "subjectId": "php",
@@ -1665,7 +1803,8 @@
         "B": "explode()",
         "C": "split()",
         "D": "join_array()",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "hard"
     },
     {
         "subjectId": "php",
@@ -1677,7 +1816,8 @@
         "B": "let",
         "C": "static",
         "D": "var",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "hard"
     },
     {
         "subjectId": "php",
@@ -1689,7 +1829,8 @@
         "B": "php.ini",
         "C": "web.config",
         "D": "php.xml",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "hard"
     },
     {
         "subjectId": "php",
@@ -1701,7 +1842,8 @@
         "B": "for",
         "C": "while",
         "D": "do...while",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "hard"
     },
     {
         "subjectId": "php",
@@ -1713,7 +1855,8 @@
         "B": "Khai báo toán tử số học",
         "C": "Tạo hằng số hệ thống",
         "D": "Tạo một dòng chú thích ghi chú",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "medium"
     },
     {
         "subjectId": "php",
@@ -1725,7 +1868,8 @@
         "B": "<script><\/script>",
         "C": "<% %>",
         "D": "<?php >",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "medium"
     },
     {
         "subjectId": "php",
@@ -1737,7 +1881,8 @@
         "B": "isset()",
         "C": "is_null()",
         "D": "check()",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "hard"
     },
     {
         "subjectId": "php",
@@ -1749,7 +1894,8 @@
         "B": "explode()",
         "C": "split()",
         "D": "join_array()",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "hard"
     },
     {
         "subjectId": "php",
@@ -1761,7 +1907,8 @@
         "B": "mysqli_connect()",
         "C": "mysql_connect()",
         "D": "connect_mysqli()",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "easy"
     },
     {
         "subjectId": "php",
@@ -1773,7 +1920,8 @@
         "B": "for",
         "C": "while",
         "D": "do...while",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "medium"
     },
     {
         "subjectId": "php",
@@ -1785,7 +1933,8 @@
         "B": "&",
         "C": "concat",
         "D": ".",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "easy"
     },
     {
         "subjectId": "php",
@@ -1797,7 +1946,8 @@
         "B": "echo",
         "C": "var_dump()",
         "D": "json_encode()",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "medium"
     },
     {
         "subjectId": "php",
@@ -1809,7 +1959,8 @@
         "B": "session_open()",
         "C": "session_start()",
         "D": "session_create()",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "medium"
     },
     {
         "subjectId": "php",
@@ -1821,7 +1972,8 @@
         "B": "@",
         "C": "#",
         "D": "&",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "php",
@@ -1833,7 +1985,8 @@
         "B": "Tách một chuỗi thành một mảng",
         "C": "Xóa phần tử mảng",
         "D": "Sắp xếp lại mảng",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "hard"
     },
     {
         "subjectId": "php",
@@ -1845,7 +1998,8 @@
         "B": ":",
         "C": ".",
         "D": "]",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "php",
@@ -1857,7 +2011,8 @@
         "B": "In đậm văn bản",
         "C": "Thay đổi tiêu đề trang",
         "D": "Chuyển hướng trang web",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "hard"
     },
     {
         "subjectId": "php",
@@ -1869,7 +2024,8 @@
         "B": "count()",
         "C": "length()",
         "D": "size()",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "php",
@@ -1881,7 +2037,8 @@
         "B": "switch...case",
         "C": "try...catch",
         "D": "while...do",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "easy"
     },
     {
         "subjectId": "php",
@@ -1893,7 +2050,8 @@
         "B": "REQUEST",
         "C": "POST",
         "D": "PUT",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "easy"
     },
     {
         "subjectId": "php",
@@ -1905,7 +2063,8 @@
         "B": "php.ini",
         "C": "web.config",
         "D": "php.xml",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "easy"
     },
     {
         "subjectId": "php",
@@ -1917,7 +2076,8 @@
         "B": "$_GET",
         "C": "$_SESSION",
         "D": "$_COOKIE",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "medium"
     },
     {
         "subjectId": "php",
@@ -1929,7 +2089,8 @@
         "B": "console.log",
         "C": "response",
         "D": "echo",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "easy"
     },
     {
         "subjectId": "php",
@@ -1941,7 +2102,8 @@
         "B": "let",
         "C": "static",
         "D": "var",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "php",
@@ -1953,7 +2115,8 @@
         "B": "base64()",
         "C": "password_hash()",
         "D": "md5()",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "easy"
     },
     {
         "subjectId": "php",
@@ -1965,7 +2128,8 @@
         "B": "session_clear()",
         "C": "session_destroy()",
         "D": "session_close()",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "hard"
     },
     {
         "subjectId": "php",
@@ -1977,7 +2141,8 @@
         "B": "Chỉ số âm",
         "C": "Chuỗi ký tự tùy biến làm Key",
         "D": "Vectơ định hướng",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "easy"
     },
     {
         "subjectId": "php",
@@ -1989,7 +2154,8 @@
         "B": "count()",
         "C": "sum()",
         "D": "total()",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "easy"
     },
     {
         "subjectId": "php",
@@ -2001,7 +2167,8 @@
         "B": "Khai báo toán tử số học",
         "C": "Tạo hằng số hệ thống",
         "D": "Tạo một dòng chú thích ghi chú",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "medium"
     },
     {
         "subjectId": "php",
@@ -2013,7 +2180,8 @@
         "B": "base64()",
         "C": "password_hash()",
         "D": "md5()",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "easy"
     },
     {
         "subjectId": "php",
@@ -2025,7 +2193,8 @@
         "B": ":",
         "C": ".",
         "D": "]",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "hard"
     },
     {
         "subjectId": "php",
@@ -2037,7 +2206,8 @@
         "B": "echo",
         "C": "var_dump()",
         "D": "json_encode()",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "hard"
     },
     {
         "subjectId": "php",
@@ -2049,7 +2219,8 @@
         "B": "$_GET",
         "C": "$_SESSION",
         "D": "$_COOKIE",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "easy"
     },
     {
         "subjectId": "php",
@@ -2061,7 +2232,8 @@
         "B": "console.log",
         "C": "response",
         "D": "echo",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "medium"
     },
     {
         "subjectId": "php",
@@ -2073,7 +2245,8 @@
         "B": "session_clear()",
         "C": "session_destroy()",
         "D": "session_close()",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "hard"
     },
     {
         "subjectId": "php",
@@ -2085,7 +2258,8 @@
         "B": "@",
         "C": "#",
         "D": "&",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "medium"
     },
     {
         "subjectId": "php",
@@ -2097,7 +2271,8 @@
         "B": "let",
         "C": "static",
         "D": "var",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "php",
@@ -2109,7 +2284,8 @@
         "B": "In đậm văn bản",
         "C": "Thay đổi tiêu đề trang",
         "D": "Chuyển hướng trang web",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "hard"
     },
     {
         "subjectId": "php",
@@ -2121,7 +2297,8 @@
         "B": "&",
         "C": "concat",
         "D": ".",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "medium"
     },
     {
         "subjectId": "php",
@@ -2133,7 +2310,8 @@
         "B": "Tách một chuỗi thành một mảng",
         "C": "Xóa phần tử mảng",
         "D": "Sắp xếp lại mảng",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "hard"
     },
     {
         "subjectId": "php",
@@ -2145,7 +2323,8 @@
         "B": "@",
         "C": "#",
         "D": "&",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "php",
@@ -2157,7 +2336,8 @@
         "B": "php.ini",
         "C": "web.config",
         "D": "php.xml",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "easy"
     },
     {
         "subjectId": "php",
@@ -2169,7 +2349,8 @@
         "B": "isset()",
         "C": "is_null()",
         "D": "check()",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "easy"
     },
     {
         "subjectId": "php",
@@ -2181,7 +2362,8 @@
         "B": "explode()",
         "C": "split()",
         "D": "join_array()",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "php",
@@ -2193,7 +2375,8 @@
         "B": "REQUEST",
         "C": "POST",
         "D": "PUT",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "hard"
     },
     {
         "subjectId": "php",
@@ -2205,7 +2388,8 @@
         "B": "for",
         "C": "while",
         "D": "do...while",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "hard"
     },
     {
         "subjectId": "php",
@@ -2217,7 +2401,8 @@
         "B": "session_open()",
         "C": "session_start()",
         "D": "session_create()",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "easy"
     },
     {
         "subjectId": "php",
@@ -2229,7 +2414,8 @@
         "B": "mysqli_connect()",
         "C": "mysql_connect()",
         "D": "connect_mysqli()",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "hard"
     },
     {
         "subjectId": "php",
@@ -2241,7 +2427,8 @@
         "B": "<script><\/script>",
         "C": "<% %>",
         "D": "<?php >",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "hard"
     },
     {
         "subjectId": "php",
@@ -2253,7 +2440,8 @@
         "B": "Chỉ số âm",
         "C": "Chuỗi ký tự tùy biến làm Key",
         "D": "Vectơ định hướng",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "medium"
     },
     {
         "subjectId": "php",
@@ -2265,7 +2453,8 @@
         "B": "switch...case",
         "C": "try...catch",
         "D": "while...do",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "hard"
     },
     {
         "subjectId": "php",
@@ -2277,7 +2466,8 @@
         "B": "count()",
         "C": "sum()",
         "D": "total()",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "easy"
     },
     {
         "subjectId": "php",
@@ -2289,7 +2479,8 @@
         "B": "Khai báo toán tử số học",
         "C": "Tạo hằng số hệ thống",
         "D": "Tạo một dòng chú thích ghi chú",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "hard"
     },
     {
         "subjectId": "xstk",
@@ -2301,7 +2492,8 @@
         "B": "E(X) = Tích các x_i",
         "C": "E(X) = Tổng các p_i",
         "D": "E(X) = Phương sai",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "xstk",
@@ -2313,7 +2505,8 @@
         "B": "Biến cố chắc chắn",
         "C": "Bằng 1",
         "D": "Không xác định",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "xstk",
@@ -2325,7 +2518,8 @@
         "B": "Biến cố hiếm khi xảy ra",
         "C": "Có xác suất bằng 0.5",
         "D": "Biến cố liên tục đồng đều",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "medium"
     },
     {
         "subjectId": "xstk",
@@ -2337,7 +2531,8 @@
         "B": "1",
         "C": "0.5",
         "D": "-1",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "easy"
     },
     {
         "subjectId": "xstk",
@@ -2349,7 +2544,8 @@
         "B": "4",
         "C": "6",
         "D": "8",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "medium"
     },
     {
         "subjectId": "xstk",
@@ -2361,7 +2557,8 @@
         "B": "0.5",
         "C": "Vô cùng",
         "D": "1",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "medium"
     },
     {
         "subjectId": "xstk",
@@ -2373,7 +2570,8 @@
         "B": "1\/52",
         "C": "13\/52",
         "D": "2\/52",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "xstk",
@@ -2385,7 +2583,8 @@
         "B": "C",
         "C": "1",
         "D": "C^2",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "hard"
     },
     {
         "subjectId": "xstk",
@@ -2397,7 +2596,8 @@
         "B": "sigma^2",
         "C": "mu",
         "D": "0",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "medium"
     },
     {
         "subjectId": "xstk",
@@ -2409,7 +2609,8 @@
         "B": "E(X^2) * E(X)",
         "C": "E(X) - E(X^2)",
         "D": "E(X^2) - [E(X)]^2",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "easy"
     },
     {
         "subjectId": "xstk",
@@ -2421,7 +2622,8 @@
         "B": "Đối xứng",
         "C": "Không tương quan tuyến tính",
         "D": "Đồng biến",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "medium"
     },
     {
         "subjectId": "xstk",
@@ -2433,7 +2635,8 @@
         "B": "1\/2",
         "C": "5\/6",
         "D": "1",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "xstk",
@@ -2445,7 +2648,8 @@
         "B": "Phân phối hình học (Geometric)",
         "C": "Phân phối chuẩn",
         "D": "Phân phối đều",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "medium"
     },
     {
         "subjectId": "xstk",
@@ -2457,7 +2661,8 @@
         "B": "0.5",
         "C": "0",
         "D": "-1",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "easy"
     },
     {
         "subjectId": "xstk",
@@ -2469,7 +2674,8 @@
         "B": "Độ lệch chuẩn bằng căn bậc hai của phương sai",
         "C": "Chúng độc lập hoàn toàn",
         "D": "Chúng bằng nhau",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "easy"
     },
     {
         "subjectId": "xstk",
@@ -2481,7 +2687,8 @@
         "B": "Xác suất biên duy nhất",
         "C": "Xác suất hậu nghiệm khi biết điều kiện",
         "D": "Kỳ vọng toán học",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "easy"
     },
     {
         "subjectId": "xstk",
@@ -2493,7 +2700,8 @@
         "B": "Xác suất nhỏ nhất",
         "C": "Tích phân đạt cực tiểu",
         "D": "Xác suất hoặc mật độ xác suất đạt cực đại lớn nhất",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "medium"
     },
     {
         "subjectId": "xstk",
@@ -2505,7 +2713,8 @@
         "B": "Xác suất thay đổi liên tục",
         "C": "Các phép thử độc lập và đồng nhất",
         "D": "Có vô số kết quả mỗi phép thử",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "easy"
     },
     {
         "subjectId": "xstk",
@@ -2517,7 +2726,8 @@
         "B": "[-0.5, 0.5]",
         "C": "[0, Vô cùng]",
         "D": "[-1, 1]",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "medium"
     },
     {
         "subjectId": "xstk",
@@ -2529,7 +2739,8 @@
         "B": "1",
         "C": "Vô cùng",
         "D": "C",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "medium"
     },
     {
         "subjectId": "xstk",
@@ -2541,7 +2752,8 @@
         "B": "P(A) + P(B)",
         "C": "P(A) \/ P(B)",
         "D": "P(A) - P(B)",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "xstk",
@@ -2553,7 +2765,8 @@
         "B": "1",
         "C": "0.5",
         "D": "Vô cùng",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "hard"
     },
     {
         "subjectId": "xstk",
@@ -2565,7 +2778,8 @@
         "B": "[-Vô cùng, +Vô cùng]",
         "C": "[0, Vô cùng]",
         "D": "[0, 1]",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "medium"
     },
     {
         "subjectId": "xstk",
@@ -2577,7 +2791,8 @@
         "B": "Phân phối nhị thức",
         "C": "Phân phối chuẩn (Normal)",
         "D": "Phân phối siêu bội",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "hard"
     },
     {
         "subjectId": "xstk",
@@ -2589,7 +2804,8 @@
         "B": "Biến cố chắc chắn",
         "C": "Bằng 1",
         "D": "Không xác định",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "hard"
     },
     {
         "subjectId": "xstk",
@@ -2601,7 +2817,8 @@
         "B": "4",
         "C": "6",
         "D": "8",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "easy"
     },
     {
         "subjectId": "xstk",
@@ -2613,7 +2830,8 @@
         "B": "1",
         "C": "0.5",
         "D": "-1",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "easy"
     },
     {
         "subjectId": "xstk",
@@ -2625,7 +2843,8 @@
         "B": "Đối xứng",
         "C": "Không tương quan tuyến tính",
         "D": "Đồng biến",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "medium"
     },
     {
         "subjectId": "xstk",
@@ -2637,7 +2856,8 @@
         "B": "sigma^2",
         "C": "mu",
         "D": "0",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "medium"
     },
     {
         "subjectId": "xstk",
@@ -2649,7 +2869,8 @@
         "B": "Xác suất nhỏ nhất",
         "C": "Tích phân đạt cực tiểu",
         "D": "Xác suất hoặc mật độ xác suất đạt cực đại lớn nhất",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "medium"
     },
     {
         "subjectId": "xstk",
@@ -2661,7 +2882,8 @@
         "B": "Xác suất thay đổi liên tục",
         "C": "Các phép thử độc lập và đồng nhất",
         "D": "Có vô số kết quả mỗi phép thử",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "easy"
     },
     {
         "subjectId": "xstk",
@@ -2673,7 +2895,8 @@
         "B": "1",
         "C": "Vô cùng",
         "D": "C",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "medium"
     },
     {
         "subjectId": "xstk",
@@ -2685,7 +2908,8 @@
         "B": "E(X) = Tích các x_i",
         "C": "E(X) = Tổng các p_i",
         "D": "E(X) = Phương sai",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "xstk",
@@ -2697,7 +2921,8 @@
         "B": "Biến cố hiếm khi xảy ra",
         "C": "Có xác suất bằng 0.5",
         "D": "Biến cố liên tục đồng đều",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "medium"
     },
     {
         "subjectId": "xstk",
@@ -2709,7 +2934,8 @@
         "B": "C",
         "C": "1",
         "D": "C^2",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "medium"
     },
     {
         "subjectId": "xstk",
@@ -2721,7 +2947,8 @@
         "B": "E(X^2) * E(X)",
         "C": "E(X) - E(X^2)",
         "D": "E(X^2) - [E(X)]^2",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "easy"
     },
     {
         "subjectId": "xstk",
@@ -2733,7 +2960,8 @@
         "B": "Phân phối hình học (Geometric)",
         "C": "Phân phối chuẩn",
         "D": "Phân phối đều",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "easy"
     },
     {
         "subjectId": "xstk",
@@ -2745,7 +2973,8 @@
         "B": "Độ lệch chuẩn bằng căn bậc hai của phương sai",
         "C": "Chúng độc lập hoàn toàn",
         "D": "Chúng bằng nhau",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "hard"
     },
     {
         "subjectId": "xstk",
@@ -2757,7 +2986,8 @@
         "B": "[-0.5, 0.5]",
         "C": "[0, Vô cùng]",
         "D": "[-1, 1]",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "hard"
     },
     {
         "subjectId": "xstk",
@@ -2769,7 +2999,8 @@
         "B": "P(A) + P(B)",
         "C": "P(A) \/ P(B)",
         "D": "P(A) - P(B)",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "medium"
     },
     {
         "subjectId": "xstk",
@@ -2781,7 +3012,8 @@
         "B": "0.5",
         "C": "0",
         "D": "-1",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "easy"
     },
     {
         "subjectId": "xstk",
@@ -2793,7 +3025,8 @@
         "B": "[-Vô cùng, +Vô cùng]",
         "C": "[0, Vô cùng]",
         "D": "[0, 1]",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "hard"
     },
     {
         "subjectId": "xstk",
@@ -2805,7 +3038,8 @@
         "B": "0.5",
         "C": "Vô cùng",
         "D": "1",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "medium"
     },
     {
         "subjectId": "xstk",
@@ -2817,7 +3051,8 @@
         "B": "Xác suất biên duy nhất",
         "C": "Xác suất hậu nghiệm khi biết điều kiện",
         "D": "Kỳ vọng toán học",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "easy"
     },
     {
         "subjectId": "xstk",
@@ -2829,7 +3064,8 @@
         "B": "1\/52",
         "C": "13\/52",
         "D": "2\/52",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "medium"
     },
     {
         "subjectId": "xstk",
@@ -2841,7 +3077,8 @@
         "B": "1\/2",
         "C": "5\/6",
         "D": "1",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "medium"
     },
     {
         "subjectId": "xstk",
@@ -2853,7 +3090,8 @@
         "B": "1",
         "C": "0.5",
         "D": "Vô cùng",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "easy"
     },
     {
         "subjectId": "xstk",
@@ -2865,7 +3103,8 @@
         "B": "Phân phối nhị thức",
         "C": "Phân phối chuẩn (Normal)",
         "D": "Phân phối siêu bội",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "easy"
     },
     {
         "subjectId": "xstk",
@@ -2877,7 +3116,8 @@
         "B": "sigma^2",
         "C": "mu",
         "D": "0",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "hard"
     },
     {
         "subjectId": "xstk",
@@ -2889,7 +3129,8 @@
         "B": "Phân phối hình học (Geometric)",
         "C": "Phân phối chuẩn",
         "D": "Phân phối đều",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "hard"
     },
     {
         "subjectId": "xstk",
@@ -2901,7 +3142,8 @@
         "B": "0.5",
         "C": "Vô cùng",
         "D": "1",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "medium"
     },
     {
         "subjectId": "xstk",
@@ -2913,7 +3155,8 @@
         "B": "C",
         "C": "1",
         "D": "C^2",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "xstk",
@@ -2925,7 +3168,8 @@
         "B": "E(X^2) * E(X)",
         "C": "E(X) - E(X^2)",
         "D": "E(X^2) - [E(X)]^2",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "easy"
     },
     {
         "subjectId": "xstk",
@@ -2937,7 +3181,8 @@
         "B": "Xác suất biên duy nhất",
         "C": "Xác suất hậu nghiệm khi biết điều kiện",
         "D": "Kỳ vọng toán học",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "easy"
     },
     {
         "subjectId": "xstk",
@@ -2949,7 +3194,8 @@
         "B": "0.5",
         "C": "0",
         "D": "-1",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "medium"
     },
     {
         "subjectId": "xstk",
@@ -2961,7 +3207,8 @@
         "B": "Đối xứng",
         "C": "Không tương quan tuyến tính",
         "D": "Đồng biến",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "easy"
     },
     {
         "subjectId": "xstk",
@@ -2973,7 +3220,8 @@
         "B": "Xác suất nhỏ nhất",
         "C": "Tích phân đạt cực tiểu",
         "D": "Xác suất hoặc mật độ xác suất đạt cực đại lớn nhất",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "hard"
     },
     {
         "subjectId": "xstk",
@@ -2985,7 +3233,8 @@
         "B": "[-0.5, 0.5]",
         "C": "[0, Vô cùng]",
         "D": "[-1, 1]",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "medium"
     },
     {
         "subjectId": "xstk",
@@ -2997,7 +3246,8 @@
         "B": "E(X) = Tích các x_i",
         "C": "E(X) = Tổng các p_i",
         "D": "E(X) = Phương sai",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "xstk",
@@ -3009,7 +3259,8 @@
         "B": "Xác suất thay đổi liên tục",
         "C": "Các phép thử độc lập và đồng nhất",
         "D": "Có vô số kết quả mỗi phép thử",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "easy"
     },
     {
         "subjectId": "xstk",
@@ -3021,7 +3272,8 @@
         "B": "[-Vô cùng, +Vô cùng]",
         "C": "[0, Vô cùng]",
         "D": "[0, 1]",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "medium"
     },
     {
         "subjectId": "xstk",
@@ -3033,7 +3285,8 @@
         "B": "Độ lệch chuẩn bằng căn bậc hai của phương sai",
         "C": "Chúng độc lập hoàn toàn",
         "D": "Chúng bằng nhau",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "hard"
     },
     {
         "subjectId": "xstk",
@@ -3045,7 +3298,8 @@
         "B": "1",
         "C": "Vô cùng",
         "D": "C",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "easy"
     },
     {
         "subjectId": "xstk",
@@ -3057,7 +3311,8 @@
         "B": "P(A) + P(B)",
         "C": "P(A) \/ P(B)",
         "D": "P(A) - P(B)",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "xstk",
@@ -3069,7 +3324,8 @@
         "B": "1",
         "C": "0.5",
         "D": "-1",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "medium"
     },
     {
         "subjectId": "xstk",
@@ -3081,7 +3337,8 @@
         "B": "Biến cố hiếm khi xảy ra",
         "C": "Có xác suất bằng 0.5",
         "D": "Biến cố liên tục đồng đều",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "medium"
     },
     {
         "subjectId": "xstk",
@@ -3093,7 +3350,8 @@
         "B": "Biến cố chắc chắn",
         "C": "Bằng 1",
         "D": "Không xác định",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "xstk",
@@ -3105,7 +3363,8 @@
         "B": "1\/2",
         "C": "5\/6",
         "D": "1",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "xstk",
@@ -3117,7 +3376,8 @@
         "B": "4",
         "C": "6",
         "D": "8",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "hard"
     },
     {
         "subjectId": "xstk",
@@ -3129,7 +3389,8 @@
         "B": "1\/52",
         "C": "13\/52",
         "D": "2\/52",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "xstk",
@@ -3141,7 +3402,8 @@
         "B": "1",
         "C": "0.5",
         "D": "Vô cùng",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "easy"
     },
     {
         "subjectId": "xstk",
@@ -3153,7 +3415,8 @@
         "B": "Phân phối nhị thức",
         "C": "Phân phối chuẩn (Normal)",
         "D": "Phân phối siêu bội",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "hard"
     },
     {
         "subjectId": "xstk",
@@ -3165,7 +3428,8 @@
         "B": "C",
         "C": "1",
         "D": "C^2",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "medium"
     },
     {
         "subjectId": "xstk",
@@ -3177,7 +3441,8 @@
         "B": "Biến cố hiếm khi xảy ra",
         "C": "Có xác suất bằng 0.5",
         "D": "Biến cố liên tục đồng đều",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "medium"
     },
     {
         "subjectId": "xstk",
@@ -3189,7 +3454,8 @@
         "B": "Xác suất nhỏ nhất",
         "C": "Tích phân đạt cực tiểu",
         "D": "Xác suất hoặc mật độ xác suất đạt cực đại lớn nhất",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "easy"
     },
     {
         "subjectId": "xstk",
@@ -3201,7 +3467,8 @@
         "B": "Biến cố chắc chắn",
         "C": "Bằng 1",
         "D": "Không xác định",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "xstk",
@@ -3213,7 +3480,8 @@
         "B": "4",
         "C": "6",
         "D": "8",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "medium"
     },
     {
         "subjectId": "xstk",
@@ -3225,7 +3493,8 @@
         "B": "E(X) = Tích các x_i",
         "C": "E(X) = Tổng các p_i",
         "D": "E(X) = Phương sai",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "xstk",
@@ -3237,7 +3506,8 @@
         "B": "[-0.5, 0.5]",
         "C": "[0, Vô cùng]",
         "D": "[-1, 1]",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "medium"
     },
     {
         "subjectId": "xstk",
@@ -3249,7 +3519,8 @@
         "B": "E(X^2) * E(X)",
         "C": "E(X) - E(X^2)",
         "D": "E(X^2) - [E(X)]^2",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "easy"
     },
     {
         "subjectId": "xstk",
@@ -3261,7 +3532,8 @@
         "B": "Phân phối hình học (Geometric)",
         "C": "Phân phối chuẩn",
         "D": "Phân phối đều",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "easy"
     },
     {
         "subjectId": "xstk",
@@ -3273,7 +3545,8 @@
         "B": "Xác suất thay đổi liên tục",
         "C": "Các phép thử độc lập và đồng nhất",
         "D": "Có vô số kết quả mỗi phép thử",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "easy"
     },
     {
         "subjectId": "xstk",
@@ -3285,7 +3558,8 @@
         "B": "Đối xứng",
         "C": "Không tương quan tuyến tính",
         "D": "Đồng biến",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "medium"
     },
     {
         "subjectId": "xstk",
@@ -3297,7 +3571,8 @@
         "B": "1",
         "C": "0.5",
         "D": "-1",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "medium"
     },
     {
         "subjectId": "xstk",
@@ -3309,7 +3584,8 @@
         "B": "[-Vô cùng, +Vô cùng]",
         "C": "[0, Vô cùng]",
         "D": "[0, 1]",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "medium"
     },
     {
         "subjectId": "xstk",
@@ -3321,7 +3597,8 @@
         "B": "0.5",
         "C": "0",
         "D": "-1",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "medium"
     },
     {
         "subjectId": "xstk",
@@ -3333,7 +3610,8 @@
         "B": "1",
         "C": "Vô cùng",
         "D": "C",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "hard"
     },
     {
         "subjectId": "xstk",
@@ -3345,7 +3623,8 @@
         "B": "P(A) + P(B)",
         "C": "P(A) \/ P(B)",
         "D": "P(A) - P(B)",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "xstk",
@@ -3357,7 +3636,8 @@
         "B": "Độ lệch chuẩn bằng căn bậc hai của phương sai",
         "C": "Chúng độc lập hoàn toàn",
         "D": "Chúng bằng nhau",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "medium"
     },
     {
         "subjectId": "xstk",
@@ -3369,7 +3649,8 @@
         "B": "sigma^2",
         "C": "mu",
         "D": "0",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "hard"
     },
     {
         "subjectId": "xstk",
@@ -3381,7 +3662,8 @@
         "B": "0.5",
         "C": "Vô cùng",
         "D": "1",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "easy"
     },
     {
         "subjectId": "xstk",
@@ -3393,7 +3675,8 @@
         "B": "Xác suất biên duy nhất",
         "C": "Xác suất hậu nghiệm khi biết điều kiện",
         "D": "Kỳ vọng toán học",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "easy"
     },
     {
         "subjectId": "xstk",
@@ -3405,7 +3688,8 @@
         "B": "1\/52",
         "C": "13\/52",
         "D": "2\/52",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "medium"
     },
     {
         "subjectId": "xstk",
@@ -3417,7 +3701,8 @@
         "B": "1\/2",
         "C": "5\/6",
         "D": "1",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "xstk",
@@ -3429,7 +3714,8 @@
         "B": "1",
         "C": "0.5",
         "D": "Vô cùng",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "medium"
     },
     {
         "subjectId": "xstk",
@@ -3441,7 +3727,8 @@
         "B": "Phân phối nhị thức",
         "C": "Phân phối chuẩn (Normal)",
         "D": "Phân phối siêu bội",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "medium"
     },
     {
         "subjectId": "mmt",
@@ -3453,7 +3740,8 @@
         "B": "Tầng 2 (Data Link)",
         "C": "Tầng 3 (Network)",
         "D": "Tầng 4 (Transport)",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "hard"
     },
     {
         "subjectId": "mmt",
@@ -3465,7 +3753,8 @@
         "B": "Tự động cấp phát cấu hình địa chỉ IP cho thiết bị khách",
         "C": "Định tuyến đường đi tối ưu",
         "D": "Quản lý đóng ngắt cổng",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "medium"
     },
     {
         "subjectId": "mmt",
@@ -3477,7 +3766,8 @@
         "B": "5 tầng",
         "C": "7 tầng",
         "D": "6 tầng",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "easy"
     },
     {
         "subjectId": "mmt",
@@ -3489,7 +3779,8 @@
         "B": "Mã hóa luồng video",
         "C": "Gửi tin nhắn tức thời",
         "D": "Quản trị tường lửa từ xa",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "medium"
     },
     {
         "subjectId": "mmt",
@@ -3501,7 +3792,8 @@
         "B": "32 bit",
         "C": "48 bit",
         "D": "128 bit",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "medium"
     },
     {
         "subjectId": "mmt",
@@ -3513,7 +3805,8 @@
         "B": "172.16.0.1",
         "C": "192.168.1.1",
         "D": "224.0.0.1",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "medium"
     },
     {
         "subjectId": "mmt",
@@ -3525,7 +3818,8 @@
         "B": "8080",
         "C": "25",
         "D": "443",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "medium"
     },
     {
         "subjectId": "mmt",
@@ -3537,7 +3831,8 @@
         "B": "Tốc độ truyền nhanh, không hướng kết nối",
         "C": "Kiểm soát luồng dữ liệu chặt chẽ",
         "D": "Truyền lại gói tin bị mất",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "easy"
     },
     {
         "subjectId": "mmt",
@@ -3549,7 +3844,8 @@
         "B": "SMTP",
         "C": "HTTP",
         "D": "SSH",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "hard"
     },
     {
         "subjectId": "mmt",
@@ -3561,7 +3857,8 @@
         "B": "Cấp phát IP động",
         "C": "Chuyển đổi từ tên miền sang địa chỉ IP",
         "D": "Gửi thư điện tử",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "hard"
     },
     {
         "subjectId": "mmt",
@@ -3573,7 +3870,8 @@
         "B": "Tầng liên kết dữ liệu",
         "C": "Tầng mạng (Network)",
         "D": "Tầng giao vận",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "hard"
     },
     {
         "subjectId": "mmt",
@@ -3585,7 +3883,8 @@
         "B": "Frame (Khung dữ liệu)",
         "C": "Segment",
         "D": "Bit",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "easy"
     },
     {
         "subjectId": "mmt",
@@ -3597,7 +3896,8 @@
         "B": "Tầng giao vận (Transport)",
         "C": "Tầng ứng dụng",
         "D": "Tầng liên kết dữ liệu",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "easy"
     },
     {
         "subjectId": "mmt",
@@ -3609,7 +3909,8 @@
         "B": "Tầng liên kết dữ liệu (Data Link)",
         "C": "Tầng mạng",
         "D": "Tầng phiên",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "medium"
     },
     {
         "subjectId": "mmt",
@@ -3621,7 +3922,8 @@
         "B": "48 bit",
         "C": "64 bit",
         "D": "128 bit",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "easy"
     },
     {
         "subjectId": "mmt",
@@ -3633,7 +3935,8 @@
         "B": "Presentation",
         "C": "Session",
         "D": "Network",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "mmt",
@@ -3645,7 +3948,8 @@
         "B": "443",
         "C": "80",
         "D": "23",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "medium"
     },
     {
         "subjectId": "mmt",
@@ -3657,7 +3961,8 @@
         "B": "192.168.1.1",
         "C": "10.0.0.1",
         "D": "255.255.255.255",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "medium"
     },
     {
         "subjectId": "mmt",
@@ -3669,7 +3974,8 @@
         "B": "RJ-45",
         "C": "BNC",
         "D": "ST Connector",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "hard"
     },
     {
         "subjectId": "mmt",
@@ -3681,7 +3987,8 @@
         "B": "Frame",
         "C": "Bits",
         "D": "Packet (Gói tin)",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "easy"
     },
     {
         "subjectId": "mmt",
@@ -3693,7 +4000,8 @@
         "B": "Tầng giao vận",
         "C": "Tầng mạng (Network Layer)",
         "D": "Tầng ứng dụng",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "easy"
     },
     {
         "subjectId": "mmt",
@@ -3705,7 +4013,8 @@
         "B": "Application",
         "C": "Session",
         "D": "Transport",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "hard"
     },
     {
         "subjectId": "mmt",
@@ -3717,7 +4026,8 @@
         "B": "Network",
         "C": "Transport",
         "D": "Physical (Vật lý)",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "medium"
     },
     {
         "subjectId": "mmt",
@@ -3729,7 +4039,8 @@
         "B": "Repeater",
         "C": "Router",
         "D": "Network Card",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "easy"
     },
     {
         "subjectId": "mmt",
@@ -3741,7 +4052,8 @@
         "B": "Tự động cấp phát cấu hình địa chỉ IP cho thiết bị khách",
         "C": "Định tuyến đường đi tối ưu",
         "D": "Quản lý đóng ngắt cổng",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "easy"
     },
     {
         "subjectId": "mmt",
@@ -3753,7 +4065,8 @@
         "B": "Mã hóa luồng video",
         "C": "Gửi tin nhắn tức thời",
         "D": "Quản trị tường lửa từ xa",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "hard"
     },
     {
         "subjectId": "mmt",
@@ -3765,7 +4078,8 @@
         "B": "32 bit",
         "C": "48 bit",
         "D": "128 bit",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "medium"
     },
     {
         "subjectId": "mmt",
@@ -3777,7 +4091,8 @@
         "B": "Presentation",
         "C": "Session",
         "D": "Network",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "medium"
     },
     {
         "subjectId": "mmt",
@@ -3789,7 +4104,8 @@
         "B": "Tầng 2 (Data Link)",
         "C": "Tầng 3 (Network)",
         "D": "Tầng 4 (Transport)",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "easy"
     },
     {
         "subjectId": "mmt",
@@ -3801,7 +4117,8 @@
         "B": "Tầng liên kết dữ liệu (Data Link)",
         "C": "Tầng mạng",
         "D": "Tầng phiên",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "hard"
     },
     {
         "subjectId": "mmt",
@@ -3813,7 +4130,8 @@
         "B": "Cấp phát IP động",
         "C": "Chuyển đổi từ tên miền sang địa chỉ IP",
         "D": "Gửi thư điện tử",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "medium"
     },
     {
         "subjectId": "mmt",
@@ -3825,7 +4143,8 @@
         "B": "RJ-45",
         "C": "BNC",
         "D": "ST Connector",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "medium"
     },
     {
         "subjectId": "mmt",
@@ -3837,7 +4156,8 @@
         "B": "192.168.1.1",
         "C": "10.0.0.1",
         "D": "255.255.255.255",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "medium"
     },
     {
         "subjectId": "mmt",
@@ -3849,7 +4169,8 @@
         "B": "5 tầng",
         "C": "7 tầng",
         "D": "6 tầng",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "medium"
     },
     {
         "subjectId": "mmt",
@@ -3861,7 +4182,8 @@
         "B": "172.16.0.1",
         "C": "192.168.1.1",
         "D": "224.0.0.1",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "easy"
     },
     {
         "subjectId": "mmt",
@@ -3873,7 +4195,8 @@
         "B": "Tầng giao vận (Transport)",
         "C": "Tầng ứng dụng",
         "D": "Tầng liên kết dữ liệu",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "easy"
     },
     {
         "subjectId": "mmt",
@@ -3885,7 +4208,8 @@
         "B": "443",
         "C": "80",
         "D": "23",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "medium"
     },
     {
         "subjectId": "mmt",
@@ -3897,7 +4221,8 @@
         "B": "Tốc độ truyền nhanh, không hướng kết nối",
         "C": "Kiểm soát luồng dữ liệu chặt chẽ",
         "D": "Truyền lại gói tin bị mất",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "medium"
     },
     {
         "subjectId": "mmt",
@@ -3909,7 +4234,8 @@
         "B": "Tầng giao vận",
         "C": "Tầng mạng (Network Layer)",
         "D": "Tầng ứng dụng",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "easy"
     },
     {
         "subjectId": "mmt",
@@ -3921,7 +4247,8 @@
         "B": "8080",
         "C": "25",
         "D": "443",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "medium"
     },
     {
         "subjectId": "mmt",
@@ -3933,7 +4260,8 @@
         "B": "Tầng liên kết dữ liệu",
         "C": "Tầng mạng (Network)",
         "D": "Tầng giao vận",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "medium"
     },
     {
         "subjectId": "mmt",
@@ -3945,7 +4273,8 @@
         "B": "Network",
         "C": "Transport",
         "D": "Physical (Vật lý)",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "easy"
     },
     {
         "subjectId": "mmt",
@@ -3957,7 +4286,8 @@
         "B": "Application",
         "C": "Session",
         "D": "Transport",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "medium"
     },
     {
         "subjectId": "mmt",
@@ -3969,7 +4299,8 @@
         "B": "Frame",
         "C": "Bits",
         "D": "Packet (Gói tin)",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "easy"
     },
     {
         "subjectId": "mmt",
@@ -3981,7 +4312,8 @@
         "B": "SMTP",
         "C": "HTTP",
         "D": "SSH",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "medium"
     },
     {
         "subjectId": "mmt",
@@ -3993,7 +4325,8 @@
         "B": "48 bit",
         "C": "64 bit",
         "D": "128 bit",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "easy"
     },
     {
         "subjectId": "mmt",
@@ -4005,7 +4338,8 @@
         "B": "Frame (Khung dữ liệu)",
         "C": "Segment",
         "D": "Bit",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "easy"
     },
     {
         "subjectId": "mmt",
@@ -4017,7 +4351,8 @@
         "B": "Repeater",
         "C": "Router",
         "D": "Network Card",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "medium"
     },
     {
         "subjectId": "mmt",
@@ -4029,7 +4364,8 @@
         "B": "192.168.1.1",
         "C": "10.0.0.1",
         "D": "255.255.255.255",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "mmt",
@@ -4041,7 +4377,8 @@
         "B": "Tốc độ truyền nhanh, không hướng kết nối",
         "C": "Kiểm soát luồng dữ liệu chặt chẽ",
         "D": "Truyền lại gói tin bị mất",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "medium"
     },
     {
         "subjectId": "mmt",
@@ -4053,7 +4390,8 @@
         "B": "443",
         "C": "80",
         "D": "23",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "medium"
     },
     {
         "subjectId": "mmt",
@@ -4065,7 +4403,8 @@
         "B": "Tầng liên kết dữ liệu",
         "C": "Tầng mạng (Network)",
         "D": "Tầng giao vận",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "easy"
     },
     {
         "subjectId": "mmt",
@@ -4077,7 +4416,8 @@
         "B": "SMTP",
         "C": "HTTP",
         "D": "SSH",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "medium"
     },
     {
         "subjectId": "mmt",
@@ -4089,7 +4429,8 @@
         "B": "Cấp phát IP động",
         "C": "Chuyển đổi từ tên miền sang địa chỉ IP",
         "D": "Gửi thư điện tử",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "easy"
     },
     {
         "subjectId": "mmt",
@@ -4101,7 +4442,8 @@
         "B": "5 tầng",
         "C": "7 tầng",
         "D": "6 tầng",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "hard"
     },
     {
         "subjectId": "mmt",
@@ -4113,7 +4455,8 @@
         "B": "Frame",
         "C": "Bits",
         "D": "Packet (Gói tin)",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "easy"
     },
     {
         "subjectId": "mmt",
@@ -4125,7 +4468,8 @@
         "B": "Presentation",
         "C": "Session",
         "D": "Network",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "medium"
     },
     {
         "subjectId": "mmt",
@@ -4137,7 +4481,8 @@
         "B": "Tự động cấp phát cấu hình địa chỉ IP cho thiết bị khách",
         "C": "Định tuyến đường đi tối ưu",
         "D": "Quản lý đóng ngắt cổng",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "easy"
     },
     {
         "subjectId": "mmt",
@@ -4149,7 +4494,8 @@
         "B": "Tầng giao vận (Transport)",
         "C": "Tầng ứng dụng",
         "D": "Tầng liên kết dữ liệu",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "medium"
     },
     {
         "subjectId": "mmt",
@@ -4161,7 +4507,8 @@
         "B": "Network",
         "C": "Transport",
         "D": "Physical (Vật lý)",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "hard"
     },
     {
         "subjectId": "mmt",
@@ -4173,7 +4520,8 @@
         "B": "Tầng liên kết dữ liệu (Data Link)",
         "C": "Tầng mạng",
         "D": "Tầng phiên",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "easy"
     },
     {
         "subjectId": "mmt",
@@ -4185,7 +4533,8 @@
         "B": "8080",
         "C": "25",
         "D": "443",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "easy"
     },
     {
         "subjectId": "mmt",
@@ -4197,7 +4546,8 @@
         "B": "Tầng 2 (Data Link)",
         "C": "Tầng 3 (Network)",
         "D": "Tầng 4 (Transport)",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "hard"
     },
     {
         "subjectId": "mmt",
@@ -4209,7 +4559,8 @@
         "B": "Tầng giao vận",
         "C": "Tầng mạng (Network Layer)",
         "D": "Tầng ứng dụng",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "easy"
     },
     {
         "subjectId": "mmt",
@@ -4221,7 +4572,8 @@
         "B": "32 bit",
         "C": "48 bit",
         "D": "128 bit",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "easy"
     },
     {
         "subjectId": "mmt",
@@ -4233,7 +4585,8 @@
         "B": "Frame (Khung dữ liệu)",
         "C": "Segment",
         "D": "Bit",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "easy"
     },
     {
         "subjectId": "mmt",
@@ -4245,7 +4598,8 @@
         "B": "48 bit",
         "C": "64 bit",
         "D": "128 bit",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "easy"
     },
     {
         "subjectId": "mmt",
@@ -4257,7 +4611,8 @@
         "B": "Application",
         "C": "Session",
         "D": "Transport",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "hard"
     },
     {
         "subjectId": "mmt",
@@ -4269,7 +4624,8 @@
         "B": "172.16.0.1",
         "C": "192.168.1.1",
         "D": "224.0.0.1",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "easy"
     },
     {
         "subjectId": "mmt",
@@ -4281,7 +4637,8 @@
         "B": "Mã hóa luồng video",
         "C": "Gửi tin nhắn tức thời",
         "D": "Quản trị tường lửa từ xa",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "mmt",
@@ -4293,7 +4650,8 @@
         "B": "RJ-45",
         "C": "BNC",
         "D": "ST Connector",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "easy"
     },
     {
         "subjectId": "mmt",
@@ -4305,7 +4663,8 @@
         "B": "Repeater",
         "C": "Router",
         "D": "Network Card",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "medium"
     },
     {
         "subjectId": "mmt",
@@ -4317,7 +4676,8 @@
         "B": "Tầng liên kết dữ liệu (Data Link)",
         "C": "Tầng mạng",
         "D": "Tầng phiên",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "hard"
     },
     {
         "subjectId": "mmt",
@@ -4329,7 +4689,8 @@
         "B": "172.16.0.1",
         "C": "192.168.1.1",
         "D": "224.0.0.1",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "easy"
     },
     {
         "subjectId": "mmt",
@@ -4341,7 +4702,8 @@
         "B": "Tốc độ truyền nhanh, không hướng kết nối",
         "C": "Kiểm soát luồng dữ liệu chặt chẽ",
         "D": "Truyền lại gói tin bị mất",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "easy"
     },
     {
         "subjectId": "mmt",
@@ -4353,7 +4715,8 @@
         "B": "5 tầng",
         "C": "7 tầng",
         "D": "6 tầng",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "hard"
     },
     {
         "subjectId": "mmt",
@@ -4365,7 +4728,8 @@
         "B": "SMTP",
         "C": "HTTP",
         "D": "SSH",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "medium"
     },
     {
         "subjectId": "mmt",
@@ -4377,7 +4741,8 @@
         "B": "8080",
         "C": "25",
         "D": "443",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "medium"
     },
     {
         "subjectId": "mmt",
@@ -4389,7 +4754,8 @@
         "B": "Cấp phát IP động",
         "C": "Chuyển đổi từ tên miền sang địa chỉ IP",
         "D": "Gửi thư điện tử",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "hard"
     },
     {
         "subjectId": "mmt",
@@ -4401,7 +4767,8 @@
         "B": "Frame (Khung dữ liệu)",
         "C": "Segment",
         "D": "Bit",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "easy"
     },
     {
         "subjectId": "mmt",
@@ -4413,7 +4780,8 @@
         "B": "Tầng 2 (Data Link)",
         "C": "Tầng 3 (Network)",
         "D": "Tầng 4 (Transport)",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "hard"
     },
     {
         "subjectId": "mmt",
@@ -4425,7 +4793,8 @@
         "B": "Application",
         "C": "Session",
         "D": "Transport",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "mmt",
@@ -4437,7 +4806,8 @@
         "B": "Presentation",
         "C": "Session",
         "D": "Network",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "medium"
     },
     {
         "subjectId": "mmt",
@@ -4449,7 +4819,8 @@
         "B": "Frame",
         "C": "Bits",
         "D": "Packet (Gói tin)",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "easy"
     },
     {
         "subjectId": "mmt",
@@ -4461,7 +4832,8 @@
         "B": "Tầng giao vận (Transport)",
         "C": "Tầng ứng dụng",
         "D": "Tầng liên kết dữ liệu",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "hard"
     },
     {
         "subjectId": "mmt",
@@ -4473,7 +4845,8 @@
         "B": "Tự động cấp phát cấu hình địa chỉ IP cho thiết bị khách",
         "C": "Định tuyến đường đi tối ưu",
         "D": "Quản lý đóng ngắt cổng",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "easy"
     },
     {
         "subjectId": "mmt",
@@ -4485,7 +4858,8 @@
         "B": "443",
         "C": "80",
         "D": "23",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "hard"
     },
     {
         "subjectId": "mmt",
@@ -4497,7 +4871,8 @@
         "B": "Mã hóa luồng video",
         "C": "Gửi tin nhắn tức thời",
         "D": "Quản trị tường lửa từ xa",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "hard"
     },
     {
         "subjectId": "mmt",
@@ -4509,7 +4884,8 @@
         "B": "Tầng liên kết dữ liệu",
         "C": "Tầng mạng (Network)",
         "D": "Tầng giao vận",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "easy"
     },
     {
         "subjectId": "mmt",
@@ -4521,7 +4897,8 @@
         "B": "32 bit",
         "C": "48 bit",
         "D": "128 bit",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "hard"
     },
     {
         "subjectId": "mmt",
@@ -4533,7 +4910,8 @@
         "B": "48 bit",
         "C": "64 bit",
         "D": "128 bit",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "easy"
     },
     {
         "subjectId": "mmt",
@@ -4545,7 +4923,8 @@
         "B": "192.168.1.1",
         "C": "10.0.0.1",
         "D": "255.255.255.255",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "hard"
     },
     {
         "subjectId": "mmt",
@@ -4557,7 +4936,8 @@
         "B": "Tầng giao vận",
         "C": "Tầng mạng (Network Layer)",
         "D": "Tầng ứng dụng",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "medium"
     },
     {
         "subjectId": "mmt",
@@ -4569,7 +4949,8 @@
         "B": "Network",
         "C": "Transport",
         "D": "Physical (Vật lý)",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "easy"
     },
     {
         "subjectId": "mmt",
@@ -4581,7 +4962,8 @@
         "B": "RJ-45",
         "C": "BNC",
         "D": "ST Connector",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "easy"
     },
     {
         "subjectId": "mmt",
@@ -4593,7 +4975,8 @@
         "B": "Repeater",
         "C": "Router",
         "D": "Network Card",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "hard"
     },
     {
         "subjectId": "csdl",
@@ -4605,7 +4988,8 @@
         "B": "EXTRACT",
         "C": "SELECT",
         "D": "OPEN",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "hard"
     },
     {
         "subjectId": "csdl",
@@ -4617,7 +5001,8 @@
         "B": "WHEN",
         "C": "HAVING",
         "D": "IF",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "medium"
     },
     {
         "subjectId": "csdl",
@@ -4629,7 +5014,8 @@
         "B": "Unique Key",
         "C": "Candidate Key",
         "D": "Foreign Key (Khóa ngoại)",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "medium"
     },
     {
         "subjectId": "csdl",
@@ -4641,7 +5027,8 @@
         "B": "DESC",
         "C": "UP",
         "D": "SORT",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "medium"
     },
     {
         "subjectId": "csdl",
@@ -4653,7 +5040,8 @@
         "B": "SORT",
         "C": "DESC",
         "D": "DOWN",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "hard"
     },
     {
         "subjectId": "csdl",
@@ -4665,7 +5053,8 @@
         "B": "CLEAR",
         "C": "DELETE FROM",
         "D": "DROP ROW",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "hard"
     },
     {
         "subjectId": "csdl",
@@ -4677,7 +5066,8 @@
         "B": "BETWEEN",
         "C": "LIKE",
         "D": "MATCH",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "medium"
     },
     {
         "subjectId": "csdl",
@@ -4689,7 +5079,8 @@
         "B": "EQUAL",
         "C": "MATCH",
         "D": "BETWEEN",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "hard"
     },
     {
         "subjectId": "csdl",
@@ -4701,7 +5092,8 @@
         "B": "JOIN",
         "C": "MERGE",
         "D": "UNION",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "medium"
     },
     {
         "subjectId": "csdl",
@@ -4713,7 +5105,8 @@
         "B": "COUNT()",
         "C": "TOTAL()",
         "D": "NUMBER()",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "medium"
     },
     {
         "subjectId": "csdl",
@@ -4725,7 +5118,8 @@
         "B": "IF",
         "C": "GROUP BY",
         "D": "ORDER BY",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "hard"
     },
     {
         "subjectId": "csdl",
@@ -4737,7 +5131,8 @@
         "B": "*",
         "C": "@",
         "D": "&",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "hard"
     },
     {
         "subjectId": "csdl",
@@ -4749,7 +5144,8 @@
         "B": "SORT BY",
         "C": "GROUP BY",
         "D": "JOIN BY",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "medium"
     },
     {
         "subjectId": "csdl",
@@ -4761,7 +5157,8 @@
         "B": "ALTER TABLE",
         "C": "MODIFY TABLE",
         "D": "CHANGE TABLE",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "hard"
     },
     {
         "subjectId": "csdl",
@@ -4773,7 +5170,8 @@
         "B": "INSERT INTO",
         "C": "UPDATE",
         "D": "CREATE",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "hard"
     },
     {
         "subjectId": "csdl",
@@ -4785,7 +5183,8 @@
         "B": "CREATE DATABASE",
         "C": "NEW DATABASE",
         "D": "ADD DATABASE",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "medium"
     },
     {
         "subjectId": "csdl",
@@ -4797,7 +5196,8 @@
         "B": "MODIFY",
         "C": "ALTER",
         "D": "UPDATE",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "medium"
     },
     {
         "subjectId": "csdl",
@@ -4809,7 +5209,8 @@
         "B": "UNIQUE",
         "C": "CHECK",
         "D": "DEFAULT",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "medium"
     },
     {
         "subjectId": "csdl",
@@ -4821,7 +5222,8 @@
         "B": "NEW TABLE",
         "C": "ADD TABLE",
         "D": "MAKE TABLE",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "medium"
     },
     {
         "subjectId": "csdl",
@@ -4833,7 +5235,8 @@
         "B": "REMOVE TABLE",
         "C": "CLEAR TABLE",
         "D": "DROP TABLE",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "easy"
     },
     {
         "subjectId": "csdl",
@@ -4845,7 +5248,8 @@
         "B": "INTERSECT",
         "C": "EXCEPT",
         "D": "MINUS",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "medium"
     },
     {
         "subjectId": "csdl",
@@ -4857,7 +5261,8 @@
         "B": "DISTINCT",
         "C": "DIFFERENT",
         "D": "SINGLE",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "easy"
     },
     {
         "subjectId": "csdl",
@@ -4869,7 +5274,8 @@
         "B": "AVG()",
         "C": "MEAN()",
         "D": "COUNT()",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "easy"
     },
     {
         "subjectId": "csdl",
@@ -4881,7 +5287,8 @@
         "B": "UNIQUE KEY",
         "C": "PRIMARY KEY",
         "D": "CHECK KEY",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "easy"
     },
     {
         "subjectId": "csdl",
@@ -4893,7 +5300,8 @@
         "B": "WHEN",
         "C": "HAVING",
         "D": "IF",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "easy"
     },
     {
         "subjectId": "csdl",
@@ -4905,7 +5313,8 @@
         "B": "Unique Key",
         "C": "Candidate Key",
         "D": "Foreign Key (Khóa ngoại)",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "medium"
     },
     {
         "subjectId": "csdl",
@@ -4917,7 +5326,8 @@
         "B": "DESC",
         "C": "UP",
         "D": "SORT",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "medium"
     },
     {
         "subjectId": "csdl",
@@ -4929,7 +5339,8 @@
         "B": "EQUAL",
         "C": "MATCH",
         "D": "BETWEEN",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "hard"
     },
     {
         "subjectId": "csdl",
@@ -4941,7 +5352,8 @@
         "B": "EXTRACT",
         "C": "SELECT",
         "D": "OPEN",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "easy"
     },
     {
         "subjectId": "csdl",
@@ -4953,7 +5365,8 @@
         "B": "CLEAR",
         "C": "DELETE FROM",
         "D": "DROP ROW",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "hard"
     },
     {
         "subjectId": "csdl",
@@ -4965,7 +5378,8 @@
         "B": "JOIN",
         "C": "MERGE",
         "D": "UNION",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "easy"
     },
     {
         "subjectId": "csdl",
@@ -4977,7 +5391,8 @@
         "B": "BETWEEN",
         "C": "LIKE",
         "D": "MATCH",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "hard"
     },
     {
         "subjectId": "csdl",
@@ -4989,7 +5404,8 @@
         "B": "IF",
         "C": "GROUP BY",
         "D": "ORDER BY",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "csdl",
@@ -5001,7 +5417,8 @@
         "B": "SORT BY",
         "C": "GROUP BY",
         "D": "JOIN BY",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "hard"
     },
     {
         "subjectId": "csdl",
@@ -5013,7 +5430,8 @@
         "B": "SORT",
         "C": "DESC",
         "D": "DOWN",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "medium"
     },
     {
         "subjectId": "csdl",
@@ -5025,7 +5443,8 @@
         "B": "COUNT()",
         "C": "TOTAL()",
         "D": "NUMBER()",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "medium"
     },
     {
         "subjectId": "csdl",
@@ -5037,7 +5456,8 @@
         "B": "*",
         "C": "@",
         "D": "&",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "medium"
     },
     {
         "subjectId": "csdl",
@@ -5049,7 +5469,8 @@
         "B": "MODIFY",
         "C": "ALTER",
         "D": "UPDATE",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "hard"
     },
     {
         "subjectId": "csdl",
@@ -5061,7 +5482,8 @@
         "B": "ALTER TABLE",
         "C": "MODIFY TABLE",
         "D": "CHANGE TABLE",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "hard"
     },
     {
         "subjectId": "csdl",
@@ -5073,7 +5495,8 @@
         "B": "NEW TABLE",
         "C": "ADD TABLE",
         "D": "MAKE TABLE",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "csdl",
@@ -5085,7 +5508,8 @@
         "B": "INSERT INTO",
         "C": "UPDATE",
         "D": "CREATE",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "medium"
     },
     {
         "subjectId": "csdl",
@@ -5097,7 +5521,8 @@
         "B": "REMOVE TABLE",
         "C": "CLEAR TABLE",
         "D": "DROP TABLE",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "easy"
     },
     {
         "subjectId": "csdl",
@@ -5109,7 +5534,8 @@
         "B": "UNIQUE",
         "C": "CHECK",
         "D": "DEFAULT",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "csdl",
@@ -5121,7 +5547,8 @@
         "B": "DISTINCT",
         "C": "DIFFERENT",
         "D": "SINGLE",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "hard"
     },
     {
         "subjectId": "csdl",
@@ -5133,7 +5560,8 @@
         "B": "CREATE DATABASE",
         "C": "NEW DATABASE",
         "D": "ADD DATABASE",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "easy"
     },
     {
         "subjectId": "csdl",
@@ -5145,7 +5573,8 @@
         "B": "INTERSECT",
         "C": "EXCEPT",
         "D": "MINUS",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "csdl",
@@ -5157,7 +5586,8 @@
         "B": "AVG()",
         "C": "MEAN()",
         "D": "COUNT()",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "hard"
     },
     {
         "subjectId": "csdl",
@@ -5169,7 +5599,8 @@
         "B": "UNIQUE KEY",
         "C": "PRIMARY KEY",
         "D": "CHECK KEY",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "easy"
     },
     {
         "subjectId": "csdl",
@@ -5181,7 +5612,8 @@
         "B": "ALTER TABLE",
         "C": "MODIFY TABLE",
         "D": "CHANGE TABLE",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "hard"
     },
     {
         "subjectId": "csdl",
@@ -5193,7 +5625,8 @@
         "B": "DISTINCT",
         "C": "DIFFERENT",
         "D": "SINGLE",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "easy"
     },
     {
         "subjectId": "csdl",
@@ -5205,7 +5638,8 @@
         "B": "COUNT()",
         "C": "TOTAL()",
         "D": "NUMBER()",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "hard"
     },
     {
         "subjectId": "csdl",
@@ -5217,7 +5651,8 @@
         "B": "Unique Key",
         "C": "Candidate Key",
         "D": "Foreign Key (Khóa ngoại)",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "medium"
     },
     {
         "subjectId": "csdl",
@@ -5229,7 +5664,8 @@
         "B": "MODIFY",
         "C": "ALTER",
         "D": "UPDATE",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "easy"
     },
     {
         "subjectId": "csdl",
@@ -5241,7 +5677,8 @@
         "B": "SORT BY",
         "C": "GROUP BY",
         "D": "JOIN BY",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "hard"
     },
     {
         "subjectId": "csdl",
@@ -5253,7 +5690,8 @@
         "B": "INTERSECT",
         "C": "EXCEPT",
         "D": "MINUS",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "medium"
     },
     {
         "subjectId": "csdl",
@@ -5265,7 +5703,8 @@
         "B": "BETWEEN",
         "C": "LIKE",
         "D": "MATCH",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "easy"
     },
     {
         "subjectId": "csdl",
@@ -5277,7 +5716,8 @@
         "B": "EXTRACT",
         "C": "SELECT",
         "D": "OPEN",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "medium"
     },
     {
         "subjectId": "csdl",
@@ -5289,7 +5729,8 @@
         "B": "INSERT INTO",
         "C": "UPDATE",
         "D": "CREATE",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "hard"
     },
     {
         "subjectId": "csdl",
@@ -5301,7 +5742,8 @@
         "B": "*",
         "C": "@",
         "D": "&",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "hard"
     },
     {
         "subjectId": "csdl",
@@ -5313,7 +5755,8 @@
         "B": "JOIN",
         "C": "MERGE",
         "D": "UNION",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "medium"
     },
     {
         "subjectId": "csdl",
@@ -5325,7 +5768,8 @@
         "B": "CLEAR",
         "C": "DELETE FROM",
         "D": "DROP ROW",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "easy"
     },
     {
         "subjectId": "csdl",
@@ -5337,7 +5781,8 @@
         "B": "UNIQUE",
         "C": "CHECK",
         "D": "DEFAULT",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "csdl",
@@ -5349,7 +5794,8 @@
         "B": "DESC",
         "C": "UP",
         "D": "SORT",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "hard"
     },
     {
         "subjectId": "csdl",
@@ -5361,7 +5807,8 @@
         "B": "NEW TABLE",
         "C": "ADD TABLE",
         "D": "MAKE TABLE",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "medium"
     },
     {
         "subjectId": "csdl",
@@ -5373,7 +5820,8 @@
         "B": "IF",
         "C": "GROUP BY",
         "D": "ORDER BY",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "hard"
     },
     {
         "subjectId": "csdl",
@@ -5385,7 +5833,8 @@
         "B": "EQUAL",
         "C": "MATCH",
         "D": "BETWEEN",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "medium"
     },
     {
         "subjectId": "csdl",
@@ -5397,7 +5846,8 @@
         "B": "WHEN",
         "C": "HAVING",
         "D": "IF",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "hard"
     },
     {
         "subjectId": "csdl",
@@ -5409,7 +5859,8 @@
         "B": "SORT",
         "C": "DESC",
         "D": "DOWN",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "medium"
     },
     {
         "subjectId": "csdl",
@@ -5421,7 +5872,8 @@
         "B": "CREATE DATABASE",
         "C": "NEW DATABASE",
         "D": "ADD DATABASE",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "medium"
     },
     {
         "subjectId": "csdl",
@@ -5433,7 +5885,8 @@
         "B": "REMOVE TABLE",
         "C": "CLEAR TABLE",
         "D": "DROP TABLE",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "easy"
     },
     {
         "subjectId": "csdl",
@@ -5445,7 +5898,8 @@
         "B": "AVG()",
         "C": "MEAN()",
         "D": "COUNT()",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "hard"
     },
     {
         "subjectId": "csdl",
@@ -5457,7 +5911,8 @@
         "B": "UNIQUE KEY",
         "C": "PRIMARY KEY",
         "D": "CHECK KEY",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "medium"
     },
     {
         "subjectId": "csdl",
@@ -5469,7 +5924,8 @@
         "B": "INSERT INTO",
         "C": "UPDATE",
         "D": "CREATE",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "easy"
     },
     {
         "subjectId": "csdl",
@@ -5481,7 +5937,8 @@
         "B": "*",
         "C": "@",
         "D": "&",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "medium"
     },
     {
         "subjectId": "csdl",
@@ -5493,7 +5950,8 @@
         "B": "DISTINCT",
         "C": "DIFFERENT",
         "D": "SINGLE",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "medium"
     },
     {
         "subjectId": "csdl",
@@ -5505,7 +5963,8 @@
         "B": "Unique Key",
         "C": "Candidate Key",
         "D": "Foreign Key (Khóa ngoại)",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "medium"
     },
     {
         "subjectId": "csdl",
@@ -5517,7 +5976,8 @@
         "B": "IF",
         "C": "GROUP BY",
         "D": "ORDER BY",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "csdl",
@@ -5529,7 +5989,8 @@
         "B": "UNIQUE",
         "C": "CHECK",
         "D": "DEFAULT",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "csdl",
@@ -5541,7 +6002,8 @@
         "B": "MODIFY",
         "C": "ALTER",
         "D": "UPDATE",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "medium"
     },
     {
         "subjectId": "csdl",
@@ -5553,7 +6015,8 @@
         "B": "SORT BY",
         "C": "GROUP BY",
         "D": "JOIN BY",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "easy"
     },
     {
         "subjectId": "csdl",
@@ -5565,7 +6028,8 @@
         "B": "EXTRACT",
         "C": "SELECT",
         "D": "OPEN",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "hard"
     },
     {
         "subjectId": "csdl",
@@ -5577,7 +6041,8 @@
         "B": "BETWEEN",
         "C": "LIKE",
         "D": "MATCH",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "hard"
     },
     {
         "subjectId": "csdl",
@@ -5589,7 +6054,8 @@
         "B": "JOIN",
         "C": "MERGE",
         "D": "UNION",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "hard"
     },
     {
         "subjectId": "csdl",
@@ -5601,7 +6067,8 @@
         "B": "CLEAR",
         "C": "DELETE FROM",
         "D": "DROP ROW",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "easy"
     },
     {
         "subjectId": "csdl",
@@ -5613,7 +6080,8 @@
         "B": "DESC",
         "C": "UP",
         "D": "SORT",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "medium"
     },
     {
         "subjectId": "csdl",
@@ -5625,7 +6093,8 @@
         "B": "COUNT()",
         "C": "TOTAL()",
         "D": "NUMBER()",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "hard"
     },
     {
         "subjectId": "csdl",
@@ -5637,7 +6106,8 @@
         "B": "ALTER TABLE",
         "C": "MODIFY TABLE",
         "D": "CHANGE TABLE",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "medium"
     },
     {
         "subjectId": "csdl",
@@ -5649,7 +6119,8 @@
         "B": "NEW TABLE",
         "C": "ADD TABLE",
         "D": "MAKE TABLE",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "medium"
     },
     {
         "subjectId": "csdl",
@@ -5661,7 +6132,8 @@
         "B": "EQUAL",
         "C": "MATCH",
         "D": "BETWEEN",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "csdl",
@@ -5673,7 +6145,8 @@
         "B": "WHEN",
         "C": "HAVING",
         "D": "IF",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "medium"
     },
     {
         "subjectId": "csdl",
@@ -5685,7 +6158,8 @@
         "B": "SORT",
         "C": "DESC",
         "D": "DOWN",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "hard"
     },
     {
         "subjectId": "csdl",
@@ -5697,7 +6171,8 @@
         "B": "INTERSECT",
         "C": "EXCEPT",
         "D": "MINUS",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "hard"
     },
     {
         "subjectId": "csdl",
@@ -5709,7 +6184,8 @@
         "B": "CREATE DATABASE",
         "C": "NEW DATABASE",
         "D": "ADD DATABASE",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "medium"
     },
     {
         "subjectId": "csdl",
@@ -5721,7 +6197,8 @@
         "B": "REMOVE TABLE",
         "C": "CLEAR TABLE",
         "D": "DROP TABLE",
-        "correct": "D"
+        "correct": "D",
+        "difficulty": "easy"
     },
     {
         "subjectId": "csdl",
@@ -5733,7 +6210,8 @@
         "B": "AVG()",
         "C": "MEAN()",
         "D": "COUNT()",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "easy"
     },
     {
         "subjectId": "csdl",
@@ -5745,7 +6223,8 @@
         "B": "UNIQUE KEY",
         "C": "PRIMARY KEY",
         "D": "CHECK KEY",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "medium"
     },
     {
         "subjectId": "ta",
@@ -5757,7 +6236,8 @@
         "B": "Internet Technology",
         "C": "Integrated Tool",
         "D": "Intellectual Technology",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "hard"
     },
     {
         "subjectId": "ta",
@@ -5769,7 +6249,8 @@
         "B": "Trình duyệt web",
         "C": "Ứng dụng văn phòng",
         "D": "Phần mềm diệt virus",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "ta",
@@ -5781,7 +6262,8 @@
         "B": "Mạng máy tính ảo",
         "C": "Tính toán song song",
         "D": "Hệ thống phân tán",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "hard"
     },
     {
         "subjectId": "ta",
@@ -5793,7 +6275,8 @@
         "B": "Cơ sở dữ liệu",
         "C": "Phần cứng máy tính",
         "D": "Mạng máy tính",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "easy"
     },
     {
         "subjectId": "ta",
@@ -5805,7 +6288,8 @@
         "B": "Máy trạm người dùng",
         "C": "Thiết bị định tuyến",
         "D": "Đầu nối cáp quang",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "ta",
@@ -5817,7 +6301,8 @@
         "B": "Read Access Memory",
         "C": "Run Automotive Module",
         "D": "Real Active Memory",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "ta",
@@ -5829,7 +6314,8 @@
         "B": "Lý lịch sinh viên",
         "C": "Cơ sở dữ liệu",
         "D": "Mã máy ngầm",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "medium"
     },
     {
         "subjectId": "ta",
@@ -5841,7 +6327,8 @@
         "B": "Hệ điều hành máy tính",
         "C": "Cấu trúc phần cứng",
         "D": "Mô hình mạng",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "ta",
@@ -5853,7 +6340,8 @@
         "B": "Mã máy nhị phân",
         "C": "Tệp tin thực thi",
         "D": "Dữ liệu đầu ra",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "ta",
@@ -5865,7 +6353,8 @@
         "B": "Bug",
         "C": "Virus",
         "D": "Update",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "medium"
     },
     {
         "subjectId": "ta",
@@ -5877,7 +6366,8 @@
         "B": "WAN",
         "C": "MAN",
         "D": "Internet",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "ta",
@@ -5889,7 +6379,8 @@
         "B": "Source\/Sink",
         "C": "Read\/Write",
         "D": "Load\/Store",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "hard"
     },
     {
         "subjectId": "ta",
@@ -5901,7 +6392,8 @@
         "B": "Firmware",
         "C": "Hardware",
         "D": "Malware",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "medium"
     },
     {
         "subjectId": "ta",
@@ -5913,7 +6405,8 @@
         "B": "Tốc độ bộ vi xử lý",
         "C": "Độ phân giải màn hình",
         "D": "Dung lượng ổ cứng",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "medium"
     },
     {
         "subjectId": "ta",
@@ -5925,7 +6418,8 @@
         "B": "Download",
         "C": "Install",
         "D": "Delete",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "easy"
     },
     {
         "subjectId": "ta",
@@ -5937,7 +6431,8 @@
         "B": "Restore",
         "C": "Format",
         "D": "Shutdown",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "easy"
     },
     {
         "subjectId": "ta",
@@ -5949,7 +6444,8 @@
         "B": "Trình thông dịch",
         "C": "Môi trường phát triển",
         "D": "Trình gỡ lỗi",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "medium"
     },
     {
         "subjectId": "ta",
@@ -5961,7 +6457,8 @@
         "B": "Cơ sở dữ liệu tập trung",
         "C": "Đường truyền vật lý",
         "D": "Quản trị viên hệ thống",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "hard"
     },
     {
         "subjectId": "ta",
@@ -5973,7 +6470,8 @@
         "B": "10.0.0.1",
         "C": "127.0.0.1",
         "D": "255.0.0.0",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "hard"
     },
     {
         "subjectId": "ta",
@@ -5985,7 +6483,8 @@
         "B": "Debug",
         "C": "Test",
         "D": "Save",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "medium"
     },
     {
         "subjectId": "ta",
@@ -5997,7 +6496,8 @@
         "B": "Đồ họa giao diện",
         "C": "Kiểm thử phần mềm",
         "D": "Quản trị cơ sở dữ liệu",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "medium"
     },
     {
         "subjectId": "ta",
@@ -6009,7 +6509,8 @@
         "B": "SDK",
         "C": "IDE",
         "D": "GUI",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "medium"
     },
     {
         "subjectId": "ta",
@@ -6021,7 +6522,8 @@
         "B": "Mã nguồn",
         "C": "Biến số",
         "D": "Hàm toán học",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "medium"
     },
     {
         "subjectId": "ta",
@@ -6033,7 +6535,8 @@
         "B": "Biến số chứa dữ liệu thay đổi",
         "C": "Hàm tính toán",
         "D": "Câu lệnh điều kiện",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "medium"
     },
     {
         "subjectId": "ta",
@@ -6045,7 +6548,8 @@
         "B": "Trình duyệt web",
         "C": "Ứng dụng văn phòng",
         "D": "Phần mềm diệt virus",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "ta",
@@ -6057,7 +6561,8 @@
         "B": "Mạng máy tính ảo",
         "C": "Tính toán song song",
         "D": "Hệ thống phân tán",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "ta",
@@ -6069,7 +6574,8 @@
         "B": "Cơ sở dữ liệu",
         "C": "Phần cứng máy tính",
         "D": "Mạng máy tính",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "easy"
     },
     {
         "subjectId": "ta",
@@ -6081,7 +6587,8 @@
         "B": "Cơ sở dữ liệu tập trung",
         "C": "Đường truyền vật lý",
         "D": "Quản trị viên hệ thống",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "ta",
@@ -6093,7 +6600,8 @@
         "B": "Internet Technology",
         "C": "Integrated Tool",
         "D": "Intellectual Technology",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "ta",
@@ -6105,7 +6613,8 @@
         "B": "Read Access Memory",
         "C": "Run Automotive Module",
         "D": "Real Active Memory",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "medium"
     },
     {
         "subjectId": "ta",
@@ -6117,7 +6626,8 @@
         "B": "Mã máy nhị phân",
         "C": "Tệp tin thực thi",
         "D": "Dữ liệu đầu ra",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "hard"
     },
     {
         "subjectId": "ta",
@@ -6129,7 +6639,8 @@
         "B": "10.0.0.1",
         "C": "127.0.0.1",
         "D": "255.0.0.0",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "hard"
     },
     {
         "subjectId": "ta",
@@ -6141,7 +6652,8 @@
         "B": "WAN",
         "C": "MAN",
         "D": "Internet",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "hard"
     },
     {
         "subjectId": "ta",
@@ -6153,7 +6665,8 @@
         "B": "Máy trạm người dùng",
         "C": "Thiết bị định tuyến",
         "D": "Đầu nối cáp quang",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "medium"
     },
     {
         "subjectId": "ta",
@@ -6165,7 +6678,8 @@
         "B": "Bug",
         "C": "Virus",
         "D": "Update",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "hard"
     },
     {
         "subjectId": "ta",
@@ -6177,7 +6691,8 @@
         "B": "Source\/Sink",
         "C": "Read\/Write",
         "D": "Load\/Store",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "medium"
     },
     {
         "subjectId": "ta",
@@ -6189,7 +6704,8 @@
         "B": "Lý lịch sinh viên",
         "C": "Cơ sở dữ liệu",
         "D": "Mã máy ngầm",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "ta",
@@ -6201,7 +6717,8 @@
         "B": "Firmware",
         "C": "Hardware",
         "D": "Malware",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "medium"
     },
     {
         "subjectId": "ta",
@@ -6213,7 +6730,8 @@
         "B": "Tốc độ bộ vi xử lý",
         "C": "Độ phân giải màn hình",
         "D": "Dung lượng ổ cứng",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "medium"
     },
     {
         "subjectId": "ta",
@@ -6225,7 +6743,8 @@
         "B": "Restore",
         "C": "Format",
         "D": "Shutdown",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "medium"
     },
     {
         "subjectId": "ta",
@@ -6237,7 +6756,8 @@
         "B": "Download",
         "C": "Install",
         "D": "Delete",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "easy"
     },
     {
         "subjectId": "ta",
@@ -6249,7 +6769,8 @@
         "B": "Hệ điều hành máy tính",
         "C": "Cấu trúc phần cứng",
         "D": "Mô hình mạng",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "hard"
     },
     {
         "subjectId": "ta",
@@ -6261,7 +6782,8 @@
         "B": "Trình thông dịch",
         "C": "Môi trường phát triển",
         "D": "Trình gỡ lỗi",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "hard"
     },
     {
         "subjectId": "ta",
@@ -6273,7 +6795,8 @@
         "B": "Debug",
         "C": "Test",
         "D": "Save",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "hard"
     },
     {
         "subjectId": "ta",
@@ -6285,7 +6808,8 @@
         "B": "Đồ họa giao diện",
         "C": "Kiểm thử phần mềm",
         "D": "Quản trị cơ sở dữ liệu",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "ta",
@@ -6297,7 +6821,8 @@
         "B": "SDK",
         "C": "IDE",
         "D": "GUI",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "ta",
@@ -6309,7 +6834,8 @@
         "B": "Mã nguồn",
         "C": "Biến số",
         "D": "Hàm toán học",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "ta",
@@ -6321,7 +6847,8 @@
         "B": "Biến số chứa dữ liệu thay đổi",
         "C": "Hàm tính toán",
         "D": "Câu lệnh điều kiện",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "hard"
     },
     {
         "subjectId": "ta",
@@ -6333,7 +6860,8 @@
         "B": "Hệ điều hành máy tính",
         "C": "Cấu trúc phần cứng",
         "D": "Mô hình mạng",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "ta",
@@ -6345,7 +6873,8 @@
         "B": "WAN",
         "C": "MAN",
         "D": "Internet",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "medium"
     },
     {
         "subjectId": "ta",
@@ -6357,7 +6886,8 @@
         "B": "Trình thông dịch",
         "C": "Môi trường phát triển",
         "D": "Trình gỡ lỗi",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "ta",
@@ -6369,7 +6899,8 @@
         "B": "Cơ sở dữ liệu tập trung",
         "C": "Đường truyền vật lý",
         "D": "Quản trị viên hệ thống",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "ta",
@@ -6381,7 +6912,8 @@
         "B": "Lý lịch sinh viên",
         "C": "Cơ sở dữ liệu",
         "D": "Mã máy ngầm",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "hard"
     },
     {
         "subjectId": "ta",
@@ -6393,7 +6925,8 @@
         "B": "Mã máy nhị phân",
         "C": "Tệp tin thực thi",
         "D": "Dữ liệu đầu ra",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "ta",
@@ -6405,7 +6938,8 @@
         "B": "Internet Technology",
         "C": "Integrated Tool",
         "D": "Intellectual Technology",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "ta",
@@ -6417,7 +6951,8 @@
         "B": "Máy trạm người dùng",
         "C": "Thiết bị định tuyến",
         "D": "Đầu nối cáp quang",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "ta",
@@ -6429,7 +6964,8 @@
         "B": "10.0.0.1",
         "C": "127.0.0.1",
         "D": "255.0.0.0",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "medium"
     },
     {
         "subjectId": "ta",
@@ -6441,7 +6977,8 @@
         "B": "Trình duyệt web",
         "C": "Ứng dụng văn phòng",
         "D": "Phần mềm diệt virus",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "hard"
     },
     {
         "subjectId": "ta",
@@ -6453,7 +6990,8 @@
         "B": "Mạng máy tính ảo",
         "C": "Tính toán song song",
         "D": "Hệ thống phân tán",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "ta",
@@ -6465,7 +7003,8 @@
         "B": "Cơ sở dữ liệu",
         "C": "Phần cứng máy tính",
         "D": "Mạng máy tính",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "hard"
     },
     {
         "subjectId": "ta",
@@ -6477,7 +7016,8 @@
         "B": "Read Access Memory",
         "C": "Run Automotive Module",
         "D": "Real Active Memory",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "medium"
     },
     {
         "subjectId": "ta",
@@ -6489,7 +7029,8 @@
         "B": "Bug",
         "C": "Virus",
         "D": "Update",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "medium"
     },
     {
         "subjectId": "ta",
@@ -6501,7 +7042,8 @@
         "B": "Source\/Sink",
         "C": "Read\/Write",
         "D": "Load\/Store",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "hard"
     },
     {
         "subjectId": "ta",
@@ -6513,7 +7055,8 @@
         "B": "Firmware",
         "C": "Hardware",
         "D": "Malware",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "medium"
     },
     {
         "subjectId": "ta",
@@ -6525,7 +7068,8 @@
         "B": "Tốc độ bộ vi xử lý",
         "C": "Độ phân giải màn hình",
         "D": "Dung lượng ổ cứng",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "hard"
     },
     {
         "subjectId": "ta",
@@ -6537,7 +7081,8 @@
         "B": "Download",
         "C": "Install",
         "D": "Delete",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "easy"
     },
     {
         "subjectId": "ta",
@@ -6549,7 +7094,8 @@
         "B": "Restore",
         "C": "Format",
         "D": "Shutdown",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "medium"
     },
     {
         "subjectId": "ta",
@@ -6561,7 +7107,8 @@
         "B": "Debug",
         "C": "Test",
         "D": "Save",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "easy"
     },
     {
         "subjectId": "ta",
@@ -6573,7 +7120,8 @@
         "B": "Đồ họa giao diện",
         "C": "Kiểm thử phần mềm",
         "D": "Quản trị cơ sở dữ liệu",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "medium"
     },
     {
         "subjectId": "ta",
@@ -6585,7 +7133,8 @@
         "B": "SDK",
         "C": "IDE",
         "D": "GUI",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "hard"
     },
     {
         "subjectId": "ta",
@@ -6597,7 +7146,8 @@
         "B": "Mã nguồn",
         "C": "Biến số",
         "D": "Hàm toán học",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "hard"
     },
     {
         "subjectId": "ta",
@@ -6609,7 +7159,8 @@
         "B": "Biến số chứa dữ liệu thay đổi",
         "C": "Hàm tính toán",
         "D": "Câu lệnh điều kiện",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "medium"
     },
     {
         "subjectId": "ta",
@@ -6621,7 +7172,8 @@
         "B": "Mã máy nhị phân",
         "C": "Tệp tin thực thi",
         "D": "Dữ liệu đầu ra",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "ta",
@@ -6633,7 +7185,8 @@
         "B": "10.0.0.1",
         "C": "127.0.0.1",
         "D": "255.0.0.0",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "medium"
     },
     {
         "subjectId": "ta",
@@ -6645,7 +7198,8 @@
         "B": "Trình duyệt web",
         "C": "Ứng dụng văn phòng",
         "D": "Phần mềm diệt virus",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "hard"
     },
     {
         "subjectId": "ta",
@@ -6657,7 +7211,8 @@
         "B": "Máy trạm người dùng",
         "C": "Thiết bị định tuyến",
         "D": "Đầu nối cáp quang",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "hard"
     },
     {
         "subjectId": "ta",
@@ -6669,7 +7224,8 @@
         "B": "Internet Technology",
         "C": "Integrated Tool",
         "D": "Intellectual Technology",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "hard"
     },
     {
         "subjectId": "ta",
@@ -6681,7 +7237,8 @@
         "B": "Hệ điều hành máy tính",
         "C": "Cấu trúc phần cứng",
         "D": "Mô hình mạng",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "hard"
     },
     {
         "subjectId": "ta",
@@ -6693,7 +7250,8 @@
         "B": "Read Access Memory",
         "C": "Run Automotive Module",
         "D": "Real Active Memory",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "medium"
     },
     {
         "subjectId": "ta",
@@ -6705,7 +7263,8 @@
         "B": "Mạng máy tính ảo",
         "C": "Tính toán song song",
         "D": "Hệ thống phân tán",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "medium"
     },
     {
         "subjectId": "ta",
@@ -6717,7 +7276,8 @@
         "B": "Cơ sở dữ liệu",
         "C": "Phần cứng máy tính",
         "D": "Mạng máy tính",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "easy"
     },
     {
         "subjectId": "ta",
@@ -6729,7 +7289,8 @@
         "B": "Cơ sở dữ liệu tập trung",
         "C": "Đường truyền vật lý",
         "D": "Quản trị viên hệ thống",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "ta",
@@ -6741,7 +7302,8 @@
         "B": "WAN",
         "C": "MAN",
         "D": "Internet",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "medium"
     },
     {
         "subjectId": "ta",
@@ -6753,7 +7315,8 @@
         "B": "Bug",
         "C": "Virus",
         "D": "Update",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "easy"
     },
     {
         "subjectId": "ta",
@@ -6765,7 +7328,8 @@
         "B": "Source\/Sink",
         "C": "Read\/Write",
         "D": "Load\/Store",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "ta",
@@ -6777,7 +7341,8 @@
         "B": "Lý lịch sinh viên",
         "C": "Cơ sở dữ liệu",
         "D": "Mã máy ngầm",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "ta",
@@ -6789,7 +7354,8 @@
         "B": "Firmware",
         "C": "Hardware",
         "D": "Malware",
-        "correct": "C"
+        "correct": "C",
+        "difficulty": "medium"
     },
     {
         "subjectId": "ta",
@@ -6801,7 +7367,8 @@
         "B": "Tốc độ bộ vi xử lý",
         "C": "Độ phân giải màn hình",
         "D": "Dung lượng ổ cứng",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "easy"
     },
     {
         "subjectId": "ta",
@@ -6813,7 +7380,8 @@
         "B": "Download",
         "C": "Install",
         "D": "Delete",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "easy"
     },
     {
         "subjectId": "ta",
@@ -6825,7 +7393,8 @@
         "B": "Restore",
         "C": "Format",
         "D": "Shutdown",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "medium"
     },
     {
         "subjectId": "ta",
@@ -6837,7 +7406,8 @@
         "B": "Trình thông dịch",
         "C": "Môi trường phát triển",
         "D": "Trình gỡ lỗi",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "medium"
     },
     {
         "subjectId": "ta",
@@ -6849,7 +7419,8 @@
         "B": "Debug",
         "C": "Test",
         "D": "Save",
-        "correct": "B"
+        "correct": "B",
+        "difficulty": "medium"
     },
     {
         "subjectId": "ta",
@@ -6861,7 +7432,8 @@
         "B": "Đồ họa giao diện",
         "C": "Kiểm thử phần mềm",
         "D": "Quản trị cơ sở dữ liệu",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "hard"
     },
     {
         "subjectId": "ta",
@@ -6873,7 +7445,8 @@
         "B": "SDK",
         "C": "IDE",
         "D": "GUI",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "medium"
     },
     {
         "subjectId": "ta",
@@ -6885,7 +7458,8 @@
         "B": "Mã nguồn",
         "C": "Biến số",
         "D": "Hàm toán học",
-        "correct": "A"
+        "correct": "A",
+        "difficulty": "medium"
     },
     {
         "subjectId": "ta",
@@ -6895,6 +7469,7 @@
         "C": "Hàm tính toán",
         "D": "Câu lệnh điều kiện",
         "correct": "B",
-        "status": "approved"
+        "status": "approved",
+        "difficulty": "easy"
     }
 ]

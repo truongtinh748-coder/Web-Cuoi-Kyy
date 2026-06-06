@@ -2,6 +2,3170 @@
     {
         "username": "1111111111",
         "subject": "TOAN",
+        "correct": "0\/25",
+        "score": 0,
+        "time": "23:04:36 04\/06\/2026",
+        "details": [
+            {
+                "question": "Chuỗi số lượng giác Fourier dùng để biểu diễn các hàm số?",
+                "student_answer": "",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "Đơn điệu",
+                "B": "Không liên tục",
+                "C": "Đa thức",
+                "D": "Tuần hoàn"
+            },
+            {
+                "question": "Giá trị riêng của ma trận đường chéo là gì?",
+                "student_answer": "",
+                "correct_answer": "C",
+                "is_correct": false,
+                "A": "Các số 0",
+                "B": "Các số 1",
+                "C": "Các phần tử trên đường chéo chính",
+                "D": "Các phần tử dòng 1"
+            },
+            {
+                "question": "Trong không gian Euclid, độ dài của vectơ v=(3,4) là?",
+                "student_answer": "",
+                "correct_answer": "B",
+                "is_correct": false,
+                "A": "3",
+                "B": "5",
+                "C": "4",
+                "D": "7"
+            },
+            {
+                "question": "Ma trận vuông có định thức bằng 0 gọi là gì?",
+                "student_answer": "",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "Ma trận đơn vị",
+                "B": "Ma trận nghịch đảo",
+                "C": "Ma trận đối xứng",
+                "D": "Ma trận suy biến"
+            },
+            {
+                "question": "Ma trận nghịch đảo của ma trận A tồn tại khi và chỉ khi?",
+                "student_answer": "",
+                "correct_answer": "C",
+                "is_correct": false,
+                "A": "det(A) = 0",
+                "B": "A là ma trận không",
+                "C": "det(A) # 0",
+                "D": "A là ma trận hàng"
+            },
+            {
+                "question": "Hàm số y = x^3 - 3x có bao nhiêu điểm cực trị?",
+                "student_answer": "",
+                "correct_answer": "A",
+                "is_correct": false,
+                "A": "2",
+                "B": "1",
+                "C": "0",
+                "D": "3"
+            },
+            {
+                "question": "Hạng của ma trận không bằng bao nhiêu?",
+                "student_answer": "",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "1",
+                "B": "Vô cùng",
+                "C": "Không xác định",
+                "D": "0"
+            },
+            {
+                "question": "Ma trận vuông có định thức bằng 0 gọi là gì?",
+                "student_answer": "",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "Ma trận đơn vị",
+                "B": "Ma trận nghịch đảo",
+                "C": "Ma trận đối xứng",
+                "D": "Ma trận suy biến"
+            },
+            {
+                "question": "Tính nguyên hàm của f(x) = 2x?",
+                "student_answer": "",
+                "correct_answer": "C",
+                "is_correct": false,
+                "A": "x^2",
+                "B": "2",
+                "C": "x^2 + C",
+                "D": "x"
+            },
+            {
+                "question": "Hàm số nào sau đây luôn đồng biến trên R?",
+                "student_answer": "",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "y = -x",
+                "B": "y = x^2",
+                "C": "y = 1\/x",
+                "D": "y = x^3 + x"
+            },
+            {
+                "question": "Tính giới hạn của hàm số lim (x->0) (sin x) \/ x?",
+                "student_answer": "",
+                "correct_answer": "A",
+                "is_correct": false,
+                "A": "1",
+                "B": "0",
+                "C": "Vô cùng",
+                "D": "Không tồn tại"
+            },
+            {
+                "question": "Tích phân phân kỳ là tích phân có kết quả như thế nào?",
+                "student_answer": "",
+                "correct_answer": "B",
+                "is_correct": false,
+                "A": "Bằng 0",
+                "B": "Tiến ra vô cùng hoặc không tồn tại",
+                "C": "Là một số thực",
+                "D": "Bằng 1"
+            },
+            {
+                "question": "Hạng của ma trận không bằng bao nhiêu?",
+                "student_answer": "",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "1",
+                "B": "Vô cùng",
+                "C": "Không xác định",
+                "D": "0"
+            },
+            {
+                "question": "Chuỗi số lượng giác Fourier dùng để biểu diễn các hàm số?",
+                "student_answer": "",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "Đơn điệu",
+                "B": "Không liên tục",
+                "C": "Đa thức",
+                "D": "Tuần hoàn"
+            },
+            {
+                "question": "Tính nguyên hàm của f(x) = 2x?",
+                "student_answer": "",
+                "correct_answer": "C",
+                "is_correct": false,
+                "A": "x^2",
+                "B": "2",
+                "C": "x^2 + C",
+                "D": "x"
+            },
+            {
+                "question": "Ma trận chuyển vị của ma trận hàng là ma trận gì?",
+                "student_answer": "",
+                "correct_answer": "A",
+                "is_correct": false,
+                "A": "Ma trận cột",
+                "B": "Ma trận vuông",
+                "C": "Ma trận đường chéo",
+                "D": "Ma trận không"
+            },
+            {
+                "question": "Tiệm cận ngang của đồ thị hàm số y = 1\/x khi x tiến ra vô cùng là?",
+                "student_answer": "",
+                "correct_answer": "A",
+                "is_correct": false,
+                "A": "y = 0",
+                "B": "y = 1",
+                "C": "x = 0",
+                "D": "Không có"
+            },
+            {
+                "question": "Tìm đạo hàm của hàm số y = ln(x)?",
+                "student_answer": "",
+                "correct_answer": "C",
+                "is_correct": false,
+                "A": "e^x",
+                "B": "1\/x^2",
+                "C": "1\/x",
+                "D": "ln(x)"
+            },
+            {
+                "question": "Tích phân phân kỳ là tích phân có kết quả như thế nào?",
+                "student_answer": "",
+                "correct_answer": "B",
+                "is_correct": false,
+                "A": "Bằng 0",
+                "B": "Tiến ra vô cùng hoặc không tồn tại",
+                "C": "Là một số thực",
+                "D": "Bằng 1"
+            },
+            {
+                "question": "Hàm số y = x^3 - 3x có bao nhiêu điểm cực trị?",
+                "student_answer": "",
+                "correct_answer": "A",
+                "is_correct": false,
+                "A": "2",
+                "B": "1",
+                "C": "0",
+                "D": "3"
+            },
+            {
+                "question": "Hệ phương trình tuyến tính AX = B có vô số nghiệm khi nào?",
+                "student_answer": "",
+                "correct_answer": "A",
+                "is_correct": false,
+                "A": "r(A) = r(A|B) < số ẩn",
+                "B": "r(A) = r(A|B) = số ẩn",
+                "C": "r(A) # r(A|B)",
+                "D": "det(A) # 0"
+            },
+            {
+                "question": "Vectơ nào sau đây là vectơ không trong không gian R^2?",
+                "student_answer": "",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "(1,1)",
+                "B": "(0,1)",
+                "C": "(1,0)",
+                "D": "(0,0)"
+            },
+            {
+                "question": "Điều kiện để hai vectơ vuông góc với nhau là?",
+                "student_answer": "",
+                "correct_answer": "A",
+                "is_correct": false,
+                "A": "Tích vô hướng bằng 0",
+                "B": "Tích có hướng bằng 0",
+                "C": "Cùng phương",
+                "D": "Độ dài bằng nhau"
+            },
+            {
+                "question": "Công thức tính định thức ma trận cấp 2 [a, b; c, d] là?",
+                "student_answer": "",
+                "correct_answer": "B",
+                "is_correct": false,
+                "A": "ab - cd",
+                "B": "ad - bc",
+                "C": "ac - bd",
+                "D": "ad + bc"
+            },
+            {
+                "question": "Chuỗi số lượng giác Fourier dùng để biểu diễn các hàm số?",
+                "student_answer": "",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "Đơn điệu",
+                "B": "Không liên tục",
+                "C": "Đa thức",
+                "D": "Tuần hoàn"
+            }
+        ]
+    },
+    {
+        "username": "1111111111",
+        "subject": "TOAN",
+        "correct": "0\/25",
+        "score": 0,
+        "time": "22:26:01 04\/06\/2026",
+        "details": [
+            {
+                "question": "Ma trận chuyển vị của ma trận hàng là ma trận gì?",
+                "student_answer": "",
+                "correct_answer": "A",
+                "is_correct": false,
+                "A": "Ma trận cột",
+                "B": "Ma trận vuông",
+                "C": "Ma trận đường chéo",
+                "D": "Ma trận không"
+            },
+            {
+                "question": "Ma trận chuyển vị của ma trận hàng là ma trận gì?",
+                "student_answer": "",
+                "correct_answer": "A",
+                "is_correct": false,
+                "A": "Ma trận cột",
+                "B": "Ma trận vuông",
+                "C": "Ma trận đường chéo",
+                "D": "Ma trận không"
+            },
+            {
+                "question": "Trong không gian Euclid, độ dài của vectơ v=(3,4) là?",
+                "student_answer": "",
+                "correct_answer": "B",
+                "is_correct": false,
+                "A": "3",
+                "B": "5",
+                "C": "4",
+                "D": "7"
+            },
+            {
+                "question": "Chuỗi số lượng giác Fourier dùng để biểu diễn các hàm số?",
+                "student_answer": "",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "Đơn điệu",
+                "B": "Không liên tục",
+                "C": "Đa thức",
+                "D": "Tuần hoàn"
+            },
+            {
+                "question": "Tìm vết (trace) của ma trận đơn vị cấp 3?",
+                "student_answer": "",
+                "correct_answer": "B",
+                "is_correct": false,
+                "A": "1",
+                "B": "3",
+                "C": "0",
+                "D": "9"
+            },
+            {
+                "question": "Đạo hàm của hàm số y = e^x là gì?",
+                "student_answer": "",
+                "correct_answer": "B",
+                "is_correct": false,
+                "A": "x * e^(x-1)",
+                "B": "e^x",
+                "C": "ln(x)",
+                "D": "1\/x"
+            },
+            {
+                "question": "Hệ vectơ độc lập tuyến tính khi phương trình tích bằng 0 có?",
+                "student_answer": "",
+                "correct_answer": "B",
+                "is_correct": false,
+                "A": "Vô số nghiệm",
+                "B": "Chỉ có nghiệm tầm thường (bằng 0)",
+                "C": "Hai nghiệm phân biệt",
+                "D": "Vô nghiệm"
+            },
+            {
+                "question": "Hệ vectơ độc lập tuyến tính khi phương trình tích bằng 0 có?",
+                "student_answer": "",
+                "correct_answer": "B",
+                "is_correct": false,
+                "A": "Vô số nghiệm",
+                "B": "Chỉ có nghiệm tầm thường (bằng 0)",
+                "C": "Hai nghiệm phân biệt",
+                "D": "Vô nghiệm"
+            },
+            {
+                "question": "Hạng của ma trận không bằng bao nhiêu?",
+                "student_answer": "",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "1",
+                "B": "Vô cùng",
+                "C": "Không xác định",
+                "D": "0"
+            },
+            {
+                "question": "Tích phân phân kỳ là tích phân có kết quả như thế nào?",
+                "student_answer": "",
+                "correct_answer": "B",
+                "is_correct": false,
+                "A": "Bằng 0",
+                "B": "Tiến ra vô cùng hoặc không tồn tại",
+                "C": "Là một số thực",
+                "D": "Bằng 1"
+            },
+            {
+                "question": "Hệ phương trình tuyến tính AX = B có vô số nghiệm khi nào?",
+                "student_answer": "",
+                "correct_answer": "A",
+                "is_correct": false,
+                "A": "r(A) = r(A|B) < số ẩn",
+                "B": "r(A) = r(A|B) = số ẩn",
+                "C": "r(A) # r(A|B)",
+                "D": "det(A) # 0"
+            },
+            {
+                "question": "Tính nguyên hàm của f(x) = 2x?",
+                "student_answer": "",
+                "correct_answer": "C",
+                "is_correct": false,
+                "A": "x^2",
+                "B": "2",
+                "C": "x^2 + C",
+                "D": "x"
+            },
+            {
+                "question": "Tính giới hạn của hàm số lim (x->0) (sin x) \/ x?",
+                "student_answer": "",
+                "correct_answer": "A",
+                "is_correct": false,
+                "A": "1",
+                "B": "0",
+                "C": "Vô cùng",
+                "D": "Không tồn tại"
+            },
+            {
+                "question": "Hệ phương trình tuyến tính AX = B có vô số nghiệm khi nào?",
+                "student_answer": "",
+                "correct_answer": "A",
+                "is_correct": false,
+                "A": "r(A) = r(A|B) < số ẩn",
+                "B": "r(A) = r(A|B) = số ẩn",
+                "C": "r(A) # r(A|B)",
+                "D": "det(A) # 0"
+            },
+            {
+                "question": "Ma trận vuông có định thức bằng 0 gọi là gì?",
+                "student_answer": "",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "Ma trận đơn vị",
+                "B": "Ma trận nghịch đảo",
+                "C": "Ma trận đối xứng",
+                "D": "Ma trận suy biến"
+            },
+            {
+                "question": "Hàm số nào sau đây luôn đồng biến trên R?",
+                "student_answer": "",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "y = -x",
+                "B": "y = x^2",
+                "C": "y = 1\/x",
+                "D": "y = x^3 + x"
+            },
+            {
+                "question": "Đạo hàm bậc hai của y = sin(x) là gì?",
+                "student_answer": "",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "cos(x)",
+                "B": "-cos(x)",
+                "C": "sin(x)",
+                "D": "-sin(x)"
+            },
+            {
+                "question": "Chuỗi số lượng giác Fourier dùng để biểu diễn các hàm số?",
+                "student_answer": "",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "Đơn điệu",
+                "B": "Không liên tục",
+                "C": "Đa thức",
+                "D": "Tuần hoàn"
+            },
+            {
+                "question": "Ma trận chuyển vị của ma trận hàng là ma trận gì?",
+                "student_answer": "",
+                "correct_answer": "A",
+                "is_correct": false,
+                "A": "Ma trận cột",
+                "B": "Ma trận vuông",
+                "C": "Ma trận đường chéo",
+                "D": "Ma trận không"
+            },
+            {
+                "question": "Chuỗi số lượng giác Fourier dùng để biểu diễn các hàm số?",
+                "student_answer": "",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "Đơn điệu",
+                "B": "Không liên tục",
+                "C": "Đa thức",
+                "D": "Tuần hoàn"
+            },
+            {
+                "question": "Ma trận vuông có định thức bằng 0 gọi là gì?",
+                "student_answer": "",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "Ma trận đơn vị",
+                "B": "Ma trận nghịch đảo",
+                "C": "Ma trận đối xứng",
+                "D": "Ma trận suy biến"
+            },
+            {
+                "question": "Tính nguyên hàm của f(x) = 2x?",
+                "student_answer": "",
+                "correct_answer": "C",
+                "is_correct": false,
+                "A": "x^2",
+                "B": "2",
+                "C": "x^2 + C",
+                "D": "x"
+            },
+            {
+                "question": "Đạo hàm bậc hai của y = sin(x) là gì?",
+                "student_answer": "",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "cos(x)",
+                "B": "-cos(x)",
+                "C": "sin(x)",
+                "D": "-sin(x)"
+            },
+            {
+                "question": "Hàm số y = x^3 - 3x có bao nhiêu điểm cực trị?",
+                "student_answer": "",
+                "correct_answer": "A",
+                "is_correct": false,
+                "A": "2",
+                "B": "1",
+                "C": "0",
+                "D": "3"
+            },
+            {
+                "question": "Tìm đạo hàm của hàm số y = ln(x)?",
+                "student_answer": "",
+                "correct_answer": "C",
+                "is_correct": false,
+                "A": "e^x",
+                "B": "1\/x^2",
+                "C": "1\/x",
+                "D": "ln(x)"
+            }
+        ]
+    },
+    {
+        "username": "1111111111",
+        "subject": "TOAN",
+        "correct": "0\/25",
+        "score": 0,
+        "time": "22:16:08 04\/06\/2026",
+        "details": [
+            {
+                "question": "Ma trận chuyển vị của ma trận hàng là ma trận gì?",
+                "student_answer": "",
+                "correct_answer": "A",
+                "is_correct": false,
+                "A": "Ma trận cột",
+                "B": "Ma trận vuông",
+                "C": "Ma trận đường chéo",
+                "D": "Ma trận không"
+            },
+            {
+                "question": "Ma trận chuyển vị của ma trận hàng là ma trận gì?",
+                "student_answer": "",
+                "correct_answer": "A",
+                "is_correct": false,
+                "A": "Ma trận cột",
+                "B": "Ma trận vuông",
+                "C": "Ma trận đường chéo",
+                "D": "Ma trận không"
+            },
+            {
+                "question": "Trong không gian Euclid, độ dài của vectơ v=(3,4) là?",
+                "student_answer": "",
+                "correct_answer": "B",
+                "is_correct": false,
+                "A": "3",
+                "B": "5",
+                "C": "4",
+                "D": "7"
+            },
+            {
+                "question": "Chuỗi số lượng giác Fourier dùng để biểu diễn các hàm số?",
+                "student_answer": "",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "Đơn điệu",
+                "B": "Không liên tục",
+                "C": "Đa thức",
+                "D": "Tuần hoàn"
+            },
+            {
+                "question": "Tìm vết (trace) của ma trận đơn vị cấp 3?",
+                "student_answer": "",
+                "correct_answer": "B",
+                "is_correct": false,
+                "A": "1",
+                "B": "3",
+                "C": "0",
+                "D": "9"
+            },
+            {
+                "question": "Đạo hàm của hàm số y = e^x là gì?",
+                "student_answer": "",
+                "correct_answer": "B",
+                "is_correct": false,
+                "A": "x * e^(x-1)",
+                "B": "e^x",
+                "C": "ln(x)",
+                "D": "1\/x"
+            },
+            {
+                "question": "Hệ vectơ độc lập tuyến tính khi phương trình tích bằng 0 có?",
+                "student_answer": "",
+                "correct_answer": "B",
+                "is_correct": false,
+                "A": "Vô số nghiệm",
+                "B": "Chỉ có nghiệm tầm thường (bằng 0)",
+                "C": "Hai nghiệm phân biệt",
+                "D": "Vô nghiệm"
+            },
+            {
+                "question": "Hệ vectơ độc lập tuyến tính khi phương trình tích bằng 0 có?",
+                "student_answer": "",
+                "correct_answer": "B",
+                "is_correct": false,
+                "A": "Vô số nghiệm",
+                "B": "Chỉ có nghiệm tầm thường (bằng 0)",
+                "C": "Hai nghiệm phân biệt",
+                "D": "Vô nghiệm"
+            },
+            {
+                "question": "Hạng của ma trận không bằng bao nhiêu?",
+                "student_answer": "",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "1",
+                "B": "Vô cùng",
+                "C": "Không xác định",
+                "D": "0"
+            },
+            {
+                "question": "Tích phân phân kỳ là tích phân có kết quả như thế nào?",
+                "student_answer": "",
+                "correct_answer": "B",
+                "is_correct": false,
+                "A": "Bằng 0",
+                "B": "Tiến ra vô cùng hoặc không tồn tại",
+                "C": "Là một số thực",
+                "D": "Bằng 1"
+            },
+            {
+                "question": "Hệ phương trình tuyến tính AX = B có vô số nghiệm khi nào?",
+                "student_answer": "",
+                "correct_answer": "A",
+                "is_correct": false,
+                "A": "r(A) = r(A|B) < số ẩn",
+                "B": "r(A) = r(A|B) = số ẩn",
+                "C": "r(A) # r(A|B)",
+                "D": "det(A) # 0"
+            },
+            {
+                "question": "Tính nguyên hàm của f(x) = 2x?",
+                "student_answer": "",
+                "correct_answer": "C",
+                "is_correct": false,
+                "A": "x^2",
+                "B": "2",
+                "C": "x^2 + C",
+                "D": "x"
+            },
+            {
+                "question": "Tính giới hạn của hàm số lim (x->0) (sin x) \/ x?",
+                "student_answer": "",
+                "correct_answer": "A",
+                "is_correct": false,
+                "A": "1",
+                "B": "0",
+                "C": "Vô cùng",
+                "D": "Không tồn tại"
+            },
+            {
+                "question": "Hệ phương trình tuyến tính AX = B có vô số nghiệm khi nào?",
+                "student_answer": "",
+                "correct_answer": "A",
+                "is_correct": false,
+                "A": "r(A) = r(A|B) < số ẩn",
+                "B": "r(A) = r(A|B) = số ẩn",
+                "C": "r(A) # r(A|B)",
+                "D": "det(A) # 0"
+            },
+            {
+                "question": "Ma trận vuông có định thức bằng 0 gọi là gì?",
+                "student_answer": "",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "Ma trận đơn vị",
+                "B": "Ma trận nghịch đảo",
+                "C": "Ma trận đối xứng",
+                "D": "Ma trận suy biến"
+            },
+            {
+                "question": "Hàm số nào sau đây luôn đồng biến trên R?",
+                "student_answer": "",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "y = -x",
+                "B": "y = x^2",
+                "C": "y = 1\/x",
+                "D": "y = x^3 + x"
+            },
+            {
+                "question": "Đạo hàm bậc hai của y = sin(x) là gì?",
+                "student_answer": "",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "cos(x)",
+                "B": "-cos(x)",
+                "C": "sin(x)",
+                "D": "-sin(x)"
+            },
+            {
+                "question": "Chuỗi số lượng giác Fourier dùng để biểu diễn các hàm số?",
+                "student_answer": "",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "Đơn điệu",
+                "B": "Không liên tục",
+                "C": "Đa thức",
+                "D": "Tuần hoàn"
+            },
+            {
+                "question": "Ma trận chuyển vị của ma trận hàng là ma trận gì?",
+                "student_answer": "",
+                "correct_answer": "A",
+                "is_correct": false,
+                "A": "Ma trận cột",
+                "B": "Ma trận vuông",
+                "C": "Ma trận đường chéo",
+                "D": "Ma trận không"
+            },
+            {
+                "question": "Chuỗi số lượng giác Fourier dùng để biểu diễn các hàm số?",
+                "student_answer": "",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "Đơn điệu",
+                "B": "Không liên tục",
+                "C": "Đa thức",
+                "D": "Tuần hoàn"
+            },
+            {
+                "question": "Ma trận vuông có định thức bằng 0 gọi là gì?",
+                "student_answer": "",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "Ma trận đơn vị",
+                "B": "Ma trận nghịch đảo",
+                "C": "Ma trận đối xứng",
+                "D": "Ma trận suy biến"
+            },
+            {
+                "question": "Tính nguyên hàm của f(x) = 2x?",
+                "student_answer": "",
+                "correct_answer": "C",
+                "is_correct": false,
+                "A": "x^2",
+                "B": "2",
+                "C": "x^2 + C",
+                "D": "x"
+            },
+            {
+                "question": "Đạo hàm bậc hai của y = sin(x) là gì?",
+                "student_answer": "",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "cos(x)",
+                "B": "-cos(x)",
+                "C": "sin(x)",
+                "D": "-sin(x)"
+            },
+            {
+                "question": "Hàm số y = x^3 - 3x có bao nhiêu điểm cực trị?",
+                "student_answer": "",
+                "correct_answer": "A",
+                "is_correct": false,
+                "A": "2",
+                "B": "1",
+                "C": "0",
+                "D": "3"
+            },
+            {
+                "question": "Tìm đạo hàm của hàm số y = ln(x)?",
+                "student_answer": "",
+                "correct_answer": "C",
+                "is_correct": false,
+                "A": "e^x",
+                "B": "1\/x^2",
+                "C": "1\/x",
+                "D": "ln(x)"
+            }
+        ]
+    },
+    {
+        "username": "1111111111",
+        "subject": "TOAN",
+        "correct": "0\/25",
+        "score": 0,
+        "time": "21:50:35 04\/06\/2026",
+        "details": [
+            {
+                "question": "Vectơ nào sau đây là vectơ không trong không gian R^2?",
+                "student_answer": "",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "(1,1)",
+                "B": "(0,1)",
+                "C": "(1,0)",
+                "D": "(0,0)"
+            },
+            {
+                "question": "Đạo hàm của hàm số y = e^x là gì?",
+                "student_answer": "",
+                "correct_answer": "B",
+                "is_correct": false,
+                "A": "x * e^(x-1)",
+                "B": "e^x",
+                "C": "ln(x)",
+                "D": "1\/x"
+            },
+            {
+                "question": "Trong không gian Euclid, độ dài của vectơ v=(3,4) là?",
+                "student_answer": "",
+                "correct_answer": "B",
+                "is_correct": false,
+                "A": "3",
+                "B": "5",
+                "C": "4",
+                "D": "7"
+            },
+            {
+                "question": "Tích phân phân kỳ là tích phân có kết quả như thế nào?",
+                "student_answer": "",
+                "correct_answer": "B",
+                "is_correct": false,
+                "A": "Bằng 0",
+                "B": "Tiến ra vô cùng hoặc không tồn tại",
+                "C": "Là một số thực",
+                "D": "Bằng 1"
+            },
+            {
+                "question": "Hạng của ma trận không bằng bao nhiêu?",
+                "student_answer": "",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "1",
+                "B": "Vô cùng",
+                "C": "Không xác định",
+                "D": "0"
+            },
+            {
+                "question": "Tìm đạo hàm của hàm số y = ln(x)?",
+                "student_answer": "",
+                "correct_answer": "C",
+                "is_correct": false,
+                "A": "e^x",
+                "B": "1\/x^2",
+                "C": "1\/x",
+                "D": "ln(x)"
+            },
+            {
+                "question": "Tính nguyên hàm của f(x) = 2x?",
+                "student_answer": "",
+                "correct_answer": "C",
+                "is_correct": false,
+                "A": "x^2",
+                "B": "2",
+                "C": "x^2 + C",
+                "D": "x"
+            },
+            {
+                "question": "Giá trị riêng của ma trận đường chéo là gì?",
+                "student_answer": "",
+                "correct_answer": "C",
+                "is_correct": false,
+                "A": "Các số 0",
+                "B": "Các số 1",
+                "C": "Các phần tử trên đường chéo chính",
+                "D": "Các phần tử dòng 1"
+            },
+            {
+                "question": "Ma trận nghịch đảo của ma trận A tồn tại khi và chỉ khi?",
+                "student_answer": "",
+                "correct_answer": "C",
+                "is_correct": false,
+                "A": "det(A) = 0",
+                "B": "A là ma trận không",
+                "C": "det(A) # 0",
+                "D": "A là ma trận hàng"
+            },
+            {
+                "question": "Vectơ nào sau đây là vectơ không trong không gian R^2?",
+                "student_answer": "",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "(1,1)",
+                "B": "(0,1)",
+                "C": "(1,0)",
+                "D": "(0,0)"
+            },
+            {
+                "question": "Tích phân phân kỳ là tích phân có kết quả như thế nào?",
+                "student_answer": "",
+                "correct_answer": "B",
+                "is_correct": false,
+                "A": "Bằng 0",
+                "B": "Tiến ra vô cùng hoặc không tồn tại",
+                "C": "Là một số thực",
+                "D": "Bằng 1"
+            },
+            {
+                "question": "Tích phân phân kỳ là tích phân có kết quả như thế nào?",
+                "student_answer": "",
+                "correct_answer": "B",
+                "is_correct": false,
+                "A": "Bằng 0",
+                "B": "Tiến ra vô cùng hoặc không tồn tại",
+                "C": "Là một số thực",
+                "D": "Bằng 1"
+            },
+            {
+                "question": "Hàm số nào sau đây luôn đồng biến trên R?",
+                "student_answer": "",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "y = -x",
+                "B": "y = x^2",
+                "C": "y = 1\/x",
+                "D": "y = x^3 + x"
+            },
+            {
+                "question": "Ma trận chuyển vị của ma trận hàng là ma trận gì?",
+                "student_answer": "",
+                "correct_answer": "A",
+                "is_correct": false,
+                "A": "Ma trận cột",
+                "B": "Ma trận vuông",
+                "C": "Ma trận đường chéo",
+                "D": "Ma trận không"
+            },
+            {
+                "question": "Hàm số nào sau đây luôn đồng biến trên R?",
+                "student_answer": "",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "y = -x",
+                "B": "y = x^2",
+                "C": "y = 1\/x",
+                "D": "y = x^3 + x"
+            },
+            {
+                "question": "Ma trận vuông có định thức bằng 0 gọi là gì?",
+                "student_answer": "",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "Ma trận đơn vị",
+                "B": "Ma trận nghịch đảo",
+                "C": "Ma trận đối xứng",
+                "D": "Ma trận suy biến"
+            },
+            {
+                "question": "Điều kiện để hai vectơ vuông góc với nhau là?",
+                "student_answer": "",
+                "correct_answer": "A",
+                "is_correct": false,
+                "A": "Tích vô hướng bằng 0",
+                "B": "Tích có hướng bằng 0",
+                "C": "Cùng phương",
+                "D": "Độ dài bằng nhau"
+            },
+            {
+                "question": "Tích phân từ 0 đến 1 của hàm số f(x) = x là?",
+                "student_answer": "",
+                "correct_answer": "C",
+                "is_correct": false,
+                "A": "1",
+                "B": "2",
+                "C": "0.5",
+                "D": "0"
+            },
+            {
+                "question": "Tiệm cận ngang của đồ thị hàm số y = 1\/x khi x tiến ra vô cùng là?",
+                "student_answer": "",
+                "correct_answer": "A",
+                "is_correct": false,
+                "A": "y = 0",
+                "B": "y = 1",
+                "C": "x = 0",
+                "D": "Không có"
+            },
+            {
+                "question": "Tiệm cận ngang của đồ thị hàm số y = 1\/x khi x tiến ra vô cùng là?",
+                "student_answer": "",
+                "correct_answer": "A",
+                "is_correct": false,
+                "A": "y = 0",
+                "B": "y = 1",
+                "C": "x = 0",
+                "D": "Không có"
+            },
+            {
+                "question": "Ma trận chuyển vị của ma trận hàng là ma trận gì?",
+                "student_answer": "",
+                "correct_answer": "A",
+                "is_correct": false,
+                "A": "Ma trận cột",
+                "B": "Ma trận vuông",
+                "C": "Ma trận đường chéo",
+                "D": "Ma trận không"
+            },
+            {
+                "question": "Tìm đạo hàm của hàm số y = ln(x)?",
+                "student_answer": "",
+                "correct_answer": "C",
+                "is_correct": false,
+                "A": "e^x",
+                "B": "1\/x^2",
+                "C": "1\/x",
+                "D": "ln(x)"
+            },
+            {
+                "question": "Chuỗi số lượng giác Fourier dùng để biểu diễn các hàm số?",
+                "student_answer": "",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "Đơn điệu",
+                "B": "Không liên tục",
+                "C": "Đa thức",
+                "D": "Tuần hoàn"
+            },
+            {
+                "question": "Hàm số y = x^3 - 3x có bao nhiêu điểm cực trị?",
+                "student_answer": "",
+                "correct_answer": "A",
+                "is_correct": false,
+                "A": "2",
+                "B": "1",
+                "C": "0",
+                "D": "3"
+            },
+            {
+                "question": "Chuỗi số lượng giác Fourier dùng để biểu diễn các hàm số?",
+                "student_answer": "",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "Đơn điệu",
+                "B": "Không liên tục",
+                "C": "Đa thức",
+                "D": "Tuần hoàn"
+            }
+        ]
+    },
+    {
+        "username": "1111111111",
+        "subject": "TOAN",
+        "correct": "0\/25",
+        "score": 0,
+        "time": "21:48:18 04\/06\/2026",
+        "details": [
+            {
+                "question": "Vectơ nào sau đây là vectơ không trong không gian R^2?",
+                "student_answer": "",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "(1,1)",
+                "B": "(0,1)",
+                "C": "(1,0)",
+                "D": "(0,0)"
+            },
+            {
+                "question": "Đạo hàm của hàm số y = e^x là gì?",
+                "student_answer": "",
+                "correct_answer": "B",
+                "is_correct": false,
+                "A": "x * e^(x-1)",
+                "B": "e^x",
+                "C": "ln(x)",
+                "D": "1\/x"
+            },
+            {
+                "question": "Trong không gian Euclid, độ dài của vectơ v=(3,4) là?",
+                "student_answer": "",
+                "correct_answer": "B",
+                "is_correct": false,
+                "A": "3",
+                "B": "5",
+                "C": "4",
+                "D": "7"
+            },
+            {
+                "question": "Tích phân phân kỳ là tích phân có kết quả như thế nào?",
+                "student_answer": "",
+                "correct_answer": "B",
+                "is_correct": false,
+                "A": "Bằng 0",
+                "B": "Tiến ra vô cùng hoặc không tồn tại",
+                "C": "Là một số thực",
+                "D": "Bằng 1"
+            },
+            {
+                "question": "Hạng của ma trận không bằng bao nhiêu?",
+                "student_answer": "",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "1",
+                "B": "Vô cùng",
+                "C": "Không xác định",
+                "D": "0"
+            },
+            {
+                "question": "Tìm đạo hàm của hàm số y = ln(x)?",
+                "student_answer": "",
+                "correct_answer": "C",
+                "is_correct": false,
+                "A": "e^x",
+                "B": "1\/x^2",
+                "C": "1\/x",
+                "D": "ln(x)"
+            },
+            {
+                "question": "Tính nguyên hàm của f(x) = 2x?",
+                "student_answer": "",
+                "correct_answer": "C",
+                "is_correct": false,
+                "A": "x^2",
+                "B": "2",
+                "C": "x^2 + C",
+                "D": "x"
+            },
+            {
+                "question": "Giá trị riêng của ma trận đường chéo là gì?",
+                "student_answer": "",
+                "correct_answer": "C",
+                "is_correct": false,
+                "A": "Các số 0",
+                "B": "Các số 1",
+                "C": "Các phần tử trên đường chéo chính",
+                "D": "Các phần tử dòng 1"
+            },
+            {
+                "question": "Ma trận nghịch đảo của ma trận A tồn tại khi và chỉ khi?",
+                "student_answer": "",
+                "correct_answer": "C",
+                "is_correct": false,
+                "A": "det(A) = 0",
+                "B": "A là ma trận không",
+                "C": "det(A) # 0",
+                "D": "A là ma trận hàng"
+            },
+            {
+                "question": "Vectơ nào sau đây là vectơ không trong không gian R^2?",
+                "student_answer": "",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "(1,1)",
+                "B": "(0,1)",
+                "C": "(1,0)",
+                "D": "(0,0)"
+            },
+            {
+                "question": "Tích phân phân kỳ là tích phân có kết quả như thế nào?",
+                "student_answer": "",
+                "correct_answer": "B",
+                "is_correct": false,
+                "A": "Bằng 0",
+                "B": "Tiến ra vô cùng hoặc không tồn tại",
+                "C": "Là một số thực",
+                "D": "Bằng 1"
+            },
+            {
+                "question": "Tích phân phân kỳ là tích phân có kết quả như thế nào?",
+                "student_answer": "",
+                "correct_answer": "B",
+                "is_correct": false,
+                "A": "Bằng 0",
+                "B": "Tiến ra vô cùng hoặc không tồn tại",
+                "C": "Là một số thực",
+                "D": "Bằng 1"
+            },
+            {
+                "question": "Hàm số nào sau đây luôn đồng biến trên R?",
+                "student_answer": "",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "y = -x",
+                "B": "y = x^2",
+                "C": "y = 1\/x",
+                "D": "y = x^3 + x"
+            },
+            {
+                "question": "Ma trận chuyển vị của ma trận hàng là ma trận gì?",
+                "student_answer": "",
+                "correct_answer": "A",
+                "is_correct": false,
+                "A": "Ma trận cột",
+                "B": "Ma trận vuông",
+                "C": "Ma trận đường chéo",
+                "D": "Ma trận không"
+            },
+            {
+                "question": "Hàm số nào sau đây luôn đồng biến trên R?",
+                "student_answer": "",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "y = -x",
+                "B": "y = x^2",
+                "C": "y = 1\/x",
+                "D": "y = x^3 + x"
+            },
+            {
+                "question": "Ma trận vuông có định thức bằng 0 gọi là gì?",
+                "student_answer": "",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "Ma trận đơn vị",
+                "B": "Ma trận nghịch đảo",
+                "C": "Ma trận đối xứng",
+                "D": "Ma trận suy biến"
+            },
+            {
+                "question": "Điều kiện để hai vectơ vuông góc với nhau là?",
+                "student_answer": "",
+                "correct_answer": "A",
+                "is_correct": false,
+                "A": "Tích vô hướng bằng 0",
+                "B": "Tích có hướng bằng 0",
+                "C": "Cùng phương",
+                "D": "Độ dài bằng nhau"
+            },
+            {
+                "question": "Tích phân từ 0 đến 1 của hàm số f(x) = x là?",
+                "student_answer": "",
+                "correct_answer": "C",
+                "is_correct": false,
+                "A": "1",
+                "B": "2",
+                "C": "0.5",
+                "D": "0"
+            },
+            {
+                "question": "Tiệm cận ngang của đồ thị hàm số y = 1\/x khi x tiến ra vô cùng là?",
+                "student_answer": "",
+                "correct_answer": "A",
+                "is_correct": false,
+                "A": "y = 0",
+                "B": "y = 1",
+                "C": "x = 0",
+                "D": "Không có"
+            },
+            {
+                "question": "Tiệm cận ngang của đồ thị hàm số y = 1\/x khi x tiến ra vô cùng là?",
+                "student_answer": "",
+                "correct_answer": "A",
+                "is_correct": false,
+                "A": "y = 0",
+                "B": "y = 1",
+                "C": "x = 0",
+                "D": "Không có"
+            },
+            {
+                "question": "Ma trận chuyển vị của ma trận hàng là ma trận gì?",
+                "student_answer": "",
+                "correct_answer": "A",
+                "is_correct": false,
+                "A": "Ma trận cột",
+                "B": "Ma trận vuông",
+                "C": "Ma trận đường chéo",
+                "D": "Ma trận không"
+            },
+            {
+                "question": "Tìm đạo hàm của hàm số y = ln(x)?",
+                "student_answer": "",
+                "correct_answer": "C",
+                "is_correct": false,
+                "A": "e^x",
+                "B": "1\/x^2",
+                "C": "1\/x",
+                "D": "ln(x)"
+            },
+            {
+                "question": "Chuỗi số lượng giác Fourier dùng để biểu diễn các hàm số?",
+                "student_answer": "",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "Đơn điệu",
+                "B": "Không liên tục",
+                "C": "Đa thức",
+                "D": "Tuần hoàn"
+            },
+            {
+                "question": "Hàm số y = x^3 - 3x có bao nhiêu điểm cực trị?",
+                "student_answer": "",
+                "correct_answer": "A",
+                "is_correct": false,
+                "A": "2",
+                "B": "1",
+                "C": "0",
+                "D": "3"
+            },
+            {
+                "question": "Chuỗi số lượng giác Fourier dùng để biểu diễn các hàm số?",
+                "student_answer": "",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "Đơn điệu",
+                "B": "Không liên tục",
+                "C": "Đa thức",
+                "D": "Tuần hoàn"
+            }
+        ]
+    },
+    {
+        "username": "1111111111",
+        "subject": "TOAN",
+        "correct": "5\/25",
+        "score": 2,
+        "time": "21:36:25 04\/06\/2026",
+        "details": [
+            {
+                "question": "Ma trận nghịch đảo của ma trận A tồn tại khi và chỉ khi?",
+                "student_answer": "D",
+                "correct_answer": "C",
+                "is_correct": false,
+                "A": "det(A) = 0",
+                "B": "A là ma trận không",
+                "C": "det(A) # 0",
+                "D": "A là ma trận hàng"
+            },
+            {
+                "question": "Hàm số y = x^3 - 3x có bao nhiêu điểm cực trị?",
+                "student_answer": "C",
+                "correct_answer": "A",
+                "is_correct": false,
+                "A": "2",
+                "B": "1",
+                "C": "0",
+                "D": "3"
+            },
+            {
+                "question": "Tính nguyên hàm của f(x) = 2x?",
+                "student_answer": "B",
+                "correct_answer": "C",
+                "is_correct": false,
+                "A": "x^2",
+                "B": "2",
+                "C": "x^2 + C",
+                "D": "x"
+            },
+            {
+                "question": "Trong không gian Euclid, độ dài của vectơ v=(3,4) là?",
+                "student_answer": "B",
+                "correct_answer": "B",
+                "is_correct": true,
+                "A": "3",
+                "B": "5",
+                "C": "4",
+                "D": "7"
+            },
+            {
+                "question": "Tính giới hạn của hàm số lim (x->0) (sin x) \/ x?",
+                "student_answer": "C",
+                "correct_answer": "A",
+                "is_correct": false,
+                "A": "1",
+                "B": "0",
+                "C": "Vô cùng",
+                "D": "Không tồn tại"
+            },
+            {
+                "question": "Tìm vết (trace) của ma trận đơn vị cấp 3?",
+                "student_answer": "C",
+                "correct_answer": "B",
+                "is_correct": false,
+                "A": "1",
+                "B": "3",
+                "C": "0",
+                "D": "9"
+            },
+            {
+                "question": "Đạo hàm của hàm số y = e^x là gì?",
+                "student_answer": "D",
+                "correct_answer": "B",
+                "is_correct": false,
+                "A": "x * e^(x-1)",
+                "B": "e^x",
+                "C": "ln(x)",
+                "D": "1\/x"
+            },
+            {
+                "question": "Hệ vectơ độc lập tuyến tính khi phương trình tích bằng 0 có?",
+                "student_answer": "D",
+                "correct_answer": "B",
+                "is_correct": false,
+                "A": "Vô số nghiệm",
+                "B": "Chỉ có nghiệm tầm thường (bằng 0)",
+                "C": "Hai nghiệm phân biệt",
+                "D": "Vô nghiệm"
+            },
+            {
+                "question": "Hệ phương trình tuyến tính AX = B có vô số nghiệm khi nào?",
+                "student_answer": "D",
+                "correct_answer": "A",
+                "is_correct": false,
+                "A": "r(A) = r(A|B) < số ẩn",
+                "B": "r(A) = r(A|B) = số ẩn",
+                "C": "r(A) # r(A|B)",
+                "D": "det(A) # 0"
+            },
+            {
+                "question": "Tích phân phân kỳ là tích phân có kết quả như thế nào?",
+                "student_answer": "D",
+                "correct_answer": "B",
+                "is_correct": false,
+                "A": "Bằng 0",
+                "B": "Tiến ra vô cùng hoặc không tồn tại",
+                "C": "Là một số thực",
+                "D": "Bằng 1"
+            },
+            {
+                "question": "Trong không gian Euclid, độ dài của vectơ v=(3,4) là?",
+                "student_answer": "D",
+                "correct_answer": "B",
+                "is_correct": false,
+                "A": "3",
+                "B": "5",
+                "C": "4",
+                "D": "7"
+            },
+            {
+                "question": "Ma trận chuyển vị của ma trận hàng là ma trận gì?",
+                "student_answer": "D",
+                "correct_answer": "A",
+                "is_correct": false,
+                "A": "Ma trận cột",
+                "B": "Ma trận vuông",
+                "C": "Ma trận đường chéo",
+                "D": "Ma trận không"
+            },
+            {
+                "question": "Tích phân từ 0 đến 1 của hàm số f(x) = x là?",
+                "student_answer": "D",
+                "correct_answer": "C",
+                "is_correct": false,
+                "A": "1",
+                "B": "2",
+                "C": "0.5",
+                "D": "0"
+            },
+            {
+                "question": "Tìm đạo hàm của hàm số y = ln(x)?",
+                "student_answer": "C",
+                "correct_answer": "C",
+                "is_correct": true,
+                "A": "e^x",
+                "B": "1\/x^2",
+                "C": "1\/x",
+                "D": "ln(x)"
+            },
+            {
+                "question": "Ma trận nghịch đảo của ma trận A tồn tại khi và chỉ khi?",
+                "student_answer": "A",
+                "correct_answer": "C",
+                "is_correct": false,
+                "A": "det(A) = 0",
+                "B": "A là ma trận không",
+                "C": "det(A) # 0",
+                "D": "A là ma trận hàng"
+            },
+            {
+                "question": "Vectơ nào sau đây là vectơ không trong không gian R^2?",
+                "student_answer": "B",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "(1,1)",
+                "B": "(0,1)",
+                "C": "(1,0)",
+                "D": "(0,0)"
+            },
+            {
+                "question": "Đạo hàm của hàm số y = e^x là gì?",
+                "student_answer": "B",
+                "correct_answer": "B",
+                "is_correct": true,
+                "A": "x * e^(x-1)",
+                "B": "e^x",
+                "C": "ln(x)",
+                "D": "1\/x"
+            },
+            {
+                "question": "Đạo hàm của hàm số y = e^x là gì?",
+                "student_answer": "C",
+                "correct_answer": "B",
+                "is_correct": false,
+                "A": "x * e^(x-1)",
+                "B": "e^x",
+                "C": "ln(x)",
+                "D": "1\/x"
+            },
+            {
+                "question": "Hàm số nào sau đây luôn đồng biến trên R?",
+                "student_answer": "C",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "y = -x",
+                "B": "y = x^2",
+                "C": "y = 1\/x",
+                "D": "y = x^3 + x"
+            },
+            {
+                "question": "Chuỗi số lượng giác Fourier dùng để biểu diễn các hàm số?",
+                "student_answer": "C",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "Đơn điệu",
+                "B": "Không liên tục",
+                "C": "Đa thức",
+                "D": "Tuần hoàn"
+            },
+            {
+                "question": "Hàm số nào sau đây luôn đồng biến trên R?",
+                "student_answer": "D",
+                "correct_answer": "D",
+                "is_correct": true,
+                "A": "y = -x",
+                "B": "y = x^2",
+                "C": "y = 1\/x",
+                "D": "y = x^3 + x"
+            },
+            {
+                "question": "Chuỗi số lượng giác Fourier dùng để biểu diễn các hàm số?",
+                "student_answer": "",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "Đơn điệu",
+                "B": "Không liên tục",
+                "C": "Đa thức",
+                "D": "Tuần hoàn"
+            },
+            {
+                "question": "Trong không gian Euclid, độ dài của vectơ v=(3,4) là?",
+                "student_answer": "A",
+                "correct_answer": "B",
+                "is_correct": false,
+                "A": "3",
+                "B": "5",
+                "C": "4",
+                "D": "7"
+            },
+            {
+                "question": "Hàm số y = x^3 - 3x có bao nhiêu điểm cực trị?",
+                "student_answer": "B",
+                "correct_answer": "A",
+                "is_correct": false,
+                "A": "2",
+                "B": "1",
+                "C": "0",
+                "D": "3"
+            },
+            {
+                "question": "Hệ vectơ độc lập tuyến tính khi phương trình tích bằng 0 có?",
+                "student_answer": "B",
+                "correct_answer": "B",
+                "is_correct": true,
+                "A": "Vô số nghiệm",
+                "B": "Chỉ có nghiệm tầm thường (bằng 0)",
+                "C": "Hai nghiệm phân biệt",
+                "D": "Vô nghiệm"
+            }
+        ]
+    },
+    {
+        "username": "1111111111",
+        "subject": "TOAN",
+        "correct": "0\/25",
+        "score": 0,
+        "time": "21:35:37 04\/06\/2026",
+        "details": [
+            {
+                "question": "Không gian vectơ R^3 có số chiều bằng bao nhiêu?",
+                "student_answer": "",
+                "correct_answer": "C",
+                "is_correct": false,
+                "A": "1",
+                "B": "2",
+                "C": "3",
+                "D": "4"
+            },
+            {
+                "question": "Tích phân từ 0 đến 1 của hàm số f(x) = x là?",
+                "student_answer": "",
+                "correct_answer": "C",
+                "is_correct": false,
+                "A": "1",
+                "B": "2",
+                "C": "0.5",
+                "D": "0"
+            },
+            {
+                "question": "Tính giới hạn của hàm số lim (x->0) (sin x) \/ x?",
+                "student_answer": "",
+                "correct_answer": "A",
+                "is_correct": false,
+                "A": "1",
+                "B": "0",
+                "C": "Vô cùng",
+                "D": "Không tồn tại"
+            },
+            {
+                "question": "Hệ phương trình tuyến tính AX = B có vô số nghiệm khi nào?",
+                "student_answer": "",
+                "correct_answer": "A",
+                "is_correct": false,
+                "A": "r(A) = r(A|B) < số ẩn",
+                "B": "r(A) = r(A|B) = số ẩn",
+                "C": "r(A) # r(A|B)",
+                "D": "det(A) # 0"
+            },
+            {
+                "question": "Tiệm cận ngang của đồ thị hàm số y = 1\/x khi x tiến ra vô cùng là?",
+                "student_answer": "",
+                "correct_answer": "A",
+                "is_correct": false,
+                "A": "y = 0",
+                "B": "y = 1",
+                "C": "x = 0",
+                "D": "Không có"
+            },
+            {
+                "question": "Đạo hàm của hàm số y = e^x là gì?",
+                "student_answer": "",
+                "correct_answer": "B",
+                "is_correct": false,
+                "A": "x * e^(x-1)",
+                "B": "e^x",
+                "C": "ln(x)",
+                "D": "1\/x"
+            },
+            {
+                "question": "Vectơ nào sau đây là vectơ không trong không gian R^2?",
+                "student_answer": "",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "(1,1)",
+                "B": "(0,1)",
+                "C": "(1,0)",
+                "D": "(0,0)"
+            },
+            {
+                "question": "Tích phân phân kỳ là tích phân có kết quả như thế nào?",
+                "student_answer": "",
+                "correct_answer": "B",
+                "is_correct": false,
+                "A": "Bằng 0",
+                "B": "Tiến ra vô cùng hoặc không tồn tại",
+                "C": "Là một số thực",
+                "D": "Bằng 1"
+            },
+            {
+                "question": "Tìm đạo hàm của hàm số y = ln(x)?",
+                "student_answer": "",
+                "correct_answer": "C",
+                "is_correct": false,
+                "A": "e^x",
+                "B": "1\/x^2",
+                "C": "1\/x",
+                "D": "ln(x)"
+            },
+            {
+                "question": "Tính nguyên hàm của f(x) = 2x?",
+                "student_answer": "",
+                "correct_answer": "C",
+                "is_correct": false,
+                "A": "x^2",
+                "B": "2",
+                "C": "x^2 + C",
+                "D": "x"
+            },
+            {
+                "question": "Vectơ nào sau đây là vectơ không trong không gian R^2?",
+                "student_answer": "",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "(1,1)",
+                "B": "(0,1)",
+                "C": "(1,0)",
+                "D": "(0,0)"
+            },
+            {
+                "question": "Chuỗi số lượng giác Fourier dùng để biểu diễn các hàm số?",
+                "student_answer": "",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "Đơn điệu",
+                "B": "Không liên tục",
+                "C": "Đa thức",
+                "D": "Tuần hoàn"
+            },
+            {
+                "question": "Hàm số y = x^3 - 3x có bao nhiêu điểm cực trị?",
+                "student_answer": "",
+                "correct_answer": "A",
+                "is_correct": false,
+                "A": "2",
+                "B": "1",
+                "C": "0",
+                "D": "3"
+            },
+            {
+                "question": "Hệ phương trình tuyến tính AX = B có vô số nghiệm khi nào?",
+                "student_answer": "",
+                "correct_answer": "A",
+                "is_correct": false,
+                "A": "r(A) = r(A|B) < số ẩn",
+                "B": "r(A) = r(A|B) = số ẩn",
+                "C": "r(A) # r(A|B)",
+                "D": "det(A) # 0"
+            },
+            {
+                "question": "Chuỗi số lượng giác Fourier dùng để biểu diễn các hàm số?",
+                "student_answer": "",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "Đơn điệu",
+                "B": "Không liên tục",
+                "C": "Đa thức",
+                "D": "Tuần hoàn"
+            },
+            {
+                "question": "Ma trận nghịch đảo của ma trận A tồn tại khi và chỉ khi?",
+                "student_answer": "",
+                "correct_answer": "C",
+                "is_correct": false,
+                "A": "det(A) = 0",
+                "B": "A là ma trận không",
+                "C": "det(A) # 0",
+                "D": "A là ma trận hàng"
+            },
+            {
+                "question": "Tích phân từ 0 đến 1 của hàm số f(x) = x là?",
+                "student_answer": "",
+                "correct_answer": "C",
+                "is_correct": false,
+                "A": "1",
+                "B": "2",
+                "C": "0.5",
+                "D": "0"
+            },
+            {
+                "question": "Điều kiện để hai vectơ vuông góc với nhau là?",
+                "student_answer": "",
+                "correct_answer": "A",
+                "is_correct": false,
+                "A": "Tích vô hướng bằng 0",
+                "B": "Tích có hướng bằng 0",
+                "C": "Cùng phương",
+                "D": "Độ dài bằng nhau"
+            },
+            {
+                "question": "Ma trận chuyển vị của ma trận hàng là ma trận gì?",
+                "student_answer": "",
+                "correct_answer": "A",
+                "is_correct": false,
+                "A": "Ma trận cột",
+                "B": "Ma trận vuông",
+                "C": "Ma trận đường chéo",
+                "D": "Ma trận không"
+            },
+            {
+                "question": "Hàm số nào sau đây luôn đồng biến trên R?",
+                "student_answer": "",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "y = -x",
+                "B": "y = x^2",
+                "C": "y = 1\/x",
+                "D": "y = x^3 + x"
+            },
+            {
+                "question": "Tích phân từ 0 đến 1 của hàm số f(x) = x là?",
+                "student_answer": "",
+                "correct_answer": "C",
+                "is_correct": false,
+                "A": "1",
+                "B": "2",
+                "C": "0.5",
+                "D": "0"
+            },
+            {
+                "question": "Điều kiện để hai vectơ vuông góc với nhau là?",
+                "student_answer": "",
+                "correct_answer": "A",
+                "is_correct": false,
+                "A": "Tích vô hướng bằng 0",
+                "B": "Tích có hướng bằng 0",
+                "C": "Cùng phương",
+                "D": "Độ dài bằng nhau"
+            },
+            {
+                "question": "Ma trận vuông có định thức bằng 0 gọi là gì?",
+                "student_answer": "",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "Ma trận đơn vị",
+                "B": "Ma trận nghịch đảo",
+                "C": "Ma trận đối xứng",
+                "D": "Ma trận suy biến"
+            },
+            {
+                "question": "Đạo hàm của hàm số y = e^x là gì?",
+                "student_answer": "",
+                "correct_answer": "B",
+                "is_correct": false,
+                "A": "x * e^(x-1)",
+                "B": "e^x",
+                "C": "ln(x)",
+                "D": "1\/x"
+            },
+            {
+                "question": "Tính nguyên hàm của f(x) = 2x?",
+                "student_answer": "",
+                "correct_answer": "C",
+                "is_correct": false,
+                "A": "x^2",
+                "B": "2",
+                "C": "x^2 + C",
+                "D": "x"
+            }
+        ]
+    },
+    {
+        "username": "1111111111",
+        "subject": "TOAN",
+        "correct": "0\/25",
+        "score": 0,
+        "time": "21:33:11 04\/06\/2026",
+        "details": [
+            {
+                "question": "Ma trận vuông có định thức bằng 0 gọi là gì?",
+                "student_answer": "",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "Ma trận đơn vị",
+                "B": "Ma trận nghịch đảo",
+                "C": "Ma trận đối xứng",
+                "D": "Ma trận suy biến"
+            },
+            {
+                "question": "Ma trận chuyển vị của ma trận hàng là ma trận gì?",
+                "student_answer": "",
+                "correct_answer": "A",
+                "is_correct": false,
+                "A": "Ma trận cột",
+                "B": "Ma trận vuông",
+                "C": "Ma trận đường chéo",
+                "D": "Ma trận không"
+            },
+            {
+                "question": "Hệ vectơ độc lập tuyến tính khi phương trình tích bằng 0 có?",
+                "student_answer": "",
+                "correct_answer": "B",
+                "is_correct": false,
+                "A": "Vô số nghiệm",
+                "B": "Chỉ có nghiệm tầm thường (bằng 0)",
+                "C": "Hai nghiệm phân biệt",
+                "D": "Vô nghiệm"
+            },
+            {
+                "question": "Đạo hàm bậc hai của y = sin(x) là gì?",
+                "student_answer": "",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "cos(x)",
+                "B": "-cos(x)",
+                "C": "sin(x)",
+                "D": "-sin(x)"
+            },
+            {
+                "question": "Ma trận chuyển vị của ma trận hàng là ma trận gì?",
+                "student_answer": "",
+                "correct_answer": "A",
+                "is_correct": false,
+                "A": "Ma trận cột",
+                "B": "Ma trận vuông",
+                "C": "Ma trận đường chéo",
+                "D": "Ma trận không"
+            },
+            {
+                "question": "Tiệm cận ngang của đồ thị hàm số y = 1\/x khi x tiến ra vô cùng là?",
+                "student_answer": "",
+                "correct_answer": "A",
+                "is_correct": false,
+                "A": "y = 0",
+                "B": "y = 1",
+                "C": "x = 0",
+                "D": "Không có"
+            },
+            {
+                "question": "Hàm số y = x^3 - 3x có bao nhiêu điểm cực trị?",
+                "student_answer": "",
+                "correct_answer": "A",
+                "is_correct": false,
+                "A": "2",
+                "B": "1",
+                "C": "0",
+                "D": "3"
+            },
+            {
+                "question": "Tích phân từ 0 đến 1 của hàm số f(x) = x là?",
+                "student_answer": "",
+                "correct_answer": "C",
+                "is_correct": false,
+                "A": "1",
+                "B": "2",
+                "C": "0.5",
+                "D": "0"
+            },
+            {
+                "question": "Ma trận chuyển vị của ma trận hàng là ma trận gì?",
+                "student_answer": "",
+                "correct_answer": "A",
+                "is_correct": false,
+                "A": "Ma trận cột",
+                "B": "Ma trận vuông",
+                "C": "Ma trận đường chéo",
+                "D": "Ma trận không"
+            },
+            {
+                "question": "Tính giới hạn của hàm số lim (x->0) (sin x) \/ x?",
+                "student_answer": "",
+                "correct_answer": "A",
+                "is_correct": false,
+                "A": "1",
+                "B": "0",
+                "C": "Vô cùng",
+                "D": "Không tồn tại"
+            },
+            {
+                "question": "Chuỗi số lượng giác Fourier dùng để biểu diễn các hàm số?",
+                "student_answer": "",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "Đơn điệu",
+                "B": "Không liên tục",
+                "C": "Đa thức",
+                "D": "Tuần hoàn"
+            },
+            {
+                "question": "Hàm số nào sau đây luôn đồng biến trên R?",
+                "student_answer": "",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "y = -x",
+                "B": "y = x^2",
+                "C": "y = 1\/x",
+                "D": "y = x^3 + x"
+            },
+            {
+                "question": "Hàm số y = x^3 - 3x có bao nhiêu điểm cực trị?",
+                "student_answer": "",
+                "correct_answer": "A",
+                "is_correct": false,
+                "A": "2",
+                "B": "1",
+                "C": "0",
+                "D": "3"
+            },
+            {
+                "question": "Không gian vectơ R^3 có số chiều bằng bao nhiêu?",
+                "student_answer": "",
+                "correct_answer": "C",
+                "is_correct": false,
+                "A": "1",
+                "B": "2",
+                "C": "3",
+                "D": "4"
+            },
+            {
+                "question": "Tìm đạo hàm của hàm số y = ln(x)?",
+                "student_answer": "",
+                "correct_answer": "C",
+                "is_correct": false,
+                "A": "e^x",
+                "B": "1\/x^2",
+                "C": "1\/x",
+                "D": "ln(x)"
+            },
+            {
+                "question": "Ma trận nghịch đảo của ma trận A tồn tại khi và chỉ khi?",
+                "student_answer": "",
+                "correct_answer": "C",
+                "is_correct": false,
+                "A": "det(A) = 0",
+                "B": "A là ma trận không",
+                "C": "det(A) # 0",
+                "D": "A là ma trận hàng"
+            },
+            {
+                "question": "Hàm số y = x^3 - 3x có bao nhiêu điểm cực trị?",
+                "student_answer": "",
+                "correct_answer": "A",
+                "is_correct": false,
+                "A": "2",
+                "B": "1",
+                "C": "0",
+                "D": "3"
+            },
+            {
+                "question": "Ma trận vuông có định thức bằng 0 gọi là gì?",
+                "student_answer": "",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "Ma trận đơn vị",
+                "B": "Ma trận nghịch đảo",
+                "C": "Ma trận đối xứng",
+                "D": "Ma trận suy biến"
+            },
+            {
+                "question": "Tính nguyên hàm của f(x) = 2x?",
+                "student_answer": "",
+                "correct_answer": "C",
+                "is_correct": false,
+                "A": "x^2",
+                "B": "2",
+                "C": "x^2 + C",
+                "D": "x"
+            },
+            {
+                "question": "Đạo hàm của hàm số y = e^x là gì?",
+                "student_answer": "",
+                "correct_answer": "B",
+                "is_correct": false,
+                "A": "x * e^(x-1)",
+                "B": "e^x",
+                "C": "ln(x)",
+                "D": "1\/x"
+            },
+            {
+                "question": "Tìm đạo hàm của hàm số y = ln(x)?",
+                "student_answer": "",
+                "correct_answer": "C",
+                "is_correct": false,
+                "A": "e^x",
+                "B": "1\/x^2",
+                "C": "1\/x",
+                "D": "ln(x)"
+            },
+            {
+                "question": "Tiệm cận ngang của đồ thị hàm số y = 1\/x khi x tiến ra vô cùng là?",
+                "student_answer": "",
+                "correct_answer": "A",
+                "is_correct": false,
+                "A": "y = 0",
+                "B": "y = 1",
+                "C": "x = 0",
+                "D": "Không có"
+            },
+            {
+                "question": "Điều kiện để hai vectơ vuông góc với nhau là?",
+                "student_answer": "",
+                "correct_answer": "A",
+                "is_correct": false,
+                "A": "Tích vô hướng bằng 0",
+                "B": "Tích có hướng bằng 0",
+                "C": "Cùng phương",
+                "D": "Độ dài bằng nhau"
+            },
+            {
+                "question": "Tìm đạo hàm của hàm số y = ln(x)?",
+                "student_answer": "",
+                "correct_answer": "C",
+                "is_correct": false,
+                "A": "e^x",
+                "B": "1\/x^2",
+                "C": "1\/x",
+                "D": "ln(x)"
+            },
+            {
+                "question": "Tích phân phân kỳ là tích phân có kết quả như thế nào?",
+                "student_answer": "",
+                "correct_answer": "B",
+                "is_correct": false,
+                "A": "Bằng 0",
+                "B": "Tiến ra vô cùng hoặc không tồn tại",
+                "C": "Là một số thực",
+                "D": "Bằng 1"
+            }
+        ]
+    },
+    {
+        "username": "1111111111",
+        "subject": "TOAN",
+        "correct": "6\/25",
+        "score": 2.4,
+        "time": "21:11:19 04\/06\/2026",
+        "details": [
+            {
+                "question": "Tính giới hạn của hàm số lim (x->0) (sin x) \/ x?",
+                "student_answer": "D",
+                "correct_answer": "A",
+                "is_correct": false,
+                "A": "1",
+                "B": "0",
+                "C": "Vô cùng",
+                "D": "Không tồn tại"
+            },
+            {
+                "question": "Hàm số nào sau đây luôn đồng biến trên R?",
+                "student_answer": "D",
+                "correct_answer": "D",
+                "is_correct": true,
+                "A": "y = -x",
+                "B": "y = x^2",
+                "C": "y = 1\/x",
+                "D": "y = x^3 + x"
+            },
+            {
+                "question": "Vectơ nào sau đây là vectơ không trong không gian R^2?",
+                "student_answer": "D",
+                "correct_answer": "D",
+                "is_correct": true,
+                "A": "(1,1)",
+                "B": "(0,1)",
+                "C": "(1,0)",
+                "D": "(0,0)"
+            },
+            {
+                "question": "Tích phân phân kỳ là tích phân có kết quả như thế nào?",
+                "student_answer": "D",
+                "correct_answer": "B",
+                "is_correct": false,
+                "A": "Bằng 0",
+                "B": "Tiến ra vô cùng hoặc không tồn tại",
+                "C": "Là một số thực",
+                "D": "Bằng 1"
+            },
+            {
+                "question": "Tính nguyên hàm của f(x) = 2x?",
+                "student_answer": "D",
+                "correct_answer": "C",
+                "is_correct": false,
+                "A": "x^2",
+                "B": "2",
+                "C": "x^2 + C",
+                "D": "x"
+            },
+            {
+                "question": "Ma trận chuyển vị của ma trận hàng là ma trận gì?",
+                "student_answer": "C",
+                "correct_answer": "A",
+                "is_correct": false,
+                "A": "Ma trận cột",
+                "B": "Ma trận vuông",
+                "C": "Ma trận đường chéo",
+                "D": "Ma trận không"
+            },
+            {
+                "question": "Đạo hàm bậc hai của y = sin(x) là gì?",
+                "student_answer": "C",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "cos(x)",
+                "B": "-cos(x)",
+                "C": "sin(x)",
+                "D": "-sin(x)"
+            },
+            {
+                "question": "Trong không gian Euclid, độ dài của vectơ v=(3,4) là?",
+                "student_answer": "D",
+                "correct_answer": "B",
+                "is_correct": false,
+                "A": "3",
+                "B": "5",
+                "C": "4",
+                "D": "7"
+            },
+            {
+                "question": "Tích phân phân kỳ là tích phân có kết quả như thế nào?",
+                "student_answer": "C",
+                "correct_answer": "B",
+                "is_correct": false,
+                "A": "Bằng 0",
+                "B": "Tiến ra vô cùng hoặc không tồn tại",
+                "C": "Là một số thực",
+                "D": "Bằng 1"
+            },
+            {
+                "question": "Chuỗi số lượng giác Fourier dùng để biểu diễn các hàm số?",
+                "student_answer": "D",
+                "correct_answer": "D",
+                "is_correct": true,
+                "A": "Đơn điệu",
+                "B": "Không liên tục",
+                "C": "Đa thức",
+                "D": "Tuần hoàn"
+            },
+            {
+                "question": "Đạo hàm của hàm số y = e^x là gì?",
+                "student_answer": "D",
+                "correct_answer": "B",
+                "is_correct": false,
+                "A": "x * e^(x-1)",
+                "B": "e^x",
+                "C": "ln(x)",
+                "D": "1\/x"
+            },
+            {
+                "question": "Tìm đạo hàm của hàm số y = ln(x)?",
+                "student_answer": "B",
+                "correct_answer": "C",
+                "is_correct": false,
+                "A": "e^x",
+                "B": "1\/x^2",
+                "C": "1\/x",
+                "D": "ln(x)"
+            },
+            {
+                "question": "Hệ phương trình tuyến tính AX = B có vô số nghiệm khi nào?",
+                "student_answer": "B",
+                "correct_answer": "A",
+                "is_correct": false,
+                "A": "r(A) = r(A|B) < số ẩn",
+                "B": "r(A) = r(A|B) = số ẩn",
+                "C": "r(A) # r(A|B)",
+                "D": "det(A) # 0"
+            },
+            {
+                "question": "Công thức tính định thức ma trận cấp 2 [a, b; c, d] là?",
+                "student_answer": "A",
+                "correct_answer": "B",
+                "is_correct": false,
+                "A": "ab - cd",
+                "B": "ad - bc",
+                "C": "ac - bd",
+                "D": "ad + bc"
+            },
+            {
+                "question": "Không gian vectơ R^3 có số chiều bằng bao nhiêu?",
+                "student_answer": "A",
+                "correct_answer": "C",
+                "is_correct": false,
+                "A": "1",
+                "B": "2",
+                "C": "3",
+                "D": "4"
+            },
+            {
+                "question": "Hệ vectơ độc lập tuyến tính khi phương trình tích bằng 0 có?",
+                "student_answer": "B",
+                "correct_answer": "B",
+                "is_correct": true,
+                "A": "Vô số nghiệm",
+                "B": "Chỉ có nghiệm tầm thường (bằng 0)",
+                "C": "Hai nghiệm phân biệt",
+                "D": "Vô nghiệm"
+            },
+            {
+                "question": "Tiệm cận ngang của đồ thị hàm số y = 1\/x khi x tiến ra vô cùng là?",
+                "student_answer": "A",
+                "correct_answer": "A",
+                "is_correct": true,
+                "A": "y = 0",
+                "B": "y = 1",
+                "C": "x = 0",
+                "D": "Không có"
+            },
+            {
+                "question": "Hàm số y = x^3 - 3x có bao nhiêu điểm cực trị?",
+                "student_answer": "A",
+                "correct_answer": "A",
+                "is_correct": true,
+                "A": "2",
+                "B": "1",
+                "C": "0",
+                "D": "3"
+            },
+            {
+                "question": "Trong không gian Euclid, độ dài của vectơ v=(3,4) là?",
+                "student_answer": "A",
+                "correct_answer": "B",
+                "is_correct": false,
+                "A": "3",
+                "B": "5",
+                "C": "4",
+                "D": "7"
+            },
+            {
+                "question": "Chuỗi số lượng giác Fourier dùng để biểu diễn các hàm số?",
+                "student_answer": "A",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "Đơn điệu",
+                "B": "Không liên tục",
+                "C": "Đa thức",
+                "D": "Tuần hoàn"
+            },
+            {
+                "question": "Ma trận nghịch đảo của ma trận A tồn tại khi và chỉ khi?",
+                "student_answer": "D",
+                "correct_answer": "C",
+                "is_correct": false,
+                "A": "det(A) = 0",
+                "B": "A là ma trận không",
+                "C": "det(A) # 0",
+                "D": "A là ma trận hàng"
+            },
+            {
+                "question": "Vectơ nào sau đây là vectơ không trong không gian R^2?",
+                "student_answer": "C",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "(1,1)",
+                "B": "(0,1)",
+                "C": "(1,0)",
+                "D": "(0,0)"
+            },
+            {
+                "question": "Tìm vết (trace) của ma trận đơn vị cấp 3?",
+                "student_answer": "C",
+                "correct_answer": "B",
+                "is_correct": false,
+                "A": "1",
+                "B": "3",
+                "C": "0",
+                "D": "9"
+            },
+            {
+                "question": "Trong không gian Euclid, độ dài của vectơ v=(3,4) là?",
+                "student_answer": "C",
+                "correct_answer": "B",
+                "is_correct": false,
+                "A": "3",
+                "B": "5",
+                "C": "4",
+                "D": "7"
+            },
+            {
+                "question": "Hàm số nào sau đây luôn đồng biến trên R?",
+                "student_answer": "B",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "y = -x",
+                "B": "y = x^2",
+                "C": "y = 1\/x",
+                "D": "y = x^3 + x"
+            }
+        ]
+    },
+    {
+        "username": "1111111111",
+        "subject": "TOAN",
+        "correct": "6\/25",
+        "score": 2.4,
+        "time": "21:10:34 04\/06\/2026",
+        "details": [
+            {
+                "question": "Tính giới hạn của hàm số lim (x->0) (sin x) \/ x?",
+                "student_answer": "D",
+                "correct_answer": "A",
+                "is_correct": false,
+                "A": "1",
+                "B": "0",
+                "C": "Vô cùng",
+                "D": "Không tồn tại"
+            },
+            {
+                "question": "Hàm số nào sau đây luôn đồng biến trên R?",
+                "student_answer": "D",
+                "correct_answer": "D",
+                "is_correct": true,
+                "A": "y = -x",
+                "B": "y = x^2",
+                "C": "y = 1\/x",
+                "D": "y = x^3 + x"
+            },
+            {
+                "question": "Vectơ nào sau đây là vectơ không trong không gian R^2?",
+                "student_answer": "D",
+                "correct_answer": "D",
+                "is_correct": true,
+                "A": "(1,1)",
+                "B": "(0,1)",
+                "C": "(1,0)",
+                "D": "(0,0)"
+            },
+            {
+                "question": "Tích phân phân kỳ là tích phân có kết quả như thế nào?",
+                "student_answer": "D",
+                "correct_answer": "B",
+                "is_correct": false,
+                "A": "Bằng 0",
+                "B": "Tiến ra vô cùng hoặc không tồn tại",
+                "C": "Là một số thực",
+                "D": "Bằng 1"
+            },
+            {
+                "question": "Tính nguyên hàm của f(x) = 2x?",
+                "student_answer": "D",
+                "correct_answer": "C",
+                "is_correct": false,
+                "A": "x^2",
+                "B": "2",
+                "C": "x^2 + C",
+                "D": "x"
+            },
+            {
+                "question": "Ma trận chuyển vị của ma trận hàng là ma trận gì?",
+                "student_answer": "C",
+                "correct_answer": "A",
+                "is_correct": false,
+                "A": "Ma trận cột",
+                "B": "Ma trận vuông",
+                "C": "Ma trận đường chéo",
+                "D": "Ma trận không"
+            },
+            {
+                "question": "Đạo hàm bậc hai của y = sin(x) là gì?",
+                "student_answer": "C",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "cos(x)",
+                "B": "-cos(x)",
+                "C": "sin(x)",
+                "D": "-sin(x)"
+            },
+            {
+                "question": "Trong không gian Euclid, độ dài của vectơ v=(3,4) là?",
+                "student_answer": "D",
+                "correct_answer": "B",
+                "is_correct": false,
+                "A": "3",
+                "B": "5",
+                "C": "4",
+                "D": "7"
+            },
+            {
+                "question": "Tích phân phân kỳ là tích phân có kết quả như thế nào?",
+                "student_answer": "C",
+                "correct_answer": "B",
+                "is_correct": false,
+                "A": "Bằng 0",
+                "B": "Tiến ra vô cùng hoặc không tồn tại",
+                "C": "Là một số thực",
+                "D": "Bằng 1"
+            },
+            {
+                "question": "Chuỗi số lượng giác Fourier dùng để biểu diễn các hàm số?",
+                "student_answer": "D",
+                "correct_answer": "D",
+                "is_correct": true,
+                "A": "Đơn điệu",
+                "B": "Không liên tục",
+                "C": "Đa thức",
+                "D": "Tuần hoàn"
+            },
+            {
+                "question": "Đạo hàm của hàm số y = e^x là gì?",
+                "student_answer": "D",
+                "correct_answer": "B",
+                "is_correct": false,
+                "A": "x * e^(x-1)",
+                "B": "e^x",
+                "C": "ln(x)",
+                "D": "1\/x"
+            },
+            {
+                "question": "Tìm đạo hàm của hàm số y = ln(x)?",
+                "student_answer": "B",
+                "correct_answer": "C",
+                "is_correct": false,
+                "A": "e^x",
+                "B": "1\/x^2",
+                "C": "1\/x",
+                "D": "ln(x)"
+            },
+            {
+                "question": "Hệ phương trình tuyến tính AX = B có vô số nghiệm khi nào?",
+                "student_answer": "B",
+                "correct_answer": "A",
+                "is_correct": false,
+                "A": "r(A) = r(A|B) < số ẩn",
+                "B": "r(A) = r(A|B) = số ẩn",
+                "C": "r(A) # r(A|B)",
+                "D": "det(A) # 0"
+            },
+            {
+                "question": "Công thức tính định thức ma trận cấp 2 [a, b; c, d] là?",
+                "student_answer": "A",
+                "correct_answer": "B",
+                "is_correct": false,
+                "A": "ab - cd",
+                "B": "ad - bc",
+                "C": "ac - bd",
+                "D": "ad + bc"
+            },
+            {
+                "question": "Không gian vectơ R^3 có số chiều bằng bao nhiêu?",
+                "student_answer": "A",
+                "correct_answer": "C",
+                "is_correct": false,
+                "A": "1",
+                "B": "2",
+                "C": "3",
+                "D": "4"
+            },
+            {
+                "question": "Hệ vectơ độc lập tuyến tính khi phương trình tích bằng 0 có?",
+                "student_answer": "B",
+                "correct_answer": "B",
+                "is_correct": true,
+                "A": "Vô số nghiệm",
+                "B": "Chỉ có nghiệm tầm thường (bằng 0)",
+                "C": "Hai nghiệm phân biệt",
+                "D": "Vô nghiệm"
+            },
+            {
+                "question": "Tiệm cận ngang của đồ thị hàm số y = 1\/x khi x tiến ra vô cùng là?",
+                "student_answer": "A",
+                "correct_answer": "A",
+                "is_correct": true,
+                "A": "y = 0",
+                "B": "y = 1",
+                "C": "x = 0",
+                "D": "Không có"
+            },
+            {
+                "question": "Hàm số y = x^3 - 3x có bao nhiêu điểm cực trị?",
+                "student_answer": "A",
+                "correct_answer": "A",
+                "is_correct": true,
+                "A": "2",
+                "B": "1",
+                "C": "0",
+                "D": "3"
+            },
+            {
+                "question": "Trong không gian Euclid, độ dài của vectơ v=(3,4) là?",
+                "student_answer": "A",
+                "correct_answer": "B",
+                "is_correct": false,
+                "A": "3",
+                "B": "5",
+                "C": "4",
+                "D": "7"
+            },
+            {
+                "question": "Chuỗi số lượng giác Fourier dùng để biểu diễn các hàm số?",
+                "student_answer": "A",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "Đơn điệu",
+                "B": "Không liên tục",
+                "C": "Đa thức",
+                "D": "Tuần hoàn"
+            },
+            {
+                "question": "Ma trận nghịch đảo của ma trận A tồn tại khi và chỉ khi?",
+                "student_answer": "D",
+                "correct_answer": "C",
+                "is_correct": false,
+                "A": "det(A) = 0",
+                "B": "A là ma trận không",
+                "C": "det(A) # 0",
+                "D": "A là ma trận hàng"
+            },
+            {
+                "question": "Vectơ nào sau đây là vectơ không trong không gian R^2?",
+                "student_answer": "C",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "(1,1)",
+                "B": "(0,1)",
+                "C": "(1,0)",
+                "D": "(0,0)"
+            },
+            {
+                "question": "Tìm vết (trace) của ma trận đơn vị cấp 3?",
+                "student_answer": "C",
+                "correct_answer": "B",
+                "is_correct": false,
+                "A": "1",
+                "B": "3",
+                "C": "0",
+                "D": "9"
+            },
+            {
+                "question": "Trong không gian Euclid, độ dài của vectơ v=(3,4) là?",
+                "student_answer": "C",
+                "correct_answer": "B",
+                "is_correct": false,
+                "A": "3",
+                "B": "5",
+                "C": "4",
+                "D": "7"
+            },
+            {
+                "question": "Hàm số nào sau đây luôn đồng biến trên R?",
+                "student_answer": "B",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "y = -x",
+                "B": "y = x^2",
+                "C": "y = 1\/x",
+                "D": "y = x^3 + x"
+            }
+        ]
+    },
+    {
+        "username": "1111111111",
+        "subject": "TOAN",
+        "correct": "6\/25",
+        "score": 2.4,
+        "time": "16:08:28 04\/06\/2026",
+        "details": [
+            {
+                "question": "Tính giới hạn của hàm số lim (x->0) (sin x) \/ x?",
+                "student_answer": "D",
+                "correct_answer": "A",
+                "is_correct": false,
+                "A": "1",
+                "B": "0",
+                "C": "Vô cùng",
+                "D": "Không tồn tại"
+            },
+            {
+                "question": "Hàm số nào sau đây luôn đồng biến trên R?",
+                "student_answer": "D",
+                "correct_answer": "D",
+                "is_correct": true,
+                "A": "y = -x",
+                "B": "y = x^2",
+                "C": "y = 1\/x",
+                "D": "y = x^3 + x"
+            },
+            {
+                "question": "Vectơ nào sau đây là vectơ không trong không gian R^2?",
+                "student_answer": "D",
+                "correct_answer": "D",
+                "is_correct": true,
+                "A": "(1,1)",
+                "B": "(0,1)",
+                "C": "(1,0)",
+                "D": "(0,0)"
+            },
+            {
+                "question": "Tích phân phân kỳ là tích phân có kết quả như thế nào?",
+                "student_answer": "D",
+                "correct_answer": "B",
+                "is_correct": false,
+                "A": "Bằng 0",
+                "B": "Tiến ra vô cùng hoặc không tồn tại",
+                "C": "Là một số thực",
+                "D": "Bằng 1"
+            },
+            {
+                "question": "Tính nguyên hàm của f(x) = 2x?",
+                "student_answer": "D",
+                "correct_answer": "C",
+                "is_correct": false,
+                "A": "x^2",
+                "B": "2",
+                "C": "x^2 + C",
+                "D": "x"
+            },
+            {
+                "question": "Ma trận chuyển vị của ma trận hàng là ma trận gì?",
+                "student_answer": "C",
+                "correct_answer": "A",
+                "is_correct": false,
+                "A": "Ma trận cột",
+                "B": "Ma trận vuông",
+                "C": "Ma trận đường chéo",
+                "D": "Ma trận không"
+            },
+            {
+                "question": "Đạo hàm bậc hai của y = sin(x) là gì?",
+                "student_answer": "C",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "cos(x)",
+                "B": "-cos(x)",
+                "C": "sin(x)",
+                "D": "-sin(x)"
+            },
+            {
+                "question": "Trong không gian Euclid, độ dài của vectơ v=(3,4) là?",
+                "student_answer": "D",
+                "correct_answer": "B",
+                "is_correct": false,
+                "A": "3",
+                "B": "5",
+                "C": "4",
+                "D": "7"
+            },
+            {
+                "question": "Tích phân phân kỳ là tích phân có kết quả như thế nào?",
+                "student_answer": "C",
+                "correct_answer": "B",
+                "is_correct": false,
+                "A": "Bằng 0",
+                "B": "Tiến ra vô cùng hoặc không tồn tại",
+                "C": "Là một số thực",
+                "D": "Bằng 1"
+            },
+            {
+                "question": "Chuỗi số lượng giác Fourier dùng để biểu diễn các hàm số?",
+                "student_answer": "D",
+                "correct_answer": "D",
+                "is_correct": true,
+                "A": "Đơn điệu",
+                "B": "Không liên tục",
+                "C": "Đa thức",
+                "D": "Tuần hoàn"
+            },
+            {
+                "question": "Đạo hàm của hàm số y = e^x là gì?",
+                "student_answer": "D",
+                "correct_answer": "B",
+                "is_correct": false,
+                "A": "x * e^(x-1)",
+                "B": "e^x",
+                "C": "ln(x)",
+                "D": "1\/x"
+            },
+            {
+                "question": "Tìm đạo hàm của hàm số y = ln(x)?",
+                "student_answer": "B",
+                "correct_answer": "C",
+                "is_correct": false,
+                "A": "e^x",
+                "B": "1\/x^2",
+                "C": "1\/x",
+                "D": "ln(x)"
+            },
+            {
+                "question": "Hệ phương trình tuyến tính AX = B có vô số nghiệm khi nào?",
+                "student_answer": "B",
+                "correct_answer": "A",
+                "is_correct": false,
+                "A": "r(A) = r(A|B) < số ẩn",
+                "B": "r(A) = r(A|B) = số ẩn",
+                "C": "r(A) # r(A|B)",
+                "D": "det(A) # 0"
+            },
+            {
+                "question": "Công thức tính định thức ma trận cấp 2 [a, b; c, d] là?",
+                "student_answer": "A",
+                "correct_answer": "B",
+                "is_correct": false,
+                "A": "ab - cd",
+                "B": "ad - bc",
+                "C": "ac - bd",
+                "D": "ad + bc"
+            },
+            {
+                "question": "Không gian vectơ R^3 có số chiều bằng bao nhiêu?",
+                "student_answer": "A",
+                "correct_answer": "C",
+                "is_correct": false,
+                "A": "1",
+                "B": "2",
+                "C": "3",
+                "D": "4"
+            },
+            {
+                "question": "Hệ vectơ độc lập tuyến tính khi phương trình tích bằng 0 có?",
+                "student_answer": "B",
+                "correct_answer": "B",
+                "is_correct": true,
+                "A": "Vô số nghiệm",
+                "B": "Chỉ có nghiệm tầm thường (bằng 0)",
+                "C": "Hai nghiệm phân biệt",
+                "D": "Vô nghiệm"
+            },
+            {
+                "question": "Tiệm cận ngang của đồ thị hàm số y = 1\/x khi x tiến ra vô cùng là?",
+                "student_answer": "A",
+                "correct_answer": "A",
+                "is_correct": true,
+                "A": "y = 0",
+                "B": "y = 1",
+                "C": "x = 0",
+                "D": "Không có"
+            },
+            {
+                "question": "Hàm số y = x^3 - 3x có bao nhiêu điểm cực trị?",
+                "student_answer": "A",
+                "correct_answer": "A",
+                "is_correct": true,
+                "A": "2",
+                "B": "1",
+                "C": "0",
+                "D": "3"
+            },
+            {
+                "question": "Trong không gian Euclid, độ dài của vectơ v=(3,4) là?",
+                "student_answer": "A",
+                "correct_answer": "B",
+                "is_correct": false,
+                "A": "3",
+                "B": "5",
+                "C": "4",
+                "D": "7"
+            },
+            {
+                "question": "Chuỗi số lượng giác Fourier dùng để biểu diễn các hàm số?",
+                "student_answer": "A",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "Đơn điệu",
+                "B": "Không liên tục",
+                "C": "Đa thức",
+                "D": "Tuần hoàn"
+            },
+            {
+                "question": "Ma trận nghịch đảo của ma trận A tồn tại khi và chỉ khi?",
+                "student_answer": "D",
+                "correct_answer": "C",
+                "is_correct": false,
+                "A": "det(A) = 0",
+                "B": "A là ma trận không",
+                "C": "det(A) # 0",
+                "D": "A là ma trận hàng"
+            },
+            {
+                "question": "Vectơ nào sau đây là vectơ không trong không gian R^2?",
+                "student_answer": "C",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "(1,1)",
+                "B": "(0,1)",
+                "C": "(1,0)",
+                "D": "(0,0)"
+            },
+            {
+                "question": "Tìm vết (trace) của ma trận đơn vị cấp 3?",
+                "student_answer": "C",
+                "correct_answer": "B",
+                "is_correct": false,
+                "A": "1",
+                "B": "3",
+                "C": "0",
+                "D": "9"
+            },
+            {
+                "question": "Trong không gian Euclid, độ dài của vectơ v=(3,4) là?",
+                "student_answer": "C",
+                "correct_answer": "B",
+                "is_correct": false,
+                "A": "3",
+                "B": "5",
+                "C": "4",
+                "D": "7"
+            },
+            {
+                "question": "Hàm số nào sau đây luôn đồng biến trên R?",
+                "student_answer": "B",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "y = -x",
+                "B": "y = x^2",
+                "C": "y = 1\/x",
+                "D": "y = x^3 + x"
+            }
+        ]
+    },
+    {
+        "username": "1111111111",
+        "subject": "TOAN",
+        "correct": "6\/25",
+        "score": 2.4,
+        "time": "16:06:37 04\/06\/2026",
+        "details": [
+            {
+                "question": "Tính giới hạn của hàm số lim (x->0) (sin x) \/ x?",
+                "student_answer": "D",
+                "correct_answer": "A",
+                "is_correct": false,
+                "A": "1",
+                "B": "0",
+                "C": "Vô cùng",
+                "D": "Không tồn tại"
+            },
+            {
+                "question": "Hàm số nào sau đây luôn đồng biến trên R?",
+                "student_answer": "D",
+                "correct_answer": "D",
+                "is_correct": true,
+                "A": "y = -x",
+                "B": "y = x^2",
+                "C": "y = 1\/x",
+                "D": "y = x^3 + x"
+            },
+            {
+                "question": "Vectơ nào sau đây là vectơ không trong không gian R^2?",
+                "student_answer": "D",
+                "correct_answer": "D",
+                "is_correct": true,
+                "A": "(1,1)",
+                "B": "(0,1)",
+                "C": "(1,0)",
+                "D": "(0,0)"
+            },
+            {
+                "question": "Tích phân phân kỳ là tích phân có kết quả như thế nào?",
+                "student_answer": "D",
+                "correct_answer": "B",
+                "is_correct": false,
+                "A": "Bằng 0",
+                "B": "Tiến ra vô cùng hoặc không tồn tại",
+                "C": "Là một số thực",
+                "D": "Bằng 1"
+            },
+            {
+                "question": "Tính nguyên hàm của f(x) = 2x?",
+                "student_answer": "D",
+                "correct_answer": "C",
+                "is_correct": false,
+                "A": "x^2",
+                "B": "2",
+                "C": "x^2 + C",
+                "D": "x"
+            },
+            {
+                "question": "Ma trận chuyển vị của ma trận hàng là ma trận gì?",
+                "student_answer": "C",
+                "correct_answer": "A",
+                "is_correct": false,
+                "A": "Ma trận cột",
+                "B": "Ma trận vuông",
+                "C": "Ma trận đường chéo",
+                "D": "Ma trận không"
+            },
+            {
+                "question": "Đạo hàm bậc hai của y = sin(x) là gì?",
+                "student_answer": "C",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "cos(x)",
+                "B": "-cos(x)",
+                "C": "sin(x)",
+                "D": "-sin(x)"
+            },
+            {
+                "question": "Trong không gian Euclid, độ dài của vectơ v=(3,4) là?",
+                "student_answer": "D",
+                "correct_answer": "B",
+                "is_correct": false,
+                "A": "3",
+                "B": "5",
+                "C": "4",
+                "D": "7"
+            },
+            {
+                "question": "Tích phân phân kỳ là tích phân có kết quả như thế nào?",
+                "student_answer": "C",
+                "correct_answer": "B",
+                "is_correct": false,
+                "A": "Bằng 0",
+                "B": "Tiến ra vô cùng hoặc không tồn tại",
+                "C": "Là một số thực",
+                "D": "Bằng 1"
+            },
+            {
+                "question": "Chuỗi số lượng giác Fourier dùng để biểu diễn các hàm số?",
+                "student_answer": "D",
+                "correct_answer": "D",
+                "is_correct": true,
+                "A": "Đơn điệu",
+                "B": "Không liên tục",
+                "C": "Đa thức",
+                "D": "Tuần hoàn"
+            },
+            {
+                "question": "Đạo hàm của hàm số y = e^x là gì?",
+                "student_answer": "D",
+                "correct_answer": "B",
+                "is_correct": false,
+                "A": "x * e^(x-1)",
+                "B": "e^x",
+                "C": "ln(x)",
+                "D": "1\/x"
+            },
+            {
+                "question": "Tìm đạo hàm của hàm số y = ln(x)?",
+                "student_answer": "B",
+                "correct_answer": "C",
+                "is_correct": false,
+                "A": "e^x",
+                "B": "1\/x^2",
+                "C": "1\/x",
+                "D": "ln(x)"
+            },
+            {
+                "question": "Hệ phương trình tuyến tính AX = B có vô số nghiệm khi nào?",
+                "student_answer": "B",
+                "correct_answer": "A",
+                "is_correct": false,
+                "A": "r(A) = r(A|B) < số ẩn",
+                "B": "r(A) = r(A|B) = số ẩn",
+                "C": "r(A) # r(A|B)",
+                "D": "det(A) # 0"
+            },
+            {
+                "question": "Công thức tính định thức ma trận cấp 2 [a, b; c, d] là?",
+                "student_answer": "A",
+                "correct_answer": "B",
+                "is_correct": false,
+                "A": "ab - cd",
+                "B": "ad - bc",
+                "C": "ac - bd",
+                "D": "ad + bc"
+            },
+            {
+                "question": "Không gian vectơ R^3 có số chiều bằng bao nhiêu?",
+                "student_answer": "A",
+                "correct_answer": "C",
+                "is_correct": false,
+                "A": "1",
+                "B": "2",
+                "C": "3",
+                "D": "4"
+            },
+            {
+                "question": "Hệ vectơ độc lập tuyến tính khi phương trình tích bằng 0 có?",
+                "student_answer": "B",
+                "correct_answer": "B",
+                "is_correct": true,
+                "A": "Vô số nghiệm",
+                "B": "Chỉ có nghiệm tầm thường (bằng 0)",
+                "C": "Hai nghiệm phân biệt",
+                "D": "Vô nghiệm"
+            },
+            {
+                "question": "Tiệm cận ngang của đồ thị hàm số y = 1\/x khi x tiến ra vô cùng là?",
+                "student_answer": "A",
+                "correct_answer": "A",
+                "is_correct": true,
+                "A": "y = 0",
+                "B": "y = 1",
+                "C": "x = 0",
+                "D": "Không có"
+            },
+            {
+                "question": "Hàm số y = x^3 - 3x có bao nhiêu điểm cực trị?",
+                "student_answer": "A",
+                "correct_answer": "A",
+                "is_correct": true,
+                "A": "2",
+                "B": "1",
+                "C": "0",
+                "D": "3"
+            },
+            {
+                "question": "Trong không gian Euclid, độ dài của vectơ v=(3,4) là?",
+                "student_answer": "A",
+                "correct_answer": "B",
+                "is_correct": false,
+                "A": "3",
+                "B": "5",
+                "C": "4",
+                "D": "7"
+            },
+            {
+                "question": "Chuỗi số lượng giác Fourier dùng để biểu diễn các hàm số?",
+                "student_answer": "A",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "Đơn điệu",
+                "B": "Không liên tục",
+                "C": "Đa thức",
+                "D": "Tuần hoàn"
+            },
+            {
+                "question": "Ma trận nghịch đảo của ma trận A tồn tại khi và chỉ khi?",
+                "student_answer": "D",
+                "correct_answer": "C",
+                "is_correct": false,
+                "A": "det(A) = 0",
+                "B": "A là ma trận không",
+                "C": "det(A) # 0",
+                "D": "A là ma trận hàng"
+            },
+            {
+                "question": "Vectơ nào sau đây là vectơ không trong không gian R^2?",
+                "student_answer": "C",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "(1,1)",
+                "B": "(0,1)",
+                "C": "(1,0)",
+                "D": "(0,0)"
+            },
+            {
+                "question": "Tìm vết (trace) của ma trận đơn vị cấp 3?",
+                "student_answer": "C",
+                "correct_answer": "B",
+                "is_correct": false,
+                "A": "1",
+                "B": "3",
+                "C": "0",
+                "D": "9"
+            },
+            {
+                "question": "Trong không gian Euclid, độ dài của vectơ v=(3,4) là?",
+                "student_answer": "C",
+                "correct_answer": "B",
+                "is_correct": false,
+                "A": "3",
+                "B": "5",
+                "C": "4",
+                "D": "7"
+            },
+            {
+                "question": "Hàm số nào sau đây luôn đồng biến trên R?",
+                "student_answer": "B",
+                "correct_answer": "D",
+                "is_correct": false,
+                "A": "y = -x",
+                "B": "y = x^2",
+                "C": "y = 1\/x",
+                "D": "y = x^3 + x"
+            }
+        ]
+    },
+    {
+        "username": "1111111111",
+        "subject": "TOAN",
+        "correct": "11\/25",
+        "score": 4.4,
+        "time": "15:58:32 04\/06\/2026"
+    },
+    {
+        "username": "1111111111",
+        "subject": "TOAN",
+        "correct": "0\/24",
+        "score": 0,
+        "time": "15:52:49 04\/06\/2026"
+    },
+    {
+        "username": "1111111111",
+        "subject": "TOAN",
+        "correct": "0\/24",
+        "score": 0,
+        "time": "15:52:40 04\/06\/2026"
+    },
+    {
+        "username": "1111111111",
+        "subject": "TOAN",
+        "correct": "2\/24",
+        "score": 0.83,
+        "time": "08:32:02 04\/06\/2026"
+    },
+    {
+        "username": "1111111111",
+        "subject": "TOAN",
+        "correct": "0\/24",
+        "score": 0,
+        "time": "08:29:42 04\/06\/2026"
+    },
+    {
+        "username": "1111111111",
+        "subject": "TOAN",
+        "correct": "1\/24",
+        "score": 0.42,
+        "time": "07:52:28 04\/06\/2026"
+    },
+    {
+        "username": "1111111111",
+        "subject": "TOAN",
+        "correct": "1\/24",
+        "score": 0.42,
+        "time": "07:51:54 04\/06\/2026"
+    },
+    {
+        "username": "1111111111",
+        "subject": "TOAN",
+        "correct": "1\/24",
+        "score": 0.42,
+        "time": "07:51:42 04\/06\/2026"
+    },
+    {
+        "username": "1111111111",
+        "subject": "TOAN",
         "correct": "0\/24",
         "score": 0,
         "time": "18:07:54 28\/05\/2026"
