@@ -36,7 +36,7 @@ if (file_exists($activeSessionsFile)) {
 <html lang="vi">
 <head>
     <meta charset="UTF-8">
-    <title>Kết Quả Bài Thi - NGUYÊN HỘI</title>
+    <title>Kết Quả Bài Thi</title>
     <link rel="stylesheet" href="assets/css/main.css">
     <style>
         * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Segoe UI', system-ui, sans-serif; }
@@ -72,7 +72,6 @@ if (file_exists($activeSessionsFile)) {
 </head>
 <body>
     <div class="result-container">
-        <div class="brand">CORE DEV POWERED BY <span>NGUYÊN HỘI</span></div>
         <h2>HOÀN THÀNH KIỂM TRA 🎉</h2>
         <div class="score-box"><?php echo htmlspecialchars($score); ?></div>
         <div class="details">
